@@ -1,0 +1,26 @@
+name: "iOS Bump Version"
+description: "update Xcode Project version and build number"
+inputs:
+  version:
+    description: "new version string"
+    required: false
+  version-path:
+    description: "file path that new version string located "
+    required: false
+  build-number:
+    description: "new build number. if not set, automatically increment"
+    required: false
+  project-path:
+    description: "change project path"
+    required: false
+outputs:
+  version:
+    description: "new version string"
+  build-number:
+    description: "new build number"
+runs:
+  using: "node16"
+  main: "dist/index.js"
+branding:
+  icon: "arrow-up"
+  color: "black"
