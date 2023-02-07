@@ -1,0 +1,24 @@
+name: "Xcode Install Simulator"
+description: "Installs simulator for Xcode developers"
+inputs:
+  ios_version:
+    description: "Version specifier"
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - name: Cache
+      uses: actions/cache@v3
+      with:
+        path: "~/Downloads"
+        key: ${{ runner.os }}-runtimes-downloads-${{ inputs.ios_version }}        
+    - name: Install Xcodes
+      shell: bash
+      run: |
+        brew install aria2
+        brew tap robotsandpencils/made
+        brew install robotsandpencils/made/xcodes
+    - name: Install Simulator
+      shell: bash
+      run: sudo xcodes runtimes install --keep-archive 'iOS ${{ inputs.ios_version }}'

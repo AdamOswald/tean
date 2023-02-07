@@ -1,0 +1,18 @@
+name: 'Setup Xcode environment'
+description: 'Setup a Xcode environment and optionally downloading'
+branding:
+  icon: 'feather'
+  color: 'orange'
+inputs: 
+  xcode-version:
+    description: 'Exact version of a Ruby version to use.'
+    required: true
+  apple-id:
+    description: 'Apple ID to download Xcode from Apple Developer.'
+    optional: true
+  apple-id-password:
+    description: 'Apple ID password to download Xcode from Apple Developer.'
+    optional: true
+runs:
+  using: 'node12'
+  main: 'dist/index.js'

@@ -1,0 +1,34 @@
+name: "Update Xcode Version"
+description: "Update Xcode versions used in GitHub Actions workflows"
+inputs:
+  xcode-versions-file:
+    required: true
+    description: "The path to a .yml file that describes which versions should be applied to which files."
+    default: ".github/xcode-versions.yml"
+  xcode-search-path:
+    required: true
+    description: "The path to search for Xcode versions in."
+    default: "/Applications"
+  github-token:
+    description: "If provided will create a pull request with the changes."
+  xcode-version-badge-path:
+    description: "If provided will generate a badge at the provided path."
+  xcode-version-badge-markdown-file:
+    description: "If provided the action will replace any lines containing <!---xcode-version-badge-markdown--> with the markdown necessary to render a supported versions badge."
+  xcode-version-badge-versions:
+    description: "The version(s) to display in the generated badge. Provide multiple versions by separating with commas."
+    default: latest
+  quotes:
+    describes: "Which types of quotes to use when modifying the YAML."
+    default: "double"
+outputs:
+  pull-request-url:
+    description: The URL to the created/updated pull request
+  pull-request-id:
+    description: The ID of the created/updated pull request
+runs:
+  using: "node16"
+  main: "dist/index.js"
+branding:
+  icon: "arrow-up"
+  color: "orange"
