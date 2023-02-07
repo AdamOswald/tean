@@ -18,22 +18,32 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-name: 'Apple Xcode Staple'
-description: 'Attach ticket for notarized executables to app bundles, disk images, and packages.'
+name: 'Xcode Build'
+description: 'Build your Xcode project'
 
 branding:
   icon: 'command'
   color: 'blue'
 
 inputs:
-  product-path:
-    description: "Path to the product to be stapled."
-    required: true
-  verbose:
-    description: "Be verbose about the staple process."
+  workspace:
+    description: 'Workspace'
     required: false
-    default: false
+  project:
+    description: 'Project'
+    required: false
+  scheme:
+    description: 'Scheme'
+    required: false
+  configuration:
+    description: 'Configuration'
+    required: false
+
+  code-sign-identity:
+    description: 'Code sign identity'
+    required: false
+    default: '-'
 
 runs:
-  using: 'node16'
+  using: 'node12'
   main: 'dist/index.js'

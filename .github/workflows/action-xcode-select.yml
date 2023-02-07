@@ -18,22 +18,23 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-name: 'Apple Xcode Staple'
-description: 'Attach ticket for notarized executables to app bundles, disk images, and packages.'
-
 branding:
-  icon: 'command'
-  color: 'blue'
+  icon: "command"
+  color: "blue"
+
+name: "Apple Xcode Select"
+description: "Select a version of Xcode"
 
 inputs:
-  product-path:
-    description: "Path to the product to be stapled."
-    required: true
-  verbose:
-    description: "Be verbose about the staple process."
+  version:
+    description: "Version to use (like '11.7', '12' or simply 'latest')"
     required: false
-    default: false
+    default: "latest"
+  beta:
+    description: "Whether to select a beta release or not. Beta releases may not always be available."
+    required: false
+    default: "false"
 
 runs:
-  using: 'node16'
-  main: 'dist/index.js'
+  using: "node16"
+  main: "dist/index.js"

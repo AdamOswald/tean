@@ -18,8 +18,8 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-name: 'Apple Xcode Staple'
-description: 'Attach ticket for notarized executables to app bundles, disk images, and packages.'
+name: 'Xcode Notarize'
+description: 'Notarize your Mac application or plugin.'
 
 branding:
   icon: 'command'
@@ -27,13 +27,36 @@ branding:
 
 inputs:
   product-path:
-    description: "Path to the product to be stapled."
+    description: "Path to the product to notarize."
     required: true
+
+  appstore-connect-username:
+    description: 'The AppStore Connect username.'
+    required: false
+  appstore-connect-password:
+    description: 'The AppStore Connect password.'
+    required: false
+
+  appstore-connect-api-key:
+    description: 'The AppStore Connect API Key.'
+    required: false
+  appstore-connect-api-issuer:
+    description: 'The AppStore Connect API Issuer.'
+    required: false
+
+  primary-bundle-id:
+    description: 'Unique identifier that identifies this product notarization. Defaults to the bundle identifier of the app you are uploading.'
+    required: false
+
   verbose:
-    description: "Be verbose about the staple process."
+    description: "Verbose mode will print Notarization API responses."
     required: false
     default: false
 
+outputs:
+  product-path:
+    description: "Path to the product that was notarized"
+
 runs:
-  using: 'node16'
+  using: 'node12'
   main: 'dist/index.js'

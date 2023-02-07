@@ -1,0 +1,68 @@
+name: 'setup-xcode-environment-github-action'
+description: 'This action installs the provisioning profile and certificate required to build Xcode.
+'
+inputs:
+  type:
+    description: >
+      Define the profile type,
+      can be appstore, adhoc, development, enterprise, developer_id, mac_installer_distribution
+    required: true
+  app-identifier:
+    description: >
+      The bundle identifier(s) of your app (comma-separated string or array of strings)
+    required: true
+  team-id:
+    description: >
+      The ID of your Developer Portal team if you're in multiple teams.
+    required: true
+  p12-base64:
+    required: false
+    default: ''
+  p12-password:
+    required: false
+    default: ''
+  provisioning-profile-base64:
+    required: false
+    default: ''
+  git-url:
+    description: >
+      URL to the git repo containing all the certificates.
+    required: false
+    default: ''
+  git-passphrase:
+    description: >
+      When running match for the first time on a new machine,
+      it will ask you for the passphrase for the Git repository.
+      This is an additional layer of security: each of the files will be encrypted using openssl.
+    required: false
+    default: ''
+  git-branch:
+    description: >
+      Specific git branch to use.
+    required: false
+    default: 'master'
+  keychain:
+    description: >
+      Path of the keychain to use. If omitted, the default login keychain is used.
+    required: false
+    default: ''
+  keychain-password:
+    description: >
+      Password for the keychain if specified in the keychain parameter;
+      default login keychain password if the kerchain parameter is omitted.
+    required: true
+    default: ''
+outputs:
+  provisioning-profile:
+    description: 'The file path for Provisioning Profile.'
+  provisioning-profile-uuid:
+    description: 'The UUID for Provisioning Profile.'
+  provisioning-profile-name:
+    description: 'The Name for Provisioning Profile.'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
+  post: 'dist/index.js'
+branding:
+  icon: "download"
+  color: "orange"
