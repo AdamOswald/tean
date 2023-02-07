@@ -1,0 +1,12 @@
+name: 'Setup Swift environment'
+description: 'Setup a Swift environment and optionally downloading and adding it to the PATH'
+branding:
+  icon: 'feather'
+  color: 'orange'
+inputs:
+  swift-version:
+    description: 'Exact version of a Swift version to use.'
+    required: false
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
