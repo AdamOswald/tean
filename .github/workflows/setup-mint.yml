@@ -1,0 +1,30 @@
+name: 'Setup Mint Swift Package Manager'
+description: 'Set up mint swift package manager'
+author: 'irgaly'
+branding:
+  icon: 'download'
+  color: 'green'
+inputs:
+  mint-directory:
+    description: 'a directory of Mintfile'
+    required: false
+    default: '.'
+  bootstrap:
+    description: 'execute mint bootstrap'
+    required: false
+    default: 'true'
+  use-cache:
+    description: 'Cache installed swift tools'
+    required: false
+    default: 'true'
+  cache-prefix:
+    description: 'Cache key prefix'
+    required: false
+    default: ''
+  clean:
+    description: 'uninstall commands which is not in Mintfile'
+    required: false
+    default: 'true'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'

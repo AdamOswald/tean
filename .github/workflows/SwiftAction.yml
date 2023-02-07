@@ -1,0 +1,16 @@
+name: 'Swift Action'
+description: 'Provides Swift support for GitHub Actions.'
+author: 'Didstopia'
+branding:
+  icon: 'code'  
+  color: 'orange'
+inputs:
+  swift-action:
+    description: 'Swift action to run'
+    required: true
+    default: 'build'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.swift-action }}

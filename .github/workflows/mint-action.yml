@@ -1,0 +1,19 @@
+name: 'Mint: Swift package installer'
+description: 'Installs a Swift package using the Mint installer'
+branding:
+  icon: package
+  color: green
+inputs:
+  package:
+    description: 'The package to be installed. An optional version can be specified by appending @version to the repo, otherwise the newest tag will be used (or master if no tags are found.)'
+    required: true
+  mint-version:
+    description: 'The version of Mint to install.'
+    required: false
+runs:
+  using: "composite"
+  steps:
+    - run: $GITHUB_ACTION_PATH/install-mint.sh ${{ inputs.mint-version }}
+      shell: bash
+    - run: mint install ${{ inputs.package }}
+      shell: bash

@@ -1,0 +1,30 @@
+name: 'swift-package-dependencies-check'
+description: 'Catch up with outdated versions based on your package dependency requirements'
+branding:
+  icon: "package"
+  color: "purple"
+inputs:
+  isMutating:
+    description: 'Modify Package.resolved in case of new versions'
+    required: false
+    default: false
+  failWhenOutdated:
+    description: 'Action will fail if outdated dependencies were detected.'
+    required: false
+    default: true
+  directory:
+    description: 'The path to the directory where you want the swift commands to be run'
+    required: false
+    default: '.'
+outputs:
+  outdatedDependencies:
+    description: 'Boolean if any dependency is outdated'
+  releaseNotes:
+    description: 'Textual result of SwiftPackageIndex/ReleaseNotes. Supplied if input parameter `isMutatingoutdated` was set to true and outdated dependencies were detected during action run.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.isMutating }}
+    - ${{ inputs.failWhenOutdated }}
+    - ${{ inputs.directory }}
