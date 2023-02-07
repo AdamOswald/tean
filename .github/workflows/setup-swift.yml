@@ -1,16 +1,16 @@
-name: Setup Swift(beta)
+name: Setup Swift
 description: Setup a Swift environment on Ubuntu or macOS 
 author: Frederik Wallner
 inputs:
   swift-version: 
     description: Swift version to configure
     required: true
-    default: '5.6.1'
+    default: '5.7.2'
 outputs:
   version:
     description: The full Swift version that was configured
 runs:
-  using: node12
+  using: node16
   main: dist/index.js
 branding:
   icon: 'command'  
