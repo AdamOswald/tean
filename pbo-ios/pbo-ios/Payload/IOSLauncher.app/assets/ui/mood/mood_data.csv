@@ -1,0 +1,17 @@
+Item Name,Pack ID,Display Name,Premium,Requires Base
+,1,Default,FALSE,TRUE
+Pikachu Mood Pack,2,Pikachu,TRUE,FALSE
+Eevee Mood Pack,3,Eevee,TRUE,FALSE
+Lucario Mood Pack,4,Lucario,TRUE,FALSE
+Gengar Mood Pack,5,Gengar,TRUE,FALSE
+Shaymin Mood Pack,6,Shaymin,TRUE,FALSE
+Squirtle Squad Mood Pack,7,Squirtle Squad,TRUE,FALSE
+Pikachu Mood Pack (V2),8,Pikachu V2,TRUE,FALSE
+Umbreon Mood Pack,9,Umbreon,TRUE,FALSE
+Bulbasaur Mood Pack,10,Bulbasaur,TRUE,FALSE
+Squirtle Mood Pack (Easter),11,Easter Squirtle,TRUE,FALSE
+Bulbasaur Mood Pack (Easter),12,Easter Bulbasaur,TRUE,FALSE
+Charmander Mood Pack (Easter),13,Easter Charmander,TRUE,FALSE
+Pikachu Mood Pack (Easter),14,Easter Pikachu,TRUE,FALSE
+Togepi Mood Pack (Easter),15,Easter Togepi,TRUE,FALSE
+Eeveelutions Mood Pack (Easter),16,Easter Eeveelutions,TRUE,FALSE
