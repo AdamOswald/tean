@@ -1,0 +1,804 @@
+
+donator_pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+100 Donator Gem Box
+  rotate: false
+  xy: 200, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+1000 Donator Gem Box
+  rotate: false
+  xy: 266, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+250 Donator Gem Box
+  rotate: false
+  xy: 332, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+42
+  rotate: false
+  xy: 2, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+500 Donator Gem Box
+  rotate: false
+  xy: 398, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+627
+  rotate: false
+  xy: 2, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+633
+  rotate: false
+  xy: 68, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+640
+  rotate: false
+  xy: 2, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+641
+  rotate: false
+  xy: 68, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+642
+  rotate: false
+  xy: 134, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+643
+  rotate: false
+  xy: 2, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+743
+  rotate: false
+  xy: 68, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+744
+  rotate: false
+  xy: 134, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+745
+  rotate: false
+  xy: 200, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+746
+  rotate: false
+  xy: 2, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+747
+  rotate: false
+  xy: 68, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+748
+  rotate: false
+  xy: 134, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+749
+  rotate: false
+  xy: 200, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+750 Donator Gem Box
+  rotate: false
+  xy: 464, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+751
+  rotate: false
+  xy: 266, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+756
+  rotate: false
+  xy: 2, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+761
+  rotate: false
+  xy: 68, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+762
+  rotate: false
+  xy: 134, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+763
+  rotate: false
+  xy: 200, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+764
+  rotate: false
+  xy: 266, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+765
+  rotate: false
+  xy: 332, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+766
+  rotate: false
+  xy: 2, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+767
+  rotate: false
+  xy: 68, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+768
+  rotate: false
+  xy: 134, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+769
+  rotate: false
+  xy: 200, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+770
+  rotate: false
+  xy: 266, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+771
+  rotate: false
+  xy: 332, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+772
+  rotate: false
+  xy: 398, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+773
+  rotate: false
+  xy: 2, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+774
+  rotate: false
+  xy: 68, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+775
+  rotate: false
+  xy: 134, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+776
+  rotate: false
+  xy: 200, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+777
+  rotate: false
+  xy: 266, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+778
+  rotate: false
+  xy: 332, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+783
+  rotate: false
+  xy: 398, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+784
+  rotate: false
+  xy: 464, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+785
+  rotate: false
+  xy: 2, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+786
+  rotate: false
+  xy: 68, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+878
+  rotate: false
+  xy: 134, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Alain Costume Bundle
+  rotate: false
+  xy: 530, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Blaze Coin
+  rotate: false
+  xy: 2, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bulma Costume Bundle
+  rotate: false
+  xy: 68, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Caveman Costume Bundle
+  rotate: false
+  xy: 134, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cavewoman Costume Bundle
+  rotate: false
+  xy: 200, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Dark Fnaf Bear Costume Bundle
+  rotate: false
+  xy: 266, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Dementor Costume Bundle (Female)
+  rotate: false
+  xy: 332, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Dementor Costume Bundle (Male)
+  rotate: false
+  xy: 398, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Devil Costume Bundle (Female)
+  rotate: false
+  xy: 464, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Devil Costume Bundle (Male)
+  rotate: false
+  xy: 530, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Furry Bear Costume Bundle
+  rotate: false
+  xy: 596, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Gengar Costume Bundle (Female)
+  rotate: false
+  xy: 2, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Gengar Costume Bundle (Male)
+  rotate: false
+  xy: 68, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Ghost Rider Bundle
+  rotate: false
+  xy: 134, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Greninja Shinobi Costume Bundle
+  rotate: false
+  xy: 200, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Halloween Mystery Chest
+  rotate: false
+  xy: 266, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Harley Quinn Costume Bundle (Female)
+  rotate: false
+  xy: 332, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Hitman Costume Bundle
+  rotate: false
+  xy: 398, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Jack Skellington Costume Bundle
+  rotate: false
+  xy: 464, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Joker Costume Bundle (Male)
+  rotate: false
+  xy: 530, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Lure
+  rotate: false
+  xy: 596, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Lure Stack
+  rotate: false
+  xy: 662, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mimikyu Costume Bundle
+  rotate: false
+  xy: 2, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Morigan Aensland Costume Bundle
+  rotate: false
+  xy: 68, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mummy Costume Bundle (Female)
+  rotate: false
+  xy: 134, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mummy Costume Bundle (Male)
+  rotate: false
+  xy: 200, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PBO Trade House Membership
+  rotate: false
+  xy: 266, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PBO Trade House Membership Bundle-1
+  rotate: false
+  xy: 332, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PBO Trade House Membership Bundle-2
+  rotate: false
+  xy: 398, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PBO Trade House Membership Bundle-3
+  rotate: false
+  xy: 464, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PBO game pass
+  rotate: false
+  xy: 530, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Panda Costume Bundle
+  rotate: false
+  xy: 596, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Pokemon Gamble Box
+  rotate: false
+  xy: 662, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Pokemon Gamble Bundle
+  rotate: false
+  xy: 728, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (August)
+  rotate: false
+  xy: 2, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Autumn 2021 V2)
+  rotate: false
+  xy: 68, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Autumn 2021)
+  rotate: false
+  xy: 134, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (December)
+  rotate: false
+  xy: 200, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Easter 2021)
+  rotate: false
+  xy: 266, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Easter 2022)
+  rotate: false
+  xy: 332, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (February)
+  rotate: false
+  xy: 398, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Halloween 2021)
+  rotate: false
+  xy: 464, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (January)
+  rotate: false
+  xy: 530, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (March 2022)
+  rotate: false
+  xy: 596, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (November)
+  rotate: false
+  xy: 662, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (October)
+  rotate: false
+  xy: 728, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (September)
+  rotate: false
+  xy: 794, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Spring 2021)
+  rotate: false
+  xy: 2, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Summer 2021 V2)
+  rotate: false
+  xy: 68, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Summer 2021 V3)
+  rotate: false
+  xy: 134, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Summer 2021)
+  rotate: false
+  xy: 200, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Premium Game Pass (Valentines 2022)
+  rotate: false
+  xy: 266, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Serena Costume Bundle
+  rotate: false
+  xy: 332, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Stitch Costume Bundle
+  rotate: false
+  xy: 398, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Swarm Flute
+  rotate: false
+  xy: 464, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+abomasnow-costume-bundle
+  rotate: false
+  xy: 530, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+android-18-costume-bundle
+  rotate: false
+  xy: 596, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+beerus-costume-bundle
+  rotate: false
+  xy: 662, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+broly-costume-bundle
+  rotate: false
+  xy: 728, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+caulifula-costume-bundle
+  rotate: false
+  xy: 794, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+goku-costume-bundle
+  rotate: false
+  xy: 860, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+grinch-costume-bundle
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+incineroar-costume-bundle-(female)
+  rotate: false
+  xy: 68, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+incineroar-costume-bundle-(male)
+  rotate: false
+  xy: 134, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+iv-randomizer
+  rotate: false
+  xy: 200, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+kale-costume-bundle
+  rotate: false
+  xy: 266, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+map-bomb
+  rotate: false
+  xy: 332, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+officer-jenny-costume-bundle
+  rotate: false
+  xy: 398, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+vados-costume-bundle
+  rotate: false
+  xy: 464, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+vegeta-costume-bundle
+  rotate: false
+  xy: 530, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

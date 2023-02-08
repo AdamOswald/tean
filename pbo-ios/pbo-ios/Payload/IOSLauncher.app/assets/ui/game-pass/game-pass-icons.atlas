@@ -1,0 +1,957 @@
+
+game-pass-icons.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1-hour-global-exp-boost
+  rotate: false
+  xy: 374, 922
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+1-hourglobalexpboost
+  rotate: false
+  xy: 466, 922
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+alolanexeggutormount
+  rotate: false
+  xy: 536, 922
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+autumncape(female)
+  rotate: false
+  xy: 628, 922
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+autumncape(male)
+  rotate: false
+  xy: 720, 922
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+autumnleafeonears
+  rotate: false
+  xy: 812, 922
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+autumnleafeonmount
+  rotate: false
+  xy: 904, 922
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+autumnleafeontail
+  rotate: false
+  xy: 59, 860
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+blazecoin
+  rotate: false
+  xy: 151, 860
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+bluefloaty
+  rotate: false
+  xy: 243, 860
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+bluk-berry-10
+  rotate: false
+  xy: 427, 830
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+bluk-berry-5
+  rotate: false
+  xy: 335, 830
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+bronzeblazechest
+  rotate: false
+  xy: 519, 830
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+bulbasaurmoodpack
+  rotate: false
+  xy: 611, 830
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+candy
+  rotate: false
+  xy: 64, 952
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+cash
+  rotate: false
+  xy: 703, 830
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+celebibox
+  rotate: false
+  xy: 795, 830
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+christmaswings(female)
+  rotate: false
+  xy: 887, 830
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+christmaswings(male)
+  rotate: false
+  xy: 59, 768
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+comfeyhat
+  rotate: false
+  xy: 151, 768
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+dragonscale
+  rotate: false
+  xy: 243, 768
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+duskulloverhead
+  rotate: false
+  xy: 335, 738
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+duskulloverhead(shiny)
+  rotate: false
+  xy: 427, 738
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+elfoverhead
+  rotate: false
+  xy: 519, 738
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+evolutionstonechest
+  rotate: false
+  xy: 126, 952
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+full-heal-3
+  rotate: false
+  xy: 611, 738
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+fullevreset
+  rotate: false
+  xy: 703, 738
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+fullheal
+  rotate: false
+  xy: 795, 738
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+gen-8tmchest
+  rotate: false
+  xy: 887, 738
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+gen-8trchest
+  rotate: false
+  xy: 2, 676
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+gift
+  rotate: false
+  xy: 188, 952
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+goldblazechest
+  rotate: false
+  xy: 94, 676
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+golden-razz-berry-5
+  rotate: false
+  xy: 186, 676
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+greatball
+  rotate: false
+  xy: 278, 646
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+greatball-10
+  rotate: false
+  xy: 462, 646
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+greatball-5
+  rotate: false
+  xy: 370, 646
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+halloweenhatbox
+  rotate: false
+  xy: 554, 646
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+halloweenhatbox(female)
+  rotate: false
+  xy: 646, 646
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+halloweenhatbox(male)
+  rotate: false
+  xy: 738, 646
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+heavybackpack(female)
+  rotate: false
+  xy: 830, 646
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+heavybackpack(male)
+  rotate: false
+  xy: 922, 646
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+hisuian-zoroark-mount
+  rotate: false
+  xy: 2, 584
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+hm-disc
+  rotate: false
+  xy: 94, 584
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+hyperpotion
+  rotate: false
+  xy: 186, 584
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+hyperpotion-10
+  rotate: false
+  xy: 370, 554
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+hyperpotion-5
+  rotate: false
+  xy: 278, 554
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+incense
+  rotate: false
+  xy: 462, 554
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+infectedabsolmount(halloween2021)
+  rotate: false
+  xy: 554, 554
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+iv-randomizer
+  rotate: false
+  xy: 646, 554
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+kingsrock
+  rotate: false
+  xy: 738, 554
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+laddermasterbox
+  rotate: false
+  xy: 830, 554
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+laddermasterboxv1(halloween)
+  rotate: false
+  xy: 922, 554
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+laddermasterboxv2(halloween)
+  rotate: false
+  xy: 2, 492
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+laddermonthlyrewardbox
+  rotate: false
+  xy: 94, 492
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+luckyegg
+  rotate: false
+  xy: 186, 492
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+lure
+  rotate: false
+  xy: 278, 462
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+lure-glacial
+  rotate: false
+  xy: 370, 462
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+lure-magnetic
+  rotate: false
+  xy: 462, 462
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+lure-mossy
+  rotate: false
+  xy: 554, 462
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+masterball
+  rotate: false
+  xy: 646, 462
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+maxpotion
+  rotate: false
+  xy: 738, 462
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+maxpotion-10
+  rotate: false
+  xy: 922, 462
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+maxpotion-5
+  rotate: false
+  xy: 830, 462
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+maxrepel
+  rotate: false
+  xy: 2, 873
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+maxrevive
+  rotate: false
+  xy: 2, 400
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+maxrevive-5
+  rotate: false
+  xy: 94, 400
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+metalcoat
+  rotate: false
+  xy: 186, 400
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+mysterybox
+  rotate: false
+  xy: 2, 965
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+nanab-berry
+  rotate: false
+  xy: 278, 370
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+nanab-berry-10
+  rotate: false
+  xy: 462, 370
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+nanab-berry-5
+  rotate: false
+  xy: 370, 370
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pinap-berry
+  rotate: false
+  xy: 554, 370
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pinap-berry-10
+  rotate: false
+  xy: 738, 370
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pinap-berry-5
+  rotate: false
+  xy: 646, 370
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pinkfloaty
+  rotate: false
+  xy: 830, 370
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+poffin
+  rotate: false
+  xy: 922, 370
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pokeball
+  rotate: false
+  xy: 2, 308
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pokeball-10
+  rotate: false
+  xy: 186, 308
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pokeball-5
+  rotate: false
+  xy: 94, 308
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+pokeballsticker
+  rotate: false
+  xy: 250, 952
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+pokecoin
+  rotate: false
+  xy: 278, 278
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+potion
+  rotate: false
+  xy: 370, 278
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+potion-10
+  rotate: false
+  xy: 554, 278
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+potion-5
+  rotate: false
+  xy: 462, 278
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+premierball
+  rotate: false
+  xy: 646, 278
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+rankedbattletoken
+  rotate: false
+  xy: 738, 278
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+rarecandy
+  rotate: false
+  xy: 830, 278
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+razz-berry
+  rotate: false
+  xy: 922, 278
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+razz-berry-10
+  rotate: false
+  xy: 94, 216
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+razz-berry-5
+  rotate: false
+  xy: 2, 216
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+revive
+  rotate: false
+  xy: 186, 216
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+revive-10
+  rotate: false
+  xy: 370, 186
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+revive-5
+  rotate: false
+  xy: 278, 186
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+sawsbuckmount
+  rotate: false
+  xy: 462, 186
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+seedotmask
+  rotate: false
+  xy: 554, 186
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+shaymin-skymount
+  rotate: false
+  xy: 646, 186
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+shayminhat
+  rotate: false
+  xy: 738, 186
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+silver-pinap-berry
+  rotate: false
+  xy: 830, 186
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+silver-pinap-berry-5
+  rotate: false
+  xy: 922, 186
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+silverblazechest
+  rotate: false
+  xy: 2, 124
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+sinnoh-stone
+  rotate: false
+  xy: 94, 124
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+skullbackpack(female)
+  rotate: false
+  xy: 186, 124
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+skullbackpack(male)
+  rotate: false
+  xy: 278, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+sleighmount(christmas2021)
+  rotate: false
+  xy: 370, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+squirtleshades
+  rotate: false
+  xy: 462, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+squirtleshell(female)
+  rotate: false
+  xy: 554, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+squirtleshell(male)
+  rotate: false
+  xy: 646, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+squirtlesquadmount
+  rotate: false
+  xy: 738, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+star-piece
+  rotate: false
+  xy: 830, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+stardust
+  rotate: false
+  xy: 922, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+stripedscarf
+  rotate: false
+  xy: 2, 32
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+sunstone
+  rotate: false
+  xy: 94, 32
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+superpotion
+  rotate: false
+  xy: 186, 32
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+superpotion-10
+  rotate: false
+  xy: 370, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+superpotion-5
+  rotate: false
+  xy: 278, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+superrepel
+  rotate: false
+  xy: 2, 781
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+swannamount
+  rotate: false
+  xy: 462, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+swannamuffs
+  rotate: false
+  xy: 554, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+swannawings
+  rotate: false
+  xy: 646, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tm-disc
+  rotate: false
+  xy: 738, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+togekissmount
+  rotate: false
+  xy: 830, 2
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+ultraball
+  rotate: false
+  xy: 920, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+xp
+  rotate: false
+  xy: 312, 952
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+
+game-pass-icons2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bubblemask
+  rotate: false
+  xy: 260, 465
+  size: 90, 99
+  orig: 90, 99
+  offset: 0, 0
+  index: -1
+charged-tm
+  rotate: false
+  xy: 260, 566
+  size: 256, 140
+  orig: 256, 140
+  offset: 0, 0
+  index: -1
+donator_gem_icon
+  rotate: false
+  xy: 2, 94
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ticket-1
+  rotate: false
+  xy: 2, 708
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ticket-2
+  rotate: false
+  xy: 2, 450
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ticket-3
+  rotate: false
+  xy: 260, 708
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ticket-4
+  rotate: false
+  xy: 2, 192
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ultraball-10
+  rotate: false
+  xy: 648, 874
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ultraball-5
+  rotate: false
+  xy: 518, 744
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+umbreonmoodpack
+  rotate: false
+  xy: 518, 836
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+unova-stone
+  rotate: false
+  xy: 2, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+upgrade
+  rotate: false
+  xy: 100, 100
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

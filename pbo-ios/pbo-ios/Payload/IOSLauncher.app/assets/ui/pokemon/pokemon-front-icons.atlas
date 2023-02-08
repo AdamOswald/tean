@@ -1,0 +1,9237 @@
+
+pokemon-front-icons.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abomasnow
+  rotate: false
+  xy: 45, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+abomasnow-mega
+  rotate: false
+  xy: 88, 945
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+abra
+  rotate: false
+  xy: 131, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+absol
+  rotate: false
+  xy: 2, 816
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+absol-mega
+  rotate: false
+  xy: 45, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+absolh
+  rotate: false
+  xy: 88, 909
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+absolh-h
+  rotate: false
+  xy: 2, 981
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+accelgor
+  rotate: false
+  xy: 131, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aegislash
+  rotate: false
+  xy: 174, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aegislash-blade
+  rotate: false
+  xy: 2, 780
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aerodactyl
+  rotate: false
+  xy: 45, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aerodactyl-mega
+  rotate: false
+  xy: 88, 873
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aggron
+  rotate: false
+  xy: 131, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aggron-mega
+  rotate: false
+  xy: 174, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aipom
+  rotate: false
+  xy: 217, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alakazam
+  rotate: false
+  xy: 2, 744
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alakazam-mega
+  rotate: false
+  xy: 45, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie
+  rotate: false
+  xy: 88, 837
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-caramel-swirl-berry
+  rotate: false
+  xy: 131, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-caramel-swirl-clover
+  rotate: false
+  xy: 174, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-caramel-swirl-flower
+  rotate: false
+  xy: 217, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-caramel-swirl-love
+  rotate: false
+  xy: 260, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-caramel-swirl-plain
+  rotate: false
+  xy: 2, 708
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-caramel-swirl-ribbon
+  rotate: false
+  xy: 45, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-caramel-swirl-star
+  rotate: false
+  xy: 88, 801
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-caramel-swirl-strawberry
+  rotate: false
+  xy: 131, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-gmax
+  rotate: false
+  xy: 174, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-lemon-cream-berry
+  rotate: false
+  xy: 217, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-lemon-cream-clover
+  rotate: false
+  xy: 260, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-lemon-cream-flower
+  rotate: false
+  xy: 303, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-lemon-cream-love
+  rotate: false
+  xy: 2, 672
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-lemon-cream-plain
+  rotate: false
+  xy: 45, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-lemon-cream-ribbon
+  rotate: false
+  xy: 88, 765
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-lemon-cream-star
+  rotate: false
+  xy: 131, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-lemon-cream-strawberry
+  rotate: false
+  xy: 174, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-matcha-cream-berry
+  rotate: false
+  xy: 217, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-matcha-cream-clover
+  rotate: false
+  xy: 260, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-matcha-cream-flower
+  rotate: false
+  xy: 303, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-matcha-cream-love
+  rotate: false
+  xy: 346, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-matcha-cream-plain
+  rotate: false
+  xy: 2, 636
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-matcha-cream-ribbon
+  rotate: false
+  xy: 45, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-matcha-cream-star
+  rotate: false
+  xy: 88, 729
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-matcha-cream-strawberry
+  rotate: false
+  xy: 131, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-mint-cream-berry
+  rotate: false
+  xy: 174, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-mint-cream-clover
+  rotate: false
+  xy: 217, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-mint-cream-flower
+  rotate: false
+  xy: 260, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-mint-cream-love
+  rotate: false
+  xy: 303, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-mint-cream-plain
+  rotate: false
+  xy: 346, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-mint-cream-ribbon
+  rotate: false
+  xy: 389, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-mint-cream-star
+  rotate: false
+  xy: 2, 600
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-mint-cream-strawberry
+  rotate: false
+  xy: 45, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-rainbow-swirl-berry
+  rotate: false
+  xy: 88, 693
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-rainbow-swirl-clover
+  rotate: false
+  xy: 131, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-rainbow-swirl-flower
+  rotate: false
+  xy: 174, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-rainbow-swirl-love
+  rotate: false
+  xy: 217, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-rainbow-swirl-plain
+  rotate: false
+  xy: 260, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-rainbow-swirl-ribbon
+  rotate: false
+  xy: 303, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-rainbow-swirl-star
+  rotate: false
+  xy: 346, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-rainbow-swirl-strawberry
+  rotate: false
+  xy: 389, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-cream-berry
+  rotate: false
+  xy: 432, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-cream-clover
+  rotate: false
+  xy: 2, 564
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-cream-flower
+  rotate: false
+  xy: 45, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-cream-love
+  rotate: false
+  xy: 88, 657
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-cream-plain
+  rotate: false
+  xy: 131, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-cream-ribbon
+  rotate: false
+  xy: 174, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-cream-star
+  rotate: false
+  xy: 217, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-cream-strawberry
+  rotate: false
+  xy: 260, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-swirl-berry
+  rotate: false
+  xy: 303, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-swirl-clover
+  rotate: false
+  xy: 346, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-swirl-flower
+  rotate: false
+  xy: 389, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-swirl-love
+  rotate: false
+  xy: 432, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-swirl-plain
+  rotate: false
+  xy: 475, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-swirl-ribbon
+  rotate: false
+  xy: 2, 528
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-swirl-star
+  rotate: false
+  xy: 45, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-ruby-swirl-strawberry
+  rotate: false
+  xy: 88, 621
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-salted-cream-berry
+  rotate: false
+  xy: 131, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-salted-cream-clover
+  rotate: false
+  xy: 174, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-salted-cream-flower
+  rotate: false
+  xy: 217, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-salted-cream-love
+  rotate: false
+  xy: 260, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-salted-cream-plain
+  rotate: false
+  xy: 303, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-salted-cream-ribbon
+  rotate: false
+  xy: 346, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-salted-cream-star
+  rotate: false
+  xy: 389, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-salted-cream-strawberry
+  rotate: false
+  xy: 432, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-vanilla-cream-berry
+  rotate: false
+  xy: 475, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-vanilla-cream-clover
+  rotate: false
+  xy: 518, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-vanilla-cream-flower
+  rotate: false
+  xy: 2, 492
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-vanilla-cream-love
+  rotate: false
+  xy: 45, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-vanilla-cream-plain
+  rotate: false
+  xy: 88, 585
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-vanilla-cream-ribbon
+  rotate: false
+  xy: 131, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-vanilla-cream-star
+  rotate: false
+  xy: 174, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alcremie-vanilla-cream-strawberry
+  rotate: false
+  xy: 217, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+alomomola
+  rotate: false
+  xy: 260, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+altaria
+  rotate: false
+  xy: 303, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+altaria-mega
+  rotate: false
+  xy: 346, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+amaura
+  rotate: false
+  xy: 389, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ambipom
+  rotate: false
+  xy: 432, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+amoonguss
+  rotate: false
+  xy: 475, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ampharos
+  rotate: false
+  xy: 518, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ampharos-mega
+  rotate: false
+  xy: 561, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+anorith
+  rotate: false
+  xy: 2, 456
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+appletun
+  rotate: false
+  xy: 45, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+applin
+  rotate: false
+  xy: 88, 549
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+araquanid
+  rotate: false
+  xy: 131, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arbok
+  rotate: false
+  xy: 174, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arcanine
+  rotate: false
+  xy: 217, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus
+  rotate: false
+  xy: 260, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-bug
+  rotate: false
+  xy: 303, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-dark
+  rotate: false
+  xy: 346, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-dragon
+  rotate: false
+  xy: 389, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-electric
+  rotate: false
+  xy: 432, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-fairy
+  rotate: false
+  xy: 475, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-fighting
+  rotate: false
+  xy: 518, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-fire
+  rotate: false
+  xy: 561, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-flying
+  rotate: false
+  xy: 604, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-ghost
+  rotate: false
+  xy: 2, 420
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-grass
+  rotate: false
+  xy: 45, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-ground
+  rotate: false
+  xy: 88, 513
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-ice
+  rotate: false
+  xy: 131, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-poison
+  rotate: false
+  xy: 174, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-psychic
+  rotate: false
+  xy: 217, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-rock
+  rotate: false
+  xy: 260, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-steel
+  rotate: false
+  xy: 303, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arceus-water
+  rotate: false
+  xy: 346, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+archen
+  rotate: false
+  xy: 389, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+archeops
+  rotate: false
+  xy: 432, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arctovish
+  rotate: false
+  xy: 475, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arctozolt
+  rotate: false
+  xy: 518, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ariados
+  rotate: false
+  xy: 561, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+armaldo
+  rotate: false
+  xy: 604, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aromatisse
+  rotate: false
+  xy: 647, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aron
+  rotate: false
+  xy: 2, 384
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+arrokuda
+  rotate: false
+  xy: 45, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+articuno
+  rotate: false
+  xy: 88, 477
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+audino
+  rotate: false
+  xy: 131, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+audino-mega
+  rotate: false
+  xy: 174, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+aurorus
+  rotate: false
+  xy: 217, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+avalugg
+  rotate: false
+  xy: 260, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+axew
+  rotate: false
+  xy: 303, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+azelf
+  rotate: false
+  xy: 346, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+azumarill
+  rotate: false
+  xy: 389, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+azurill
+  rotate: false
+  xy: 432, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bagon
+  rotate: false
+  xy: 475, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+baltoy
+  rotate: false
+  xy: 518, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+banette
+  rotate: false
+  xy: 561, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+banette-mega
+  rotate: false
+  xy: 604, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+banetteh
+  rotate: false
+  xy: 2, 938
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+barbaracle
+  rotate: false
+  xy: 647, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+barboach
+  rotate: false
+  xy: 690, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+barraskewda
+  rotate: false
+  xy: 2, 348
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+basculin
+  rotate: false
+  xy: 45, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+basculin-blue-striped
+  rotate: false
+  xy: 88, 441
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bastiodon
+  rotate: false
+  xy: 131, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+battle-token
+  rotate: false
+  xy: 2, 3
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+bayleef
+  rotate: false
+  xy: 174, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+beartic
+  rotate: false
+  xy: 217, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+beautifly
+  rotate: false
+  xy: 260, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+beedrill
+  rotate: false
+  xy: 303, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+beedrill-mega
+  rotate: false
+  xy: 346, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+beheeyem
+  rotate: false
+  xy: 389, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+beldum
+  rotate: false
+  xy: 432, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bellossom
+  rotate: false
+  xy: 475, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bellsprout
+  rotate: false
+  xy: 518, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bergmite
+  rotate: false
+  xy: 561, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bewear
+  rotate: false
+  xy: 604, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bibarel
+  rotate: false
+  xy: 647, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bidoof
+  rotate: false
+  xy: 690, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+binacle
+  rotate: false
+  xy: 733, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bisharp
+  rotate: false
+  xy: 2, 312
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+blacephalon
+  rotate: false
+  xy: 45, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+blastoise
+  rotate: false
+  xy: 88, 405
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+blastoise-gmax
+  rotate: false
+  xy: 131, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+blastoise-mega
+  rotate: false
+  xy: 174, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+blaziken
+  rotate: false
+  xy: 217, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+blaziken-mega
+  rotate: false
+  xy: 260, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+blipbug
+  rotate: false
+  xy: 303, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+blissey
+  rotate: false
+  xy: 346, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+blitzle
+  rotate: false
+  xy: 389, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+boldore
+  rotate: false
+  xy: 432, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+boltund
+  rotate: false
+  xy: 475, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bonsly
+  rotate: false
+  xy: 518, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bouffalant
+  rotate: false
+  xy: 561, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bounsweet
+  rotate: false
+  xy: 604, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+braixen
+  rotate: false
+  xy: 647, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+braviary
+  rotate: false
+  xy: 690, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+breloom
+  rotate: false
+  xy: 733, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+brionne
+  rotate: false
+  xy: 776, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bronzong
+  rotate: false
+  xy: 2, 276
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bronzor
+  rotate: false
+  xy: 45, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bruxish
+  rotate: false
+  xy: 88, 369
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+budew
+  rotate: false
+  xy: 131, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+buizel
+  rotate: false
+  xy: 174, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bulbasaur
+  rotate: false
+  xy: 217, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+buneary
+  rotate: false
+  xy: 260, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+bunnelby
+  rotate: false
+  xy: 303, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+burmy
+  rotate: false
+  xy: 346, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+burmy-sandy
+  rotate: false
+  xy: 389, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+burmy-trash
+  rotate: false
+  xy: 432, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+butterfree
+  rotate: false
+  xy: 475, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+butterfree-gmax
+  rotate: false
+  xy: 518, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+buzzwole
+  rotate: false
+  xy: 561, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cacnea
+  rotate: false
+  xy: 604, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cacturne
+  rotate: false
+  xy: 647, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+camerupt
+  rotate: false
+  xy: 690, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+camerupt-mega
+  rotate: false
+  xy: 733, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+carbink
+  rotate: false
+  xy: 776, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+carkol
+  rotate: false
+  xy: 819, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+carnivine
+  rotate: false
+  xy: 2, 240
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+carracosta
+  rotate: false
+  xy: 45, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+carvanha
+  rotate: false
+  xy: 88, 333
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cascoon
+  rotate: false
+  xy: 131, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+castform
+  rotate: false
+  xy: 174, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+castform-rainy
+  rotate: false
+  xy: 217, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+castform-snowy
+  rotate: false
+  xy: 260, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+castform-sunny
+  rotate: false
+  xy: 303, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+caterpie
+  rotate: false
+  xy: 346, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+celebi
+  rotate: false
+  xy: 389, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+celesteela
+  rotate: false
+  xy: 432, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+centiskorch
+  rotate: false
+  xy: 475, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+centiskorch-gmax
+  rotate: false
+  xy: 518, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chandelure
+  rotate: false
+  xy: 561, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chansey
+  rotate: false
+  xy: 604, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chanseyh
+  rotate: false
+  xy: 45, 981
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+charizard
+  rotate: false
+  xy: 647, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+charizard-gmax
+  rotate: false
+  xy: 690, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+charizard-mega-x
+  rotate: false
+  xy: 733, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+charizard-mega-y
+  rotate: false
+  xy: 776, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+charjabug
+  rotate: false
+  xy: 819, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+charmander
+  rotate: false
+  xy: 862, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+charmeleon
+  rotate: false
+  xy: 2, 204
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chatot
+  rotate: false
+  xy: 45, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cherrim
+  rotate: false
+  xy: 88, 297
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cherrim-sunshine
+  rotate: false
+  xy: 131, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cherubi
+  rotate: false
+  xy: 174, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chesnaught
+  rotate: false
+  xy: 217, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chespin
+  rotate: false
+  xy: 260, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chewtle
+  rotate: false
+  xy: 303, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chikorita
+  rotate: false
+  xy: 346, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chimchar
+  rotate: false
+  xy: 389, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chimecho
+  rotate: false
+  xy: 432, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chinchou
+  rotate: false
+  xy: 475, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+chingling
+  rotate: false
+  xy: 518, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cinccino
+  rotate: false
+  xy: 561, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cinderace
+  rotate: false
+  xy: 604, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cinderace-gmax
+  rotate: false
+  xy: 647, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+clamperl
+  rotate: false
+  xy: 690, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+clauncher
+  rotate: false
+  xy: 733, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+clawitzer
+  rotate: false
+  xy: 776, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+claydol
+  rotate: false
+  xy: 819, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+clefable
+  rotate: false
+  xy: 862, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+clefairy
+  rotate: false
+  xy: 905, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cleffa
+  rotate: false
+  xy: 2, 168
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+clobbopus
+  rotate: false
+  xy: 45, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cloyster
+  rotate: false
+  xy: 88, 261
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+coalossal
+  rotate: false
+  xy: 131, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+coalossal-gmax
+  rotate: false
+  xy: 174, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cobalion
+  rotate: false
+  xy: 217, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cofagrigus
+  rotate: false
+  xy: 260, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+combee
+  rotate: false
+  xy: 303, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+combusken
+  rotate: false
+  xy: 346, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+comfey
+  rotate: false
+  xy: 389, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+conkeldurr
+  rotate: false
+  xy: 432, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+copperajah
+  rotate: false
+  xy: 475, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+copperajah-gmax
+  rotate: false
+  xy: 518, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+corphish
+  rotate: false
+  xy: 561, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+corsola
+  rotate: false
+  xy: 604, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+corsola-galar
+  rotate: false
+  xy: 647, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+corviknight
+  rotate: false
+  xy: 690, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+corviknight-gmax
+  rotate: false
+  xy: 733, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+corvisquire
+  rotate: false
+  xy: 776, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cosmoem
+  rotate: false
+  xy: 819, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cosmog
+  rotate: false
+  xy: 862, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cottonee
+  rotate: false
+  xy: 905, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+crabominable
+  rotate: false
+  xy: 948, 988
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+crabrawler
+  rotate: false
+  xy: 2, 132
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cradily
+  rotate: false
+  xy: 45, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cramorant
+  rotate: false
+  xy: 88, 225
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cramorant-gorging
+  rotate: false
+  xy: 131, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cramorant-gulping
+  rotate: false
+  xy: 174, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cranidos
+  rotate: false
+  xy: 217, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+crawdaunt
+  rotate: false
+  xy: 260, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cresselia
+  rotate: false
+  xy: 303, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+croagunk
+  rotate: false
+  xy: 346, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+crobat
+  rotate: false
+  xy: 389, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+croconaw
+  rotate: false
+  xy: 432, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+crustle
+  rotate: false
+  xy: 475, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cryogonal
+  rotate: false
+  xy: 518, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cubchoo
+  rotate: false
+  xy: 561, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cubone
+  rotate: false
+  xy: 604, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cufant
+  rotate: false
+  xy: 647, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cursola
+  rotate: false
+  xy: 690, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cutiefly
+  rotate: false
+  xy: 733, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+cyndaquil
+  rotate: false
+  xy: 776, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+darkrai
+  rotate: false
+  xy: 819, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+darmanitan
+  rotate: false
+  xy: 862, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+darmanitan-galar
+  rotate: false
+  xy: 905, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+darmanitan-galar-zen
+  rotate: false
+  xy: 948, 952
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+darmanitan-zen
+  rotate: false
+  xy: 2, 96
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dartrix
+  rotate: false
+  xy: 45, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+darumaka
+  rotate: false
+  xy: 88, 189
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+darumaka-galar
+  rotate: false
+  xy: 131, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+decidueye
+  rotate: false
+  xy: 174, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dedenne
+  rotate: false
+  xy: 217, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+deerling
+  rotate: false
+  xy: 260, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+deerling-autumn
+  rotate: false
+  xy: 303, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+deerling-summer
+  rotate: false
+  xy: 346, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+deerling-winter
+  rotate: false
+  xy: 389, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+deino
+  rotate: false
+  xy: 432, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+delcatty
+  rotate: false
+  xy: 475, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+delibird
+  rotate: false
+  xy: 518, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+delphox
+  rotate: false
+  xy: 561, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+deoxys
+  rotate: false
+  xy: 604, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+deoxys-attack
+  rotate: false
+  xy: 647, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+deoxys-defense
+  rotate: false
+  xy: 690, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+deoxys-speed
+  rotate: false
+  xy: 733, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dewgong
+  rotate: false
+  xy: 776, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dewott
+  rotate: false
+  xy: 819, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dewpider
+  rotate: false
+  xy: 862, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dhelmise
+  rotate: false
+  xy: 905, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dialga
+  rotate: false
+  xy: 948, 916
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+diancie
+  rotate: false
+  xy: 2, 60
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+diancie-mega
+  rotate: false
+  xy: 45, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+diggersby
+  rotate: false
+  xy: 88, 153
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+diglett
+  rotate: false
+  xy: 131, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+diglett-alola
+  rotate: false
+  xy: 174, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ditto
+  rotate: false
+  xy: 217, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dodrio
+  rotate: false
+  xy: 260, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+doduo
+  rotate: false
+  xy: 303, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+donphan
+  rotate: false
+  xy: 346, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dottler
+  rotate: false
+  xy: 389, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+doublade
+  rotate: false
+  xy: 432, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dracovish
+  rotate: false
+  xy: 475, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dracozolt
+  rotate: false
+  xy: 518, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dragalge
+  rotate: false
+  xy: 561, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dragapult
+  rotate: false
+  xy: 604, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dragonair
+  rotate: false
+  xy: 647, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dragonite
+  rotate: false
+  xy: 690, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drakloak
+  rotate: false
+  xy: 733, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drampa
+  rotate: false
+  xy: 776, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drapion
+  rotate: false
+  xy: 819, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dratini
+  rotate: false
+  xy: 862, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drednaw
+  rotate: false
+  xy: 905, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drednaw-gmax
+  rotate: false
+  xy: 948, 880
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dreepy
+  rotate: false
+  xy: 2, 24
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drifblim
+  rotate: false
+  xy: 45, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drifloon
+  rotate: false
+  xy: 88, 117
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drilbur
+  rotate: false
+  xy: 131, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drizzile
+  rotate: false
+  xy: 174, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+drowzee
+  rotate: false
+  xy: 217, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+druddigon
+  rotate: false
+  xy: 260, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dubwool
+  rotate: false
+  xy: 303, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ducklett
+  rotate: false
+  xy: 346, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dugtrio
+  rotate: false
+  xy: 389, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dugtrio-alola
+  rotate: false
+  xy: 432, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dunsparce
+  rotate: false
+  xy: 475, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+duosion
+  rotate: false
+  xy: 518, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+duraludon
+  rotate: false
+  xy: 561, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+duraludon-gmax
+  rotate: false
+  xy: 604, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+durant
+  rotate: false
+  xy: 647, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dusclops
+  rotate: false
+  xy: 690, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dusknoir
+  rotate: false
+  xy: 733, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+duskull
+  rotate: false
+  xy: 776, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dustox
+  rotate: false
+  xy: 819, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dwebble
+  rotate: false
+  xy: 862, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eelektrik
+  rotate: false
+  xy: 905, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eelektross
+  rotate: false
+  xy: 948, 844
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eevee
+  rotate: false
+  xy: 45, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eevee-gmax
+  rotate: false
+  xy: 45, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eevee-starter
+  rotate: false
+  xy: 88, 81
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eiscue
+  rotate: false
+  xy: 131, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eiscue-noice
+  rotate: false
+  xy: 174, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ekans
+  rotate: false
+  xy: 217, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eldegoss
+  rotate: false
+  xy: 260, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+electabuzz
+  rotate: false
+  xy: 303, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+electivire
+  rotate: false
+  xy: 346, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+electrike
+  rotate: false
+  xy: 389, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+electrode
+  rotate: false
+  xy: 432, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+elekid
+  rotate: false
+  xy: 475, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+elgyem
+  rotate: false
+  xy: 518, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+emboar
+  rotate: false
+  xy: 561, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+emolga
+  rotate: false
+  xy: 604, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+empoleon
+  rotate: false
+  xy: 647, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+entei
+  rotate: false
+  xy: 690, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+enteih
+  rotate: false
+  xy: 733, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+escavalier
+  rotate: false
+  xy: 776, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+espeon
+  rotate: false
+  xy: 819, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+espurr
+  rotate: false
+  xy: 862, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eternatus
+  rotate: false
+  xy: 905, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eternatus-eternamax
+  rotate: false
+  xy: 948, 808
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+excadrill
+  rotate: false
+  xy: 88, 45
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+exeggcute
+  rotate: false
+  xy: 131, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+exeggutor
+  rotate: false
+  xy: 174, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+exeggutor-alola
+  rotate: false
+  xy: 217, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+exploud
+  rotate: false
+  xy: 260, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+falinks
+  rotate: false
+  xy: 303, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+farfetchd
+  rotate: false
+  xy: 346, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+farfetchd-galar
+  rotate: false
+  xy: 389, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+fearow
+  rotate: false
+  xy: 432, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+feebas
+  rotate: false
+  xy: 475, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+fennekin
+  rotate: false
+  xy: 518, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+feraligatr
+  rotate: false
+  xy: 561, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ferroseed
+  rotate: false
+  xy: 604, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ferrothorn
+  rotate: false
+  xy: 647, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+finneon
+  rotate: false
+  xy: 690, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flaaffy
+  rotate: false
+  xy: 733, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flabebe
+  rotate: false
+  xy: 776, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flabebe-blue
+  rotate: false
+  xy: 819, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flabebe-orange
+  rotate: false
+  xy: 862, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flabebe-white
+  rotate: false
+  xy: 905, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flabebe-yellow
+  rotate: false
+  xy: 948, 772
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flapple
+  rotate: false
+  xy: 88, 9
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flapple-gmax
+  rotate: false
+  xy: 131, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flareon
+  rotate: false
+  xy: 174, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+fletchinder
+  rotate: false
+  xy: 217, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+fletchling
+  rotate: false
+  xy: 260, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+floatzel
+  rotate: false
+  xy: 303, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+floette
+  rotate: false
+  xy: 346, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+floette-blue
+  rotate: false
+  xy: 389, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+floette-eternal
+  rotate: false
+  xy: 432, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+floette-orange
+  rotate: false
+  xy: 475, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+floette-white
+  rotate: false
+  xy: 518, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+floette-yellow
+  rotate: false
+  xy: 561, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+florges
+  rotate: false
+  xy: 604, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+florges-blue
+  rotate: false
+  xy: 647, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+florges-orange
+  rotate: false
+  xy: 690, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+florges-white
+  rotate: false
+  xy: 733, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+florges-yellow
+  rotate: false
+  xy: 776, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+flygon
+  rotate: false
+  xy: 819, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+fomantis
+  rotate: false
+  xy: 862, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+foongus
+  rotate: false
+  xy: 905, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+forretress
+  rotate: false
+  xy: 948, 736
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+fraxure
+  rotate: false
+  xy: 131, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+frillish
+  rotate: false
+  xy: 174, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+froakie
+  rotate: false
+  xy: 217, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+frogadier
+  rotate: false
+  xy: 260, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+froslass
+  rotate: false
+  xy: 303, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+frosmoth
+  rotate: false
+  xy: 346, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou
+  rotate: false
+  xy: 389, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou-dandy
+  rotate: false
+  xy: 432, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou-debutante
+  rotate: false
+  xy: 475, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou-diamond
+  rotate: false
+  xy: 518, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou-heart
+  rotate: false
+  xy: 561, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou-kabuki
+  rotate: false
+  xy: 604, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou-la-reine
+  rotate: false
+  xy: 647, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou-matron
+  rotate: false
+  xy: 690, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou-pharaoh
+  rotate: false
+  xy: 733, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furfrou-star
+  rotate: false
+  xy: 776, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furret
+  rotate: false
+  xy: 819, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gabite
+  rotate: false
+  xy: 862, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gallade
+  rotate: false
+  xy: 905, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gallade-mega
+  rotate: false
+  xy: 948, 700
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+galvantula
+  rotate: false
+  xy: 174, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+garbodor
+  rotate: false
+  xy: 217, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+garbodor-gmax
+  rotate: false
+  xy: 260, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+garchomp
+  rotate: false
+  xy: 303, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+garchomp-mega
+  rotate: false
+  xy: 346, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gardevoir
+  rotate: false
+  xy: 389, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gardevoir-h
+  rotate: false
+  xy: 2, 895
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+gardevoir-mega
+  rotate: false
+  xy: 432, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gardevoirh
+  rotate: false
+  xy: 475, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gastly
+  rotate: false
+  xy: 518, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gastrodon
+  rotate: false
+  xy: 561, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gastrodon-east
+  rotate: false
+  xy: 604, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+genesect
+  rotate: false
+  xy: 647, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+genesect-burn
+  rotate: false
+  xy: 690, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+genesect-chill
+  rotate: false
+  xy: 733, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+genesect-douse
+  rotate: false
+  xy: 776, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+genesect-shock
+  rotate: false
+  xy: 819, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+genesect-standard
+  rotate: false
+  xy: 862, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gengar
+  rotate: false
+  xy: 905, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gengar-gmax
+  rotate: false
+  xy: 948, 664
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gengar-h
+  rotate: false
+  xy: 45, 938
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+gengar-mega
+  rotate: false
+  xy: 217, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gengarh
+  rotate: false
+  xy: 260, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+geodude
+  rotate: false
+  xy: 303, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+geodude-alola
+  rotate: false
+  xy: 346, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gible
+  rotate: false
+  xy: 389, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gigalith
+  rotate: false
+  xy: 432, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+girafarig
+  rotate: false
+  xy: 475, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+giratina
+  rotate: false
+  xy: 518, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+giratina-origin
+  rotate: false
+  xy: 561, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+glaceon
+  rotate: false
+  xy: 604, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+glalie
+  rotate: false
+  xy: 647, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+glalie-mega
+  rotate: false
+  xy: 690, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+glameow
+  rotate: false
+  xy: 733, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gligar
+  rotate: false
+  xy: 776, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gligarh
+  rotate: false
+  xy: 819, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gliscor
+  rotate: false
+  xy: 862, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gliscorh
+  rotate: false
+  xy: 905, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gloom
+  rotate: false
+  xy: 948, 628
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gogoat
+  rotate: false
+  xy: 260, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+golbat
+  rotate: false
+  xy: 303, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+goldeen
+  rotate: false
+  xy: 346, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+golduck
+  rotate: false
+  xy: 389, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+golem
+  rotate: false
+  xy: 432, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+golem-alola
+  rotate: false
+  xy: 475, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+golett
+  rotate: false
+  xy: 518, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+golisopod
+  rotate: false
+  xy: 561, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+golurk
+  rotate: false
+  xy: 604, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+goodra
+  rotate: false
+  xy: 647, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+goomy
+  rotate: false
+  xy: 690, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gorebyss
+  rotate: false
+  xy: 733, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gossifleur
+  rotate: false
+  xy: 776, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gothita
+  rotate: false
+  xy: 819, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gothitelle
+  rotate: false
+  xy: 862, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gothorita
+  rotate: false
+  xy: 905, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gourgeist
+  rotate: false
+  xy: 948, 592
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gourgeist-large
+  rotate: false
+  xy: 303, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gourgeist-small
+  rotate: false
+  xy: 346, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gourgeist-super
+  rotate: false
+  xy: 389, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+granbull
+  rotate: false
+  xy: 432, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grapploct
+  rotate: false
+  xy: 475, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+graveler
+  rotate: false
+  xy: 518, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+graveler-alola
+  rotate: false
+  xy: 561, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+greedent
+  rotate: false
+  xy: 604, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+greninja
+  rotate: false
+  xy: 647, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+greninja-ash
+  rotate: false
+  xy: 690, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grimer
+  rotate: false
+  xy: 733, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grimer-alola
+  rotate: false
+  xy: 776, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grimmsnarl
+  rotate: false
+  xy: 819, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grimmsnarl-gmax
+  rotate: false
+  xy: 862, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grookey
+  rotate: false
+  xy: 905, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grotle
+  rotate: false
+  xy: 948, 556
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+groudon
+  rotate: false
+  xy: 346, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+groudon-primal
+  rotate: false
+  xy: 389, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grovyle
+  rotate: false
+  xy: 432, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+growlithe
+  rotate: false
+  xy: 475, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grubbin
+  rotate: false
+  xy: 518, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+grumpig
+  rotate: false
+  xy: 561, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gulpin
+  rotate: false
+  xy: 604, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gumshoos
+  rotate: false
+  xy: 647, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gurdurr
+  rotate: false
+  xy: 690, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+guzzlord
+  rotate: false
+  xy: 733, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gyarados
+  rotate: false
+  xy: 776, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gyarados-mega
+  rotate: false
+  xy: 819, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+gyaradosh
+  rotate: false
+  xy: 862, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hakamo-o
+  rotate: false
+  xy: 905, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+happiny
+  rotate: false
+  xy: 948, 520
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hariyama
+  rotate: false
+  xy: 389, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hatenna
+  rotate: false
+  xy: 432, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hatterene
+  rotate: false
+  xy: 475, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hatterene-gmax
+  rotate: false
+  xy: 518, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hattrem
+  rotate: false
+  xy: 561, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+haunter
+  rotate: false
+  xy: 604, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hawlucha
+  rotate: false
+  xy: 647, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+haxorus
+  rotate: false
+  xy: 690, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+heatmor
+  rotate: false
+  xy: 733, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+heatran
+  rotate: false
+  xy: 776, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+heliolisk
+  rotate: false
+  xy: 819, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+helioptile
+  rotate: false
+  xy: 862, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+heracross
+  rotate: false
+  xy: 905, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+heracross-mega
+  rotate: false
+  xy: 948, 484
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+herdier
+  rotate: false
+  xy: 432, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hippopotas
+  rotate: false
+  xy: 475, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hippowdon
+  rotate: false
+  xy: 518, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hitmonchan
+  rotate: false
+  xy: 561, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hitmonlee
+  rotate: false
+  xy: 604, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hitmontop
+  rotate: false
+  xy: 647, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ho-oh
+  rotate: false
+  xy: 690, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+honchkrow
+  rotate: false
+  xy: 733, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+honedge
+  rotate: false
+  xy: 776, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hoopa
+  rotate: false
+  xy: 819, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hoopa-unbound
+  rotate: false
+  xy: 862, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hoothoot
+  rotate: false
+  xy: 905, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hoppip
+  rotate: false
+  xy: 948, 448
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+horsea
+  rotate: false
+  xy: 475, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+houndoom
+  rotate: false
+  xy: 518, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+houndoom-mega
+  rotate: false
+  xy: 561, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+houndour
+  rotate: false
+  xy: 604, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+huntail
+  rotate: false
+  xy: 647, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hydreigon
+  rotate: false
+  xy: 690, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hypno
+  rotate: false
+  xy: 733, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+igglybuff
+  rotate: false
+  xy: 776, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+illumise
+  rotate: false
+  xy: 819, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+impidimp
+  rotate: false
+  xy: 862, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+incineroar
+  rotate: false
+  xy: 905, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+indeedee
+  rotate: false
+  xy: 948, 412
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+infernape
+  rotate: false
+  xy: 518, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+inkay
+  rotate: false
+  xy: 561, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+inteleon
+  rotate: false
+  xy: 604, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+inteleon-gmax
+  rotate: false
+  xy: 647, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ivysaur
+  rotate: false
+  xy: 690, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+jangmo-o
+  rotate: false
+  xy: 733, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+jellicent
+  rotate: false
+  xy: 776, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+jigglypuff
+  rotate: false
+  xy: 819, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+jirachi
+  rotate: false
+  xy: 862, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+jolteon
+  rotate: false
+  xy: 905, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+joltik
+  rotate: false
+  xy: 948, 376
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+jumpluff
+  rotate: false
+  xy: 561, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+jynx
+  rotate: false
+  xy: 604, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kabuto
+  rotate: false
+  xy: 647, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kabutops
+  rotate: false
+  xy: 690, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kadabra
+  rotate: false
+  xy: 733, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kakuna
+  rotate: false
+  xy: 776, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kangaskhan
+  rotate: false
+  xy: 819, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kangaskhan-mega
+  rotate: false
+  xy: 862, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+karrablast
+  rotate: false
+  xy: 905, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kartana
+  rotate: false
+  xy: 948, 340
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kecleon
+  rotate: false
+  xy: 604, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+keldeo
+  rotate: false
+  xy: 647, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+keldeo-resolute
+  rotate: false
+  xy: 690, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+keldeoh
+  rotate: false
+  xy: 733, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+keldeoresoluteh
+  rotate: false
+  xy: 776, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kingdra
+  rotate: false
+  xy: 819, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kingdrah
+  rotate: false
+  xy: 862, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kingler
+  rotate: false
+  xy: 905, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kingler-gmax
+  rotate: false
+  xy: 948, 304
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kirlia
+  rotate: false
+  xy: 647, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+klang
+  rotate: false
+  xy: 690, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+klefki
+  rotate: false
+  xy: 733, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+klink
+  rotate: false
+  xy: 776, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+klinklang
+  rotate: false
+  xy: 819, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+koffing
+  rotate: false
+  xy: 862, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+komala
+  rotate: false
+  xy: 905, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kommo-o
+  rotate: false
+  xy: 948, 268
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+krabby
+  rotate: false
+  xy: 690, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kricketot
+  rotate: false
+  xy: 733, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kricketune
+  rotate: false
+  xy: 776, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+krokorok
+  rotate: false
+  xy: 819, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+krookodile
+  rotate: false
+  xy: 862, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kubfu
+  rotate: false
+  xy: 905, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kyogre
+  rotate: false
+  xy: 948, 232
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kyogre-primal
+  rotate: false
+  xy: 733, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kyurem
+  rotate: false
+  xy: 776, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kyurem-black
+  rotate: false
+  xy: 819, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+kyurem-white
+  rotate: false
+  xy: 862, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lairon
+  rotate: false
+  xy: 905, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lampent
+  rotate: false
+  xy: 948, 196
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+landorus
+  rotate: false
+  xy: 776, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+landorus-therian
+  rotate: false
+  xy: 819, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lanturn
+  rotate: false
+  xy: 862, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lapras
+  rotate: false
+  xy: 905, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lapras-gmax
+  rotate: false
+  xy: 948, 160
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+larvesta
+  rotate: false
+  xy: 819, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+larvitar
+  rotate: false
+  xy: 862, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+latias
+  rotate: false
+  xy: 905, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+latias-mega
+  rotate: false
+  xy: 948, 124
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+latios
+  rotate: false
+  xy: 862, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+latios-mega
+  rotate: false
+  xy: 905, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+leafeon
+  rotate: false
+  xy: 948, 88
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+leavanny
+  rotate: false
+  xy: 905, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ledian
+  rotate: false
+  xy: 948, 52
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ledyba
+  rotate: false
+  xy: 948, 16
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scytherh-h
+  rotate: false
+  xy: 88, 981
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+suicuneh-h
+  rotate: false
+  xy: 2, 852
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+unknown
+  rotate: false
+  xy: 991, 1004
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+
+pokemon-front-icons2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lickilicky
+  rotate: false
+  xy: 2, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lickitung
+  rotate: false
+  xy: 2, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+liepard
+  rotate: false
+  xy: 45, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lileep
+  rotate: false
+  xy: 2, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lilligant
+  rotate: false
+  xy: 45, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lillipup
+  rotate: false
+  xy: 88, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+linoone
+  rotate: false
+  xy: 2, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+linoone-galar
+  rotate: false
+  xy: 45, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+litleo
+  rotate: false
+  xy: 88, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+litten
+  rotate: false
+  xy: 131, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+litwick
+  rotate: false
+  xy: 2, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lombre
+  rotate: false
+  xy: 45, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lopunny
+  rotate: false
+  xy: 88, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lopunny-mega
+  rotate: false
+  xy: 131, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lotad
+  rotate: false
+  xy: 174, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+loudred
+  rotate: false
+  xy: 2, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lucario
+  rotate: false
+  xy: 45, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lucario-h
+  rotate: false
+  xy: 88, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lucario-mega
+  rotate: false
+  xy: 131, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lucarioh
+  rotate: false
+  xy: 174, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ludicolo
+  rotate: false
+  xy: 217, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lugia
+  rotate: false
+  xy: 2, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lumineon
+  rotate: false
+  xy: 45, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lunala
+  rotate: false
+  xy: 88, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lunatone
+  rotate: false
+  xy: 131, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lurantis
+  rotate: false
+  xy: 174, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+luvdisc
+  rotate: false
+  xy: 217, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+luxio
+  rotate: false
+  xy: 260, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+luxray
+  rotate: false
+  xy: 2, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lycanroc
+  rotate: false
+  xy: 45, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lycanroc-dusk
+  rotate: false
+  xy: 88, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lycanroc-midnight
+  rotate: false
+  xy: 131, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+machamp
+  rotate: false
+  xy: 174, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+machamp-gmax
+  rotate: false
+  xy: 217, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+machoke
+  rotate: false
+  xy: 260, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+machop
+  rotate: false
+  xy: 303, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magby
+  rotate: false
+  xy: 2, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magcargo
+  rotate: false
+  xy: 45, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magearna
+  rotate: false
+  xy: 88, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magearna-original
+  rotate: false
+  xy: 131, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magikarp
+  rotate: false
+  xy: 174, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magikarph
+  rotate: false
+  xy: 217, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magmar
+  rotate: false
+  xy: 260, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magmortar
+  rotate: false
+  xy: 303, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magnemite
+  rotate: false
+  xy: 346, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magneton
+  rotate: false
+  xy: 2, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+magnezone
+  rotate: false
+  xy: 45, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+makuhita
+  rotate: false
+  xy: 88, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+malamar
+  rotate: false
+  xy: 131, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mamoswine
+  rotate: false
+  xy: 174, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+manaphy
+  rotate: false
+  xy: 217, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mandibuzz
+  rotate: false
+  xy: 260, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+manectric
+  rotate: false
+  xy: 303, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+manectric-mega
+  rotate: false
+  xy: 346, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mankey
+  rotate: false
+  xy: 389, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mantine
+  rotate: false
+  xy: 2, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mantyke
+  rotate: false
+  xy: 45, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+maractus
+  rotate: false
+  xy: 88, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mareanie
+  rotate: false
+  xy: 131, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mareep
+  rotate: false
+  xy: 174, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+marill
+  rotate: false
+  xy: 217, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+marowak
+  rotate: false
+  xy: 260, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+marowak-alola
+  rotate: false
+  xy: 303, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+marshadow
+  rotate: false
+  xy: 346, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+marshadow-gen7
+  rotate: false
+  xy: 389, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+marshtomp
+  rotate: false
+  xy: 432, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+masquerain
+  rotate: false
+  xy: 2, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mawile
+  rotate: false
+  xy: 45, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mawile-mega
+  rotate: false
+  xy: 88, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+medicham
+  rotate: false
+  xy: 131, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+medicham-mega
+  rotate: false
+  xy: 174, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meditite
+  rotate: false
+  xy: 217, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meganium
+  rotate: false
+  xy: 260, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+melmetal
+  rotate: false
+  xy: 303, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+melmetal-gmax
+  rotate: false
+  xy: 346, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meloetta
+  rotate: false
+  xy: 389, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meloetta-pirouette
+  rotate: false
+  xy: 432, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meltan
+  rotate: false
+  xy: 475, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meowstic
+  rotate: false
+  xy: 2, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meowth
+  rotate: false
+  xy: 45, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meowth-alola
+  rotate: false
+  xy: 88, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meowth-galar
+  rotate: false
+  xy: 131, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+meowth-gmax
+  rotate: false
+  xy: 174, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mesprit
+  rotate: false
+  xy: 217, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+metagross
+  rotate: false
+  xy: 260, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+metagross-mega
+  rotate: false
+  xy: 303, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+metang
+  rotate: false
+  xy: 346, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+metapod
+  rotate: false
+  xy: 389, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mew
+  rotate: false
+  xy: 432, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mewtwo
+  rotate: false
+  xy: 475, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mewtwo-mega-x
+  rotate: false
+  xy: 518, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mewtwo-mega-y
+  rotate: false
+  xy: 2, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mienfoo
+  rotate: false
+  xy: 45, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mienshao
+  rotate: false
+  xy: 88, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mightyena
+  rotate: false
+  xy: 131, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+milcery
+  rotate: false
+  xy: 174, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+milotic
+  rotate: false
+  xy: 217, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+miltank
+  rotate: false
+  xy: 260, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mime-jr
+  rotate: false
+  xy: 303, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mimikyu
+  rotate: false
+  xy: 346, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minccino
+  rotate: false
+  xy: 389, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior
+  rotate: false
+  xy: 432, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-blue
+  rotate: false
+  xy: 475, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-blue-gen7
+  rotate: false
+  xy: 518, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-green
+  rotate: false
+  xy: 561, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-green-gen7
+  rotate: false
+  xy: 2, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-indigo
+  rotate: false
+  xy: 45, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-indigo-gen7
+  rotate: false
+  xy: 88, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-orange
+  rotate: false
+  xy: 131, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-orange-gen7
+  rotate: false
+  xy: 174, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-red
+  rotate: false
+  xy: 217, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-red-gen7
+  rotate: false
+  xy: 260, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-violet
+  rotate: false
+  xy: 303, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-violet-gen7
+  rotate: false
+  xy: 346, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-yellow
+  rotate: false
+  xy: 389, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minior-yellow-gen-7
+  rotate: false
+  xy: 432, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+minun
+  rotate: false
+  xy: 475, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+misdreavus
+  rotate: false
+  xy: 518, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mismagius
+  rotate: false
+  xy: 561, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+moltres
+  rotate: false
+  xy: 604, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+monferno
+  rotate: false
+  xy: 2, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+morelull
+  rotate: false
+  xy: 45, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+morgrem
+  rotate: false
+  xy: 88, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+morpeko
+  rotate: false
+  xy: 131, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+morpeko-hangry
+  rotate: false
+  xy: 174, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mothim
+  rotate: false
+  xy: 217, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mr-mime
+  rotate: false
+  xy: 260, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mr-mime-galar
+  rotate: false
+  xy: 303, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mr-rime
+  rotate: false
+  xy: 346, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mudbray
+  rotate: false
+  xy: 389, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mudkip
+  rotate: false
+  xy: 432, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+mudsdale
+  rotate: false
+  xy: 475, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+muk
+  rotate: false
+  xy: 518, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+muk-alola
+  rotate: false
+  xy: 561, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+munchlax
+  rotate: false
+  xy: 604, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+munna
+  rotate: false
+  xy: 647, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+murkrow
+  rotate: false
+  xy: 2, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+musharna
+  rotate: false
+  xy: 45, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+naganadel
+  rotate: false
+  xy: 88, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+natu
+  rotate: false
+  xy: 131, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+necrozma
+  rotate: false
+  xy: 174, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+necrozma-dawn
+  rotate: false
+  xy: 217, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+necrozma-dusk
+  rotate: false
+  xy: 260, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+necrozma-ultra
+  rotate: false
+  xy: 303, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nickit
+  rotate: false
+  xy: 346, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nidoking
+  rotate: false
+  xy: 389, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nidoqueen
+  rotate: false
+  xy: 432, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nidoran-f
+  rotate: false
+  xy: 475, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nidoran-m
+  rotate: false
+  xy: 518, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nidorina
+  rotate: false
+  xy: 561, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nidorino
+  rotate: false
+  xy: 604, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nihilego
+  rotate: false
+  xy: 647, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nincada
+  rotate: false
+  xy: 690, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ninetales
+  rotate: false
+  xy: 2, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ninetales-alola
+  rotate: false
+  xy: 45, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ninjask
+  rotate: false
+  xy: 88, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+noctowl
+  rotate: false
+  xy: 131, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+noibat
+  rotate: false
+  xy: 174, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+noivern
+  rotate: false
+  xy: 217, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nosepass
+  rotate: false
+  xy: 260, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+numel
+  rotate: false
+  xy: 303, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+nuzleaf
+  rotate: false
+  xy: 346, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+obstagoon
+  rotate: false
+  xy: 389, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+octillery
+  rotate: false
+  xy: 432, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+oddish
+  rotate: false
+  xy: 475, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+omanyte
+  rotate: false
+  xy: 518, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+omastar
+  rotate: false
+  xy: 561, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+onix
+  rotate: false
+  xy: 604, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+oranguru
+  rotate: false
+  xy: 647, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+orbeetle
+  rotate: false
+  xy: 690, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+orbeetle-gmax
+  rotate: false
+  xy: 733, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+oricorio
+  rotate: false
+  xy: 2, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+oricorio-pau
+  rotate: false
+  xy: 45, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+oricorio-pom-pom
+  rotate: false
+  xy: 88, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+oricorio-sensu
+  rotate: false
+  xy: 131, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+oshawott
+  rotate: false
+  xy: 174, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pachirisu
+  rotate: false
+  xy: 217, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+palkia
+  rotate: false
+  xy: 260, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+palossand
+  rotate: false
+  xy: 303, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+palpitoad
+  rotate: false
+  xy: 346, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pancham
+  rotate: false
+  xy: 389, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pangoro
+  rotate: false
+  xy: 432, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+panpour
+  rotate: false
+  xy: 475, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pansage
+  rotate: false
+  xy: 518, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pansear
+  rotate: false
+  xy: 561, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+paras
+  rotate: false
+  xy: 604, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+parasect
+  rotate: false
+  xy: 647, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+passimian
+  rotate: false
+  xy: 690, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+patrat
+  rotate: false
+  xy: 733, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pawniard
+  rotate: false
+  xy: 776, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pelipper
+  rotate: false
+  xy: 2, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+perrserker
+  rotate: false
+  xy: 45, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+persian
+  rotate: false
+  xy: 88, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+persian-alola
+  rotate: false
+  xy: 131, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+petilil
+  rotate: false
+  xy: 174, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+phanpy
+  rotate: false
+  xy: 217, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+phantump
+  rotate: false
+  xy: 260, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pheromosa
+  rotate: false
+  xy: 303, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+phione
+  rotate: false
+  xy: 346, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pichu
+  rotate: false
+  xy: 389, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pichu-spiky-eared
+  rotate: false
+  xy: 432, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pidgeot
+  rotate: false
+  xy: 475, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pidgeot-mega
+  rotate: false
+  xy: 518, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pidgeotto
+  rotate: false
+  xy: 561, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pidgey
+  rotate: false
+  xy: 604, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pidove
+  rotate: false
+  xy: 647, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pignite
+  rotate: false
+  xy: 690, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu
+  rotate: false
+  xy: 733, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-alola-cap
+  rotate: false
+  xy: 776, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-belle
+  rotate: false
+  xy: 819, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-cosplay
+  rotate: false
+  xy: 2, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-gmax
+  rotate: false
+  xy: 45, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-hoenn-cap
+  rotate: false
+  xy: 88, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-kalos-cap
+  rotate: false
+  xy: 131, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-libre
+  rotate: false
+  xy: 174, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-original-cap
+  rotate: false
+  xy: 217, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-partner-cap
+  rotate: false
+  xy: 260, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-phd
+  rotate: false
+  xy: 303, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-pop-star
+  rotate: false
+  xy: 346, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-rock-star
+  rotate: false
+  xy: 389, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-sinnoh-cap
+  rotate: false
+  xy: 432, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-starter
+  rotate: false
+  xy: 475, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-unova-cap
+  rotate: false
+  xy: 518, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikachu-world-cap
+  rotate: false
+  xy: 561, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pikipek
+  rotate: false
+  xy: 604, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+piloswine
+  rotate: false
+  xy: 647, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pincurchin
+  rotate: false
+  xy: 690, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pineco
+  rotate: false
+  xy: 733, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pinsir
+  rotate: false
+  xy: 776, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pinsir-mega
+  rotate: false
+  xy: 819, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+piplup
+  rotate: false
+  xy: 862, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+plusle
+  rotate: false
+  xy: 2, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+poipole
+  rotate: false
+  xy: 45, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+politoed
+  rotate: false
+  xy: 88, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+poliwag
+  rotate: false
+  xy: 131, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+poliwhirl
+  rotate: false
+  xy: 174, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+poliwrath
+  rotate: false
+  xy: 217, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+polteageist
+  rotate: false
+  xy: 260, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ponyta
+  rotate: false
+  xy: 303, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ponyta-galar
+  rotate: false
+  xy: 346, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+poochyena
+  rotate: false
+  xy: 389, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+popplio
+  rotate: false
+  xy: 432, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+porygon
+  rotate: false
+  xy: 475, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+porygon-z
+  rotate: false
+  xy: 561, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+porygon2
+  rotate: false
+  xy: 518, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+primarina
+  rotate: false
+  xy: 604, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+primeape
+  rotate: false
+  xy: 647, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+prinplup
+  rotate: false
+  xy: 690, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+probopass
+  rotate: false
+  xy: 733, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+psyduck
+  rotate: false
+  xy: 776, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pumpkaboo
+  rotate: false
+  xy: 819, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pumpkaboo-large
+  rotate: false
+  xy: 862, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pumpkaboo-small
+  rotate: false
+  xy: 905, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pumpkaboo-super
+  rotate: false
+  xy: 2, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pupitar
+  rotate: false
+  xy: 45, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+purrloin
+  rotate: false
+  xy: 88, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+purugly
+  rotate: false
+  xy: 131, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pyroar
+  rotate: false
+  xy: 174, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+pyukumuku
+  rotate: false
+  xy: 217, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+quagsire
+  rotate: false
+  xy: 260, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+quilava
+  rotate: false
+  xy: 303, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+quilladin
+  rotate: false
+  xy: 346, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+qwilfish
+  rotate: false
+  xy: 389, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+raboot
+  rotate: false
+  xy: 432, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+raichu
+  rotate: false
+  xy: 475, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+raichu-alola
+  rotate: false
+  xy: 518, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+raikou
+  rotate: false
+  xy: 561, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+raikouh
+  rotate: false
+  xy: 604, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ralts
+  rotate: false
+  xy: 647, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rampardos
+  rotate: false
+  xy: 690, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rapidash
+  rotate: false
+  xy: 733, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rapidash-galar
+  rotate: false
+  xy: 776, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+raticate
+  rotate: false
+  xy: 819, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+raticate-alola
+  rotate: false
+  xy: 862, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rattata
+  rotate: false
+  xy: 905, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rattata-alola
+  rotate: false
+  xy: 948, 974
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rayquaza
+  rotate: false
+  xy: 2, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rayquaza-mega
+  rotate: false
+  xy: 45, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+regice
+  rotate: false
+  xy: 88, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+regigigas
+  rotate: false
+  xy: 131, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+regirock
+  rotate: false
+  xy: 174, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+registeel
+  rotate: false
+  xy: 217, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+relicanth
+  rotate: false
+  xy: 260, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+remoraid
+  rotate: false
+  xy: 303, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+reshiram
+  rotate: false
+  xy: 346, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+reuniclus
+  rotate: false
+  xy: 389, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rhydon
+  rotate: false
+  xy: 432, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rhyhorn
+  rotate: false
+  xy: 475, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rhyperior
+  rotate: false
+  xy: 518, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ribombee
+  rotate: false
+  xy: 561, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rillaboom
+  rotate: false
+  xy: 604, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rillaboom-gmax
+  rotate: false
+  xy: 647, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+riolu
+  rotate: false
+  xy: 690, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rioluh
+  rotate: false
+  xy: 733, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rockruff
+  rotate: false
+  xy: 776, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+roggenrola
+  rotate: false
+  xy: 819, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rolycoly
+  rotate: false
+  xy: 862, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rookidee
+  rotate: false
+  xy: 905, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+roselia
+  rotate: false
+  xy: 948, 938
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+roserade
+  rotate: false
+  xy: 2, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rotom
+  rotate: false
+  xy: 45, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rotom-fan
+  rotate: false
+  xy: 88, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rotom-frost
+  rotate: false
+  xy: 131, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rotom-heat
+  rotate: false
+  xy: 174, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rotom-mow
+  rotate: false
+  xy: 217, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rotom-wash
+  rotate: false
+  xy: 260, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rowlet
+  rotate: false
+  xy: 303, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+rufflet
+  rotate: false
+  xy: 346, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+runerigus
+  rotate: false
+  xy: 389, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sableye
+  rotate: false
+  xy: 432, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sableye-mega
+  rotate: false
+  xy: 475, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+salamence
+  rotate: false
+  xy: 518, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+salamence-mega
+  rotate: false
+  xy: 561, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+salandit
+  rotate: false
+  xy: 604, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+salazzle
+  rotate: false
+  xy: 647, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+samurott
+  rotate: false
+  xy: 690, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sandaconda
+  rotate: false
+  xy: 733, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sandaconda-gmax
+  rotate: false
+  xy: 776, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sandile
+  rotate: false
+  xy: 819, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sandshrew
+  rotate: false
+  xy: 862, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sandshrew-alola
+  rotate: false
+  xy: 905, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sandslash
+  rotate: false
+  xy: 948, 902
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sandslash-alola
+  rotate: false
+  xy: 2, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sandygast
+  rotate: false
+  xy: 45, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sawk
+  rotate: false
+  xy: 88, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sawsbuck
+  rotate: false
+  xy: 131, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sawsbuck-autumn
+  rotate: false
+  xy: 174, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sawsbuck-summer
+  rotate: false
+  xy: 217, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sawsbuck-winter
+  rotate: false
+  xy: 260, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scatterbug
+  rotate: false
+  xy: 303, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sceptile
+  rotate: false
+  xy: 346, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sceptile-mega
+  rotate: false
+  xy: 389, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scizor
+  rotate: false
+  xy: 432, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scizor-mega
+  rotate: false
+  xy: 475, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scizorh
+  rotate: false
+  xy: 518, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scolipede
+  rotate: false
+  xy: 561, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scorbunny
+  rotate: false
+  xy: 604, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scrafty
+  rotate: false
+  xy: 647, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scraggy
+  rotate: false
+  xy: 690, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scyther
+  rotate: false
+  xy: 733, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+scytherh
+  rotate: false
+  xy: 776, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+seadra
+  rotate: false
+  xy: 819, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+seaking
+  rotate: false
+  xy: 862, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sealeo
+  rotate: false
+  xy: 905, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+seedot
+  rotate: false
+  xy: 948, 866
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+seel
+  rotate: false
+  xy: 2, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+seismitoad
+  rotate: false
+  xy: 45, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sentret
+  rotate: false
+  xy: 88, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+serperior
+  rotate: false
+  xy: 131, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+servine
+  rotate: false
+  xy: 174, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+seviper
+  rotate: false
+  xy: 217, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sewaddle
+  rotate: false
+  xy: 260, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sharpedo
+  rotate: false
+  xy: 303, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sharpedo-mega
+  rotate: false
+  xy: 346, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shaymin
+  rotate: false
+  xy: 389, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shaymin-sky
+  rotate: false
+  xy: 432, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shedinja
+  rotate: false
+  xy: 475, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shelgon
+  rotate: false
+  xy: 518, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shellder
+  rotate: false
+  xy: 561, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shellos
+  rotate: false
+  xy: 604, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shellos-east
+  rotate: false
+  xy: 647, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shelmet
+  rotate: false
+  xy: 690, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shieldon
+  rotate: false
+  xy: 733, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shiftry
+  rotate: false
+  xy: 776, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shiinotic
+  rotate: false
+  xy: 819, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shinx
+  rotate: false
+  xy: 862, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shroomish
+  rotate: false
+  xy: 905, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shuckle
+  rotate: false
+  xy: 948, 830
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shuppet
+  rotate: false
+  xy: 2, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+shuppeth
+  rotate: false
+  xy: 45, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sigilyph
+  rotate: false
+  xy: 88, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silcoon
+  rotate: false
+  xy: 131, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silicobra
+  rotate: false
+  xy: 174, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally
+  rotate: false
+  xy: 217, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-bug
+  rotate: false
+  xy: 260, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-dark
+  rotate: false
+  xy: 303, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-dragon
+  rotate: false
+  xy: 346, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-electric
+  rotate: false
+  xy: 389, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-fairy
+  rotate: false
+  xy: 432, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-fighting
+  rotate: false
+  xy: 475, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-fire
+  rotate: false
+  xy: 518, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-flying
+  rotate: false
+  xy: 561, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-ghost
+  rotate: false
+  xy: 604, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-grass
+  rotate: false
+  xy: 647, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-ground
+  rotate: false
+  xy: 690, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-ice
+  rotate: false
+  xy: 733, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-poison
+  rotate: false
+  xy: 776, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-psychic
+  rotate: false
+  xy: 819, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-rock
+  rotate: false
+  xy: 862, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-steel
+  rotate: false
+  xy: 905, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+silvally-water
+  rotate: false
+  xy: 948, 794
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+simipour
+  rotate: false
+  xy: 45, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+simisage
+  rotate: false
+  xy: 88, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+simisear
+  rotate: false
+  xy: 131, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sinistea
+  rotate: false
+  xy: 174, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sirfetchd
+  rotate: false
+  xy: 217, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sizzlipede
+  rotate: false
+  xy: 260, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+skarmory
+  rotate: false
+  xy: 303, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+skarmoryh
+  rotate: false
+  xy: 346, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+skiddo
+  rotate: false
+  xy: 389, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+skiploom
+  rotate: false
+  xy: 432, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+skitty
+  rotate: false
+  xy: 475, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+skorupi
+  rotate: false
+  xy: 518, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+skrelp
+  rotate: false
+  xy: 561, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+skuntank
+  rotate: false
+  xy: 604, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+skwovet
+  rotate: false
+  xy: 647, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slaking
+  rotate: false
+  xy: 690, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slakoth
+  rotate: false
+  xy: 733, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sliggoo
+  rotate: false
+  xy: 776, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slowbro
+  rotate: false
+  xy: 819, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slowbro-galar
+  rotate: false
+  xy: 862, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slowbro-mega
+  rotate: false
+  xy: 905, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slowking
+  rotate: false
+  xy: 948, 758
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slowpoke
+  rotate: false
+  xy: 88, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slowpoke-galar
+  rotate: false
+  xy: 131, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slugma
+  rotate: false
+  xy: 174, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+slurpuff
+  rotate: false
+  xy: 217, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+smeargle
+  rotate: false
+  xy: 260, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+smoochum
+  rotate: false
+  xy: 303, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sneasel
+  rotate: false
+  xy: 346, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+snivy
+  rotate: false
+  xy: 389, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+snom
+  rotate: false
+  xy: 432, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+snorlax
+  rotate: false
+  xy: 475, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+snorlax-gmax
+  rotate: false
+  xy: 518, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+snorunt
+  rotate: false
+  xy: 561, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+snover
+  rotate: false
+  xy: 604, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+snubbull
+  rotate: false
+  xy: 647, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sobble
+  rotate: false
+  xy: 690, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+solgaleo
+  rotate: false
+  xy: 733, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+solosis
+  rotate: false
+  xy: 776, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+solrock
+  rotate: false
+  xy: 819, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spearow
+  rotate: false
+  xy: 862, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spewpa
+  rotate: false
+  xy: 905, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spheal
+  rotate: false
+  xy: 948, 722
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spinarak
+  rotate: false
+  xy: 131, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spinda
+  rotate: false
+  xy: 174, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spinda-blank
+  rotate: false
+  xy: 217, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spinda-filled
+  rotate: false
+  xy: 260, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spiritomb
+  rotate: false
+  xy: 303, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spoink
+  rotate: false
+  xy: 346, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+spritzee
+  rotate: false
+  xy: 389, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+squirtle
+  rotate: false
+  xy: 432, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+stakataka
+  rotate: false
+  xy: 475, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+stantler
+  rotate: false
+  xy: 518, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+staraptor
+  rotate: false
+  xy: 561, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+staravia
+  rotate: false
+  xy: 604, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+starly
+  rotate: false
+  xy: 647, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+starmie
+  rotate: false
+  xy: 690, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+staryu
+  rotate: false
+  xy: 733, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+steelix
+  rotate: false
+  xy: 776, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+steelix-mega
+  rotate: false
+  xy: 819, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+steenee
+  rotate: false
+  xy: 862, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+stonjourner
+  rotate: false
+  xy: 905, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+stoutland
+  rotate: false
+  xy: 948, 686
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+stufful
+  rotate: false
+  xy: 174, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+stunfisk
+  rotate: false
+  xy: 217, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+stunfisk-galar
+  rotate: false
+  xy: 260, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+stunky
+  rotate: false
+  xy: 303, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sudowoodo
+  rotate: false
+  xy: 346, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+suicune
+  rotate: false
+  xy: 389, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+suicuneh
+  rotate: false
+  xy: 432, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sunflora
+  rotate: false
+  xy: 475, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sunkern
+  rotate: false
+  xy: 518, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+surskit
+  rotate: false
+  xy: 561, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swablu
+  rotate: false
+  xy: 604, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swadloon
+  rotate: false
+  xy: 647, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swalot
+  rotate: false
+  xy: 690, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swampert
+  rotate: false
+  xy: 733, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swampert-mega
+  rotate: false
+  xy: 776, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swanna
+  rotate: false
+  xy: 819, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swellow
+  rotate: false
+  xy: 862, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swinub
+  rotate: false
+  xy: 905, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swirlix
+  rotate: false
+  xy: 948, 650
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+swoobat
+  rotate: false
+  xy: 217, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+sylveon
+  rotate: false
+  xy: 260, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+taillow
+  rotate: false
+  xy: 303, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+talonflame
+  rotate: false
+  xy: 346, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tangela
+  rotate: false
+  xy: 389, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tangrowth
+  rotate: false
+  xy: 432, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tapu-bulu
+  rotate: false
+  xy: 475, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tapu-fini
+  rotate: false
+  xy: 518, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tapu-koko
+  rotate: false
+  xy: 561, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tapu-lele
+  rotate: false
+  xy: 604, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tauros
+  rotate: false
+  xy: 647, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+teddiursa
+  rotate: false
+  xy: 690, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tentacool
+  rotate: false
+  xy: 733, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tentacruel
+  rotate: false
+  xy: 776, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tepig
+  rotate: false
+  xy: 819, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+terrakion
+  rotate: false
+  xy: 862, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+thievul
+  rotate: false
+  xy: 905, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+throh
+  rotate: false
+  xy: 948, 614
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+thundurus
+  rotate: false
+  xy: 260, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+thundurus-therian
+  rotate: false
+  xy: 303, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+thwackey
+  rotate: false
+  xy: 346, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+timburr
+  rotate: false
+  xy: 389, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tirtouga
+  rotate: false
+  xy: 432, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+togedemaru
+  rotate: false
+  xy: 475, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+togekiss
+  rotate: false
+  xy: 518, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+togepi
+  rotate: false
+  xy: 561, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+togetic
+  rotate: false
+  xy: 604, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+torchic
+  rotate: false
+  xy: 647, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+torkoal
+  rotate: false
+  xy: 690, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tornadus
+  rotate: false
+  xy: 733, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tornadus-therian
+  rotate: false
+  xy: 776, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+torracat
+  rotate: false
+  xy: 819, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+torterra
+  rotate: false
+  xy: 862, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+totodile
+  rotate: false
+  xy: 905, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+toucannon
+  rotate: false
+  xy: 948, 578
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+toxapex
+  rotate: false
+  xy: 303, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+toxel
+  rotate: false
+  xy: 346, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+toxicroak
+  rotate: false
+  xy: 389, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+toxtricity
+  rotate: false
+  xy: 432, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+toxtricity-gmax
+  rotate: false
+  xy: 475, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+toxtricity-low-key
+  rotate: false
+  xy: 518, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tranquill
+  rotate: false
+  xy: 561, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+trapinch
+  rotate: false
+  xy: 604, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+treecko
+  rotate: false
+  xy: 647, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+trevenant
+  rotate: false
+  xy: 690, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tropius
+  rotate: false
+  xy: 733, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+trubbish
+  rotate: false
+  xy: 776, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+trumbeak
+  rotate: false
+  xy: 819, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tsareena
+  rotate: false
+  xy: 862, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+turtonator
+  rotate: false
+  xy: 905, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+turtwig
+  rotate: false
+  xy: 948, 542
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tympole
+  rotate: false
+  xy: 346, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tynamo
+  rotate: false
+  xy: 389, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+type-null
+  rotate: false
+  xy: 432, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+typhlosion
+  rotate: false
+  xy: 475, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tyranitar
+  rotate: false
+  xy: 518, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tyranitar-mega
+  rotate: false
+  xy: 561, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tyrantrum
+  rotate: false
+  xy: 604, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tyrogue
+  rotate: false
+  xy: 647, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tyrunt
+  rotate: false
+  xy: 690, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+umbreon
+  rotate: false
+  xy: 733, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unfezant
+  rotate: false
+  xy: 776, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown
+  rotate: false
+  xy: 819, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-b
+  rotate: false
+  xy: 862, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-c
+  rotate: false
+  xy: 905, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-d
+  rotate: false
+  xy: 948, 506
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-e
+  rotate: false
+  xy: 389, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-exclamation
+  rotate: false
+  xy: 432, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-f
+  rotate: false
+  xy: 475, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-g
+  rotate: false
+  xy: 518, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-h
+  rotate: false
+  xy: 561, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-i
+  rotate: false
+  xy: 604, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-j
+  rotate: false
+  xy: 647, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-k
+  rotate: false
+  xy: 690, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-l
+  rotate: false
+  xy: 733, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-m
+  rotate: false
+  xy: 776, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-n
+  rotate: false
+  xy: 819, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-o
+  rotate: false
+  xy: 862, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-p
+  rotate: false
+  xy: 905, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-q
+  rotate: false
+  xy: 948, 470
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-question
+  rotate: false
+  xy: 432, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-r
+  rotate: false
+  xy: 475, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-s
+  rotate: false
+  xy: 518, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-t
+  rotate: false
+  xy: 561, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-u
+  rotate: false
+  xy: 604, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-v
+  rotate: false
+  xy: 647, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-w
+  rotate: false
+  xy: 690, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-x
+  rotate: false
+  xy: 733, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-y
+  rotate: false
+  xy: 776, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+unown-z
+  rotate: false
+  xy: 819, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+ursaring
+  rotate: false
+  xy: 862, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+urshifu
+  rotate: false
+  xy: 905, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+urshifu-gmax
+  rotate: false
+  xy: 948, 434
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+urshifu-rapid-strike-gmax
+  rotate: false
+  xy: 475, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+uxie
+  rotate: false
+  xy: 518, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vanillish
+  rotate: false
+  xy: 561, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vanillite
+  rotate: false
+  xy: 604, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vanilluxe
+  rotate: false
+  xy: 647, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vaporeon
+  rotate: false
+  xy: 690, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+venipede
+  rotate: false
+  xy: 733, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+venomoth
+  rotate: false
+  xy: 776, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+venonat
+  rotate: false
+  xy: 819, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+venusaur
+  rotate: false
+  xy: 862, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+venusaur-gmax
+  rotate: false
+  xy: 905, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+venusaur-mega
+  rotate: false
+  xy: 948, 398
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vespiquen
+  rotate: false
+  xy: 518, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vibrava
+  rotate: false
+  xy: 561, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+victini
+  rotate: false
+  xy: 604, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+victreebel
+  rotate: false
+  xy: 647, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vigoroth
+  rotate: false
+  xy: 690, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vikavolt
+  rotate: false
+  xy: 733, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vileplume
+  rotate: false
+  xy: 776, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+virizion
+  rotate: false
+  xy: 819, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon
+  rotate: false
+  xy: 862, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-archipelago
+  rotate: false
+  xy: 905, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-continental
+  rotate: false
+  xy: 948, 362
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-elegant
+  rotate: false
+  xy: 561, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-fancy
+  rotate: false
+  xy: 604, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-garden
+  rotate: false
+  xy: 647, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-high-plains
+  rotate: false
+  xy: 690, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-icy-snow
+  rotate: false
+  xy: 733, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-jungle
+  rotate: false
+  xy: 776, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-marine
+  rotate: false
+  xy: 819, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-modern
+  rotate: false
+  xy: 862, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-monsoon
+  rotate: false
+  xy: 905, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-ocean
+  rotate: false
+  xy: 948, 326
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-poke-ball
+  rotate: false
+  xy: 604, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-polar
+  rotate: false
+  xy: 647, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-river
+  rotate: false
+  xy: 690, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-sandstorm
+  rotate: false
+  xy: 733, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-savanna
+  rotate: false
+  xy: 776, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-sun
+  rotate: false
+  xy: 819, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vivillon-tundra
+  rotate: false
+  xy: 862, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+volbeat
+  rotate: false
+  xy: 905, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+volcanion
+  rotate: false
+  xy: 948, 290
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+volcarona
+  rotate: false
+  xy: 647, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+voltorb
+  rotate: false
+  xy: 690, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vullaby
+  rotate: false
+  xy: 733, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vulpix
+  rotate: false
+  xy: 776, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+vulpix-alola
+  rotate: false
+  xy: 819, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wailmer
+  rotate: false
+  xy: 862, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wailord
+  rotate: false
+  xy: 905, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+walrein
+  rotate: false
+  xy: 948, 254
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wartortle
+  rotate: false
+  xy: 690, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+watchog
+  rotate: false
+  xy: 733, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+weavile
+  rotate: false
+  xy: 776, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+weedle
+  rotate: false
+  xy: 819, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+weepinbell
+  rotate: false
+  xy: 862, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+weezing
+  rotate: false
+  xy: 905, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+weezing-galar
+  rotate: false
+  xy: 948, 218
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+whimsicott
+  rotate: false
+  xy: 733, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+whirlipede
+  rotate: false
+  xy: 776, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+whiscash
+  rotate: false
+  xy: 819, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+whismur
+  rotate: false
+  xy: 862, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wigglytuff
+  rotate: false
+  xy: 905, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wimpod
+  rotate: false
+  xy: 948, 182
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wingull
+  rotate: false
+  xy: 776, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wishiwashi
+  rotate: false
+  xy: 819, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wishiwashi-school
+  rotate: false
+  xy: 862, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wobbuffet
+  rotate: false
+  xy: 905, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+woobat
+  rotate: false
+  xy: 948, 146
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wooloo
+  rotate: false
+  xy: 819, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wooper
+  rotate: false
+  xy: 862, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wormadam
+  rotate: false
+  xy: 905, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wormadam-sandy
+  rotate: false
+  xy: 948, 110
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wormadam-trash
+  rotate: false
+  xy: 862, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wurmple
+  rotate: false
+  xy: 905, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wynaut
+  rotate: false
+  xy: 948, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+xatu
+  rotate: false
+  xy: 905, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+xerneas
+  rotate: false
+  xy: 948, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+xerneas-active
+  rotate: false
+  xy: 948, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+
+pokemon-front-icons3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xurkitree
+  rotate: false
+  xy: 2, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+yamask
+  rotate: false
+  xy: 2, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+yamask-galar
+  rotate: false
+  xy: 45, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+yamper
+  rotate: false
+  xy: 2, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+yanma
+  rotate: false
+  xy: 45, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+yanmega
+  rotate: false
+  xy: 88, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+yungoos
+  rotate: false
+  xy: 45, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+yveltal
+  rotate: false
+  xy: 88, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zacian
+  rotate: false
+  xy: 131, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zacian-crowned
+  rotate: false
+  xy: 88, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zamazenta
+  rotate: false
+  xy: 131, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zamazenta-crowned
+  rotate: false
+  xy: 174, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zangoose
+  rotate: false
+  xy: 131, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zapdos
+  rotate: false
+  xy: 174, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zarude
+  rotate: false
+  xy: 217, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zarude-dada
+  rotate: false
+  xy: 174, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zebstrika
+  rotate: false
+  xy: 217, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zekrom
+  rotate: false
+  xy: 260, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zeraora
+  rotate: false
+  xy: 217, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zigzagoon
+  rotate: false
+  xy: 260, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zigzagoon-galar
+  rotate: false
+  xy: 303, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zoroark
+  rotate: false
+  xy: 260, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zorua
+  rotate: false
+  xy: 303, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zubat
+  rotate: false
+  xy: 346, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zweilous
+  rotate: false
+  xy: 303, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zygarde
+  rotate: false
+  xy: 346, 38
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zygarde-10
+  rotate: false
+  xy: 389, 74
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+zygarde-complete
+  rotate: false
+  xy: 346, 2
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7678 @@
+
+ui.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ach_icon
+  rotate: false
+  xy: 1004, 138
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+achievement_progress_bar_strip
+  rotate: false
+  xy: 1020, 58
+  size: 1, 12
+  orig: 1, 12
+  offset: 0, 0
+  index: -1
+achievement_progressbar_ribbon_left_knob_v2
+  rotate: false
+  xy: 1012, 283
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+achievement_progressbar_ribbon_v2
+  rotate: false
+  xy: 1019, 381
+  size: 3, 13
+  orig: 3, 13
+  offset: 0, 0
+  index: -1
+bag_search_icon
+  rotate: false
+  xy: 1004, 56
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+battle_hp_bar_full_knob
+  rotate: false
+  xy: 1012, 315
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+battle_hp_bar_full_strip
+  rotate: false
+  xy: 1012, 161
+  size: 1, 15
+  orig: 1, 15
+  offset: 0, 0
+  index: -1
+battle_hp_bar_half_knob
+  rotate: false
+  xy: 1012, 463
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+battle_hp_bar_half_strip
+  rotate: false
+  xy: 1015, 161
+  size: 1, 15
+  orig: 1, 15
+  offset: 0, 0
+  index: -1
+battle_hp_bar_low_knob
+  rotate: false
+  xy: 1012, 446
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+battle_hp_bar_low_strip
+  rotate: false
+  xy: 1020, 266
+  size: 1, 15
+  orig: 1, 15
+  offset: 0, 0
+  index: -1
+bp_level_bar
+  rotate: false
+  xy: 965, 613
+  size: 28, 409
+  orig: 28, 409
+  offset: 0, 0
+  index: -1
+bp_level_bar_ribbon
+  rotate: false
+  xy: 935, 612
+  size: 28, 410
+  orig: 28, 410
+  offset: 0, 0
+  index: -1
+category_application
+  rotate: false
+  xy: 998, 30
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+channel_config_dialog_back
+  rotate: false
+  xy: 754, 161
+  size: 256, 336
+  orig: 256, 336
+  offset: 0, 0
+  index: -1
+channel_list_info_icon
+  rotate: false
+  xy: 1012, 178
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+channel_player_mute_icon
+  rotate: false
+  xy: 1010, 953
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+channel_player_unmute_icon
+  rotate: false
+  xy: 1010, 940
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 1020, 883
+  size: 1, 16
+  orig: 1, 16
+  offset: 0, 0
+  index: -1
+customisation
+  rotate: false
+  xy: 1004, 72
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+donator_gem_cost_icon
+  rotate: false
+  xy: 1010, 966
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+exp_bar_back
+  rotate: false
+  xy: 445, 5
+  size: 163, 6
+  orig: 163, 6
+  offset: 0, 0
+  index: -1
+exp_bar_knob
+  rotate: false
+  xy: 1019, 985
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+exp_bar_ribbon
+  rotate: false
+  xy: 778, 51
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+exp_bar_ribbon_before
+  rotate: false
+  xy: 1010, 798
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+exp_bar_strip
+  rotate: false
+  xy: 998, 24
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+exp_tag
+  rotate: false
+  xy: 754, 47
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+female_icon
+  rotate: false
+  xy: 775, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+friend_label
+  rotate: false
+  xy: 783, 24
+  size: 213, 30
+  orig: 213, 30
+  offset: 0, 0
+  index: -1
+grassTypeIcon
+  rotate: false
+  xy: 1004, 115
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+hp_bar_back
+  rotate: false
+  xy: 216, 2
+  size: 57, 5
+  orig: 57, 5
+  offset: 0, 0
+  index: -1
+hp_bar_full_knob
+  rotate: false
+  xy: 1012, 298
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+hp_bar_full_strip
+  rotate: false
+  xy: 1020, 249
+  size: 1, 15
+  orig: 1, 15
+  offset: 0, 0
+  index: -1
+hp_bar_half_knob
+  rotate: false
+  xy: 1012, 429
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+hp_bar_half_strip
+  rotate: false
+  xy: 1020, 232
+  size: 1, 15
+  orig: 1, 15
+  offset: 0, 0
+  index: -1
+hp_bar_low_knob
+  rotate: false
+  xy: 1012, 412
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+hp_bar_low_strip
+  rotate: false
+  xy: 1020, 215
+  size: 1, 15
+  orig: 1, 15
+  offset: 0, 0
+  index: -1
+hp_bar_ribbon
+  rotate: false
+  xy: 374, 4
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+hp_bar_ribbon_after
+  rotate: false
+  xy: 332, 2
+  size: 40, 5
+  orig: 40, 5
+  offset: 0, 0
+  index: -1
+hp_bar_ribbon_before
+  rotate: false
+  xy: 1020, 878
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+hp_tag
+  rotate: false
+  xy: 766, 47
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+iceTypeIcon
+  rotate: false
+  xy: 1004, 92
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+jvaloh_world_map
+  rotate: false
+  xy: 2, 47
+  size: 750, 450
+  orig: 750, 450
+  offset: 0, 0
+  index: -1
+login_cancel_button
+  rotate: false
+  xy: 935, 499
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+name_label_center
+  rotate: false
+  xy: 1019, 1007
+  size: 3, 15
+  orig: 3, 15
+  offset: 0, 0
+  index: -1
+name_label_left
+  rotate: false
+  xy: 1015, 361
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+name_label_right
+  rotate: false
+  xy: 1015, 344
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+party_evs_cancel_default
+  rotate: false
+  xy: 1010, 927
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+party_evs_cancel_default_clicked
+  rotate: false
+  xy: 1010, 914
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+party_evs_cancel_default_hover
+  rotate: false
+  xy: 1010, 901
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+party_evs_knob_clicked
+  rotate: false
+  xy: 1012, 268
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+party_evs_knob_default
+  rotate: false
+  xy: 1012, 253
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+party_evs_knob_hover_default
+  rotate: false
+  xy: 1012, 238
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+party_evs_med_box_back_default
+  rotate: false
+  xy: 995, 595
+  size: 26, 173
+  orig: 26, 173
+  offset: 0, 0
+  index: -1
+party_evs_slider_back_default
+  rotate: false
+  xy: 2, 2
+  size: 105, 5
+  orig: 105, 5
+  offset: 0, 0
+  index: -1
+party_evs_slider_ribbon_default
+  rotate: false
+  xy: 109, 2
+  size: 105, 5
+  orig: 105, 5
+  offset: 0, 0
+  index: -1
+party_exp_bar_back
+  rotate: false
+  xy: 610, 5
+  size: 163, 6
+  orig: 163, 6
+  offset: 0, 0
+  index: -1
+party_happiness_bar_back
+  rotate: false
+  xy: 1000, 910
+  size: 8, 112
+  orig: 8, 112
+  offset: 0, 0
+  index: -1
+party_happiness_bar_ribbon_default
+  rotate: false
+  xy: 1000, 796
+  size: 8, 112
+  orig: 8, 112
+  offset: 0, 0
+  index: -1
+party_iv_button
+  rotate: false
+  xy: 974, 544
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+pokedex_scroll_bar
+  rotate: false
+  xy: 1010, 982
+  size: 7, 40
+  orig: 7, 40
+  offset: 0, 0
+  index: -1
+pokedex_search_bar_back
+  rotate: false
+  xy: 754, 56
+  size: 248, 103
+  orig: 248, 103
+  offset: 0, 0
+  index: -1
+pokedex_stats_bar
+  rotate: false
+  xy: 1019, 396
+  size: 3, 14
+  orig: 3, 14
+  offset: 0, 0
+  index: -1
+pokedex_stats_bar_knob
+  rotate: false
+  xy: 1019, 991
+  size: 3, 14
+  orig: 3, 14
+  offset: 0, 0
+  index: -1
+scroll_back
+  rotate: false
+  xy: 995, 770
+  size: 3, 252
+  orig: 3, 252
+  offset: 0, 0
+  index: -1
+scrollbar
+  rotate: false
+  xy: 1012, 378
+  size: 5, 32
+  split: 1, 2, 2, 3
+  pad: 1, 0, 0, 0
+  orig: 5, 32
+  offset: 0, 0
+  index: -1
+scrollbar_horizontal
+  rotate: false
+  xy: 1012, 332
+  size: 10, 10
+  split: 3, 4, 2, 5
+  pad: 0, 0, 0, 0
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+settings_keybinding_icon
+  rotate: false
+  xy: 974, 595
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+settings_selectbox_background
+  rotate: false
+  xy: 927, 2
+  size: 93, 20
+  orig: 93, 20
+  offset: 0, 0
+  index: -1
+settings_selection_button
+  rotate: false
+  xy: 974, 528
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+settings_slider_knob
+  rotate: false
+  xy: 1012, 223
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+settings_slider_knob_clicked
+  rotate: false
+  xy: 1012, 208
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+settings_slider_knob_hover
+  rotate: false
+  xy: 1012, 193
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+settings_sound_icon
+  rotate: false
+  xy: 1012, 480
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+sidebar_expand_button
+  rotate: false
+  xy: 935, 528
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+ss_information_divider
+  rotate: false
+  xy: 2, 9
+  size: 441, 2
+  orig: 441, 2
+  offset: 0, 0
+  index: -1
+stat_bar_strip
+  rotate: false
+  xy: 1020, 202
+  size: 1, 11
+  orig: 1, 11
+  offset: 0, 0
+  index: -1
+stat_bar_strip_green
+  rotate: false
+  xy: 1019, 180
+  size: 1, 11
+  orig: 1, 11
+  offset: 0, 0
+  index: -1
+stat_bar_strip_knob
+  rotate: false
+  xy: 1018, 165
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+storage_box_back_button
+  rotate: false
+  xy: 1010, 849
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+storage_box_back_button_clicked
+  rotate: false
+  xy: 1010, 826
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+storage_box_back_button_hover
+  rotate: false
+  xy: 1010, 803
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+switch_box_bar
+  rotate: false
+  xy: 275, 2
+  size: 55, 5
+  orig: 55, 5
+  offset: 0, 0
+  index: -1
+switch_box_strip
+  rotate: false
+  xy: 1020, 197
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+tc_bc_dropdown_scroll
+  rotate: false
+  xy: 1010, 872
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+tc_tc_icon
+  rotate: false
+  xy: 1000, 772
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+th_search_bar_back
+  rotate: false
+  xy: 2, 13
+  size: 779, 32
+  orig: 779, 32
+  offset: 0, 0
+  index: -1
+trade_add_money_txt_back
+  rotate: false
+  xy: 783, 2
+  size: 142, 20
+  orig: 142, 20
+  offset: 0, 0
+  index: -1
+trp_icons_separator
+  rotate: false
+  xy: 1012, 344
+  size: 1, 32
+  orig: 1, 32
+  offset: 0, 0
+  index: -1
+world_map_back
+  rotate: false
+  xy: 2, 499
+  size: 931, 523
+  orig: 931, 523
+  offset: 0, 0
+  index: -1
+wp
+  rotate: false
+  xy: 1019, 378
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+ui2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+achievement_progress_bar_knob
+  rotate: false
+  xy: 1015, 724
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+bag_label
+  rotate: false
+  xy: 875, 2
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+bag_label_clicked
+  rotate: false
+  xy: 934, 2
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+bat_lv
+  rotate: false
+  xy: 1010, 36
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+box_bottom
+  rotate: false
+  xy: 851, 768
+  size: 166, 32
+  orig: 166, 32
+  offset: 0, 0
+  index: -1
+channel_create_box
+  rotate: false
+  xy: 851, 674
+  size: 162, 92
+  orig: 162, 92
+  offset: 0, 0
+  index: -1
+channel_list_info_icon_clicked
+  rotate: false
+  xy: 1015, 753
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+channel_list_info_icon_hover
+  rotate: false
+  xy: 1015, 738
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+darkTypeIcon
+  rotate: false
+  xy: 999, 627
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dark_button
+  rotate: false
+  xy: 993, 47
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+donator_box_back
+  rotate: false
+  xy: 2, 2
+  size: 667, 502
+  orig: 667, 502
+  offset: 0, 0
+  index: -1
+donator_player_back
+  rotate: false
+  xy: 851, 508
+  size: 146, 164
+  orig: 146, 164
+  offset: 0, 0
+  index: -1
+fairyTypeIcon
+  rotate: false
+  xy: 999, 517
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+fancy_tick
+  rotate: false
+  xy: 999, 541
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+hover_battle_stats_title
+  rotate: false
+  xy: 999, 614
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+male_icon
+  rotate: false
+  xy: 1010, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+mart_back_box
+  rotate: false
+  xy: 671, 70
+  size: 348, 319
+  orig: 348, 319
+  offset: 0, 0
+  index: -1
+mart_item_icon
+  rotate: false
+  xy: 851, 802
+  size: 168, 50
+  orig: 168, 50
+  offset: 0, 0
+  index: -1
+pokemon_select_box
+  rotate: false
+  xy: 671, 391
+  size: 350, 113
+  orig: 350, 113
+  offset: 0, 0
+  index: -1
+scroll_bar
+  rotate: false
+  xy: 993, 2
+  size: 15, 43
+  orig: 15, 43
+  offset: 0, 0
+  index: -1
+server_loading_wheel
+  rotate: false
+  xy: 999, 649
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+stat_bar_strip_knob_green
+  rotate: false
+  xy: 1015, 711
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+storage_box_next_button
+  rotate: false
+  xy: 1010, 13
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+th_back
+  rotate: false
+  xy: 2, 506
+  size: 847, 516
+  orig: 847, 516
+  offset: 0, 0
+  index: -1
+th_dropdown_arrow_down
+  rotate: false
+  xy: 999, 506
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+th_loading_blue_large
+  rotate: false
+  xy: 671, 2
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+th_loading_blue_medium
+  rotate: false
+  xy: 739, 2
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+th_loading_white_mini
+  rotate: false
+  xy: 807, 2
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+trainer
+  rotate: false
+  xy: 999, 559
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+travel_box
+  rotate: false
+  xy: 851, 854
+  size: 170, 168
+  orig: 170, 168
+  offset: 0, 0
+  index: -1
+uncommon_rarity
+  rotate: false
+  xy: 999, 583
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+
+ui3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Icon Logout
+  rotate: false
+  xy: 573, 363
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+ach_title_button
+  rotate: false
+  xy: 851, 846
+  size: 160, 21
+  orig: 160, 21
+  offset: 0, 0
+  index: -1
+ach_title_button_applied
+  rotate: false
+  xy: 851, 823
+  size: 160, 21
+  orig: 160, 21
+  offset: 0, 0
+  index: -1
+ach_title_button_applied_checked
+  rotate: false
+  xy: 851, 1001
+  size: 162, 21
+  orig: 162, 21
+  offset: 0, 0
+  index: -1
+ach_title_button_applied_clicked
+  rotate: false
+  xy: 851, 978
+  size: 162, 21
+  orig: 162, 21
+  offset: 0, 0
+  index: -1
+ach_title_button_applied_hover
+  rotate: false
+  xy: 851, 955
+  size: 162, 21
+  orig: 162, 21
+  offset: 0, 0
+  index: -1
+ach_title_button_checked
+  rotate: false
+  xy: 851, 800
+  size: 160, 21
+  orig: 160, 21
+  offset: 0, 0
+  index: -1
+ach_title_button_clicked
+  rotate: false
+  xy: 851, 777
+  size: 160, 21
+  orig: 160, 21
+  offset: 0, 0
+  index: -1
+ach_title_button_hover
+  rotate: false
+  xy: 851, 754
+  size: 160, 21
+  orig: 160, 21
+  offset: 0, 0
+  index: -1
+achievement_back
+  rotate: false
+  xy: 600, 112
+  size: 419, 392
+  orig: 419, 392
+  offset: 0, 0
+  index: -1
+achievement_progressbar_ribbon_right_knob_v2
+  rotate: false
+  xy: 1010, 694
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+achievement_rewardback
+  rotate: false
+  xy: 987, 506
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+blank_background_playerplatform
+  rotate: false
+  xy: 851, 507
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+bp_back
+  rotate: false
+  xy: 2, 14
+  size: 569, 490
+  orig: 569, 490
+  offset: 0, 0
+  index: -1
+category_pve
+  rotate: false
+  xy: 573, 324
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+category_skills
+  rotate: false
+  xy: 573, 298
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+category_storage
+  rotate: false
+  xy: 573, 272
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+discovery
+  rotate: false
+  xy: 573, 246
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+fishing_button
+  rotate: false
+  xy: 573, 14
+  size: 82, 74
+  orig: 82, 74
+  offset: 0, 0
+  index: -1
+friend_tab_blocked
+  rotate: false
+  xy: 573, 220
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+friend_tab_main
+  rotate: false
+  xy: 573, 194
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+friend_whisper_icon
+  rotate: false
+  xy: 573, 168
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hover_bio_label
+  rotate: false
+  xy: 851, 869
+  size: 160, 22
+  orig: 160, 22
+  offset: 0, 0
+  index: -1
+hover_u_evs_title
+  rotate: false
+  xy: 573, 350
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+item_button_clicked
+  rotate: false
+  xy: 851, 643
+  size: 157, 79
+  orig: 157, 79
+  offset: 0, 0
+  index: -1
+jvaloh_1
+  rotate: false
+  xy: 912, 4
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+kick_button
+  rotate: false
+  xy: 1010, 680
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+kick_button_clicked
+  rotate: false
+  xy: 1010, 666
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+kick_button_hover
+  rotate: false
+  xy: 1010, 652
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+left_button
+  rotate: false
+  xy: 994, 40
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+legendary_rarity
+  rotate: false
+  xy: 994, 8
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+login_textfield
+  rotate: false
+  xy: 851, 924
+  size: 160, 29
+  orig: 160, 29
+  offset: 0, 0
+  index: -1
+login_textfield_hover
+  rotate: false
+  xy: 851, 893
+  size: 160, 29
+  orig: 160, 29
+  offset: 0, 0
+  index: -1
+money_field
+  rotate: false
+  xy: 851, 724
+  size: 158, 28
+  orig: 158, 28
+  offset: 0, 0
+  index: -1
+ng
+  rotate: false
+  xy: 573, 142
+  size: 24, 24
+  split: 9, 9, 9, 9
+  pad: 0, 0, 0, 0
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+party_atk_icon_default
+  rotate: false
+  xy: 202, 3
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+party_base_hp_icon_default
+  rotate: false
+  xy: 233, 3
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+party_def_icon_default
+  rotate: false
+  xy: 264, 3
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+party_evs_stat_back
+  rotate: false
+  xy: 2, 2
+  size: 137, 10
+  orig: 137, 10
+  offset: 0, 0
+  index: -1
+party_evs_value_label_back_default
+  rotate: false
+  xy: 696, 13
+  size: 175, 75
+  orig: 175, 75
+  offset: 0, 0
+  index: -1
+party_exp_bar_back_default
+  rotate: false
+  xy: 388, 4
+  size: 104, 8
+  orig: 104, 8
+  offset: 0, 0
+  index: -1
+party_exp_bar_ribbon_default
+  rotate: false
+  xy: 494, 4
+  size: 104, 8
+  orig: 104, 8
+  offset: 0, 0
+  index: -1
+party_hp_bar_back_default
+  rotate: false
+  xy: 696, 3
+  size: 104, 8
+  orig: 104, 8
+  offset: 0, 0
+  index: -1
+party_ivs_atk_label
+  rotate: false
+  xy: 141, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+party_ivs_base_hp_label
+  rotate: false
+  xy: 185, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+party_ivs_def_label
+  rotate: false
+  xy: 163, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+party_reset_ivs_button_clicked_default
+  rotate: false
+  xy: 573, 440
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+party_reset_ivs_button_default
+  rotate: false
+  xy: 573, 411
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+party_reset_ivs_button_hover_default
+  rotate: false
+  xy: 573, 382
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+party_sp_atk_icon_default
+  rotate: false
+  xy: 295, 3
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+party_sp_def_icon_default
+  rotate: false
+  xy: 326, 3
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+party_speed_icon_default
+  rotate: false
+  xy: 357, 3
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+pokeballs
+  rotate: false
+  xy: 987, 608
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+pokeballs_clicked
+  rotate: false
+  xy: 987, 573
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+pokeballs_hover
+  rotate: false
+  xy: 987, 538
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+question_mark_spawn
+  rotate: false
+  xy: 573, 469
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+scrollbar_vertical
+  rotate: false
+  xy: 573, 116
+  size: 24, 24
+  split: 6, 6, 4, 6
+  pad: 0, 0, 0, 0
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+sidebar_expand_button_clicked
+  rotate: false
+  xy: 657, 2
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+sidebar_expand_button_hover
+  rotate: false
+  xy: 873, 2
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+speech_name_label
+  rotate: false
+  xy: 873, 86
+  size: 148, 24
+  orig: 148, 24
+  offset: 0, 0
+  index: -1
+storage_box_next_button_clicked
+  rotate: false
+  xy: 1011, 731
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+storage_box_next_button_hover
+  rotate: false
+  xy: 1011, 708
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+storage_box_search_bar
+  rotate: false
+  xy: 599, 90
+  size: 272, 20
+  orig: 272, 20
+  offset: 0, 0
+  index: -1
+th_main_tab_icon
+  rotate: false
+  xy: 573, 90
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+th_transparent_front
+  rotate: false
+  xy: 2, 506
+  size: 847, 516
+  orig: 847, 516
+  offset: 0, 0
+  index: -1
+
+ui4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+achievement_progressbar_back_v2
+  rotate: false
+  xy: 836, 3
+  size: 111, 12
+  orig: 111, 12
+  offset: 0, 0
+  index: -1
+audiowide_outline1
+  rotate: false
+  xy: 754, 766
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+audiowide_outline2
+  rotate: false
+  xy: 754, 473
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+berries
+  rotate: false
+  xy: 976, 216
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+berries_clicked
+  rotate: false
+  xy: 976, 174
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+boosts_icon
+  rotate: false
+  xy: 976, 131
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+bp_back_bottom
+  rotate: false
+  xy: 365, 17
+  size: 582, 101
+  orig: 582, 101
+  offset: 0, 0
+  index: -1
+bp_exp_eclipse_bar
+  rotate: false
+  xy: 949, 56
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+channel_player_list_back
+  rotate: false
+  xy: 754, 131
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+donator_minus_button
+  rotate: false
+  xy: 413, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+donator_minus_button_clicked
+  rotate: false
+  xy: 430, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+donator_minus_button_hover
+  rotate: false
+  xy: 447, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+donator_plus_button
+  rotate: false
+  xy: 464, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+donator_plus_button_clicked
+  rotate: false
+  xy: 481, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+donator_plus_button_hover
+  rotate: false
+  xy: 498, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+exp_bar_back_box
+  rotate: false
+  xy: 754, 731
+  size: 266, 33
+  orig: 266, 33
+  offset: 0, 0
+  index: -1
+fish_exc
+  rotate: false
+  xy: 754, 407
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+leaderboards_icon
+  rotate: false
+  xy: 365, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+login_check
+  rotate: false
+  xy: 949, 18
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+party_box
+  rotate: false
+  xy: 976, 358
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+party_box_hover
+  rotate: false
+  xy: 976, 309
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+party_happiness_emoji
+  rotate: false
+  xy: 1011, 5
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+party_hp_bar_ribbon_default
+  rotate: false
+  xy: 754, 121
+  size: 104, 8
+  orig: 104, 8
+  offset: 0, 0
+  index: -1
+settings_close_button
+  rotate: false
+  xy: 515, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+settings_close_button_clicked
+  rotate: false
+  xy: 530, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+settings_close_button_hover
+  rotate: false
+  xy: 545, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+settings_gameplay_icon
+  rotate: false
+  xy: 391, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+settings_selection_button_clicked
+  rotate: false
+  xy: 976, 292
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+settings_selection_button_hover
+  rotate: false
+  xy: 976, 275
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+settings_selection_button_selected
+  rotate: false
+  xy: 976, 258
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+settings_slider_back
+  rotate: false
+  xy: 560, 3
+  size: 136, 12
+  orig: 136, 12
+  offset: 0, 0
+  index: -1
+settings_slider_ribbon
+  rotate: false
+  xy: 698, 3
+  size: 136, 12
+  orig: 136, 12
+  offset: 0, 0
+  index: -1
+sinnoh_world_map
+  rotate: false
+  xy: 2, 572
+  size: 750, 450
+  orig: 750, 450
+  offset: 0, 0
+  index: -1
+tc_bc_dropdown_list_hover
+  rotate: false
+  xy: 949, 2
+  size: 60, 14
+  orig: 60, 14
+  offset: 0, 0
+  index: -1
+tc_journal_background_box
+  rotate: false
+  xy: 2, 3
+  size: 361, 115
+  orig: 361, 115
+  offset: 0, 0
+  index: -1
+world_map
+  rotate: false
+  xy: 2, 120
+  size: 750, 450
+  orig: 750, 450
+  offset: 0, 0
+  index: -1
+
+ui5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ach_leaderboard_label
+  rotate: false
+  xy: 593, 2
+  size: 290, 25
+  orig: 290, 25
+  offset: 0, 0
+  index: -1
+achievement_progress_bar_back
+  rotate: false
+  xy: 656, 513
+  size: 141, 16
+  orig: 141, 16
+  offset: 0, 0
+  index: -1
+bp_normal_claim_button
+  rotate: false
+  xy: 885, 2
+  size: 137, 25
+  orig: 137, 25
+  offset: 0, 0
+  index: -1
+chat_trade_box
+  rotate: false
+  xy: 656, 531
+  size: 359, 214
+  orig: 359, 214
+  offset: 0, 0
+  index: -1
+crew_leave_button
+  rotate: false
+  xy: 252, 2
+  size: 71, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+crew_leave_button_clicked
+  rotate: false
+  xy: 325, 2
+  size: 71, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+crew_leave_button_hover
+  rotate: false
+  xy: 398, 2
+  size: 71, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+crew_member_capacity_icon
+  rotate: false
+  xy: 999, 200
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+crew_member_rank_co_leader_icon
+  rotate: false
+  xy: 999, 91
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+crew_member_rank_leader_icon
+  rotate: false
+  xy: 999, 71
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+donator_back
+  rotate: false
+  xy: 2, 513
+  size: 652, 509
+  orig: 652, 509
+  offset: 0, 0
+  index: -1
+fancy_button_green
+  rotate: false
+  xy: 471, 2
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+fancy_button_green_clicked
+  rotate: false
+  xy: 532, 2
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+flyingTypeIcon
+  rotate: false
+  xy: 999, 29
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+friend_back
+  rotate: false
+  xy: 656, 747
+  size: 365, 275
+  orig: 365, 275
+  offset: 0, 0
+  index: -1
+groundTypeIcon
+  rotate: false
+  xy: 999, 51
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+gym_case_icon
+  rotate: false
+  xy: 999, 155
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+gymbadges
+  rotate: false
+  xy: 999, 133
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+journal
+  rotate: false
+  xy: 1006, 506
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+left_button_clicked
+  rotate: false
+  xy: 999, 292
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+login_register_back
+  rotate: false
+  xy: 589, 29
+  size: 408, 482
+  orig: 408, 482
+  offset: 0, 0
+  index: -1
+noneTypeIcon
+  rotate: false
+  xy: 999, 435
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+poisonTypeIcon
+  rotate: false
+  xy: 999, 177
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+pokedex_back
+  rotate: false
+  xy: 2, 25
+  size: 585, 486
+  orig: 585, 486
+  offset: 0, 0
+  index: -1
+pokemons
+  rotate: false
+  xy: 999, 482
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+right_button_clicked
+  rotate: false
+  xy: 999, 254
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+settings_checkbox_off
+  rotate: false
+  xy: 999, 414
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+settings_checkbox_off_hover
+  rotate: false
+  xy: 999, 393
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+settings_checkbox_on
+  rotate: false
+  xy: 999, 372
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+settings_checkbox_on_hover
+  rotate: false
+  xy: 999, 351
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+steelTypeIcon
+  rotate: false
+  xy: 999, 330
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+tc_gymcase_icon
+  rotate: false
+  xy: 999, 111
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+tc_party_icon
+  rotate: false
+  xy: 999, 458
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+th_dropdown_list_back
+  rotate: false
+  xy: 2, 2
+  size: 123, 21
+  orig: 123, 21
+  offset: 0, 0
+  index: -1
+th_dropdown_list_hover
+  rotate: false
+  xy: 127, 2
+  size: 123, 21
+  orig: 123, 21
+  offset: 0, 0
+  index: -1
+th_search_button
+  rotate: false
+  xy: 799, 513
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+th_search_button_clicked
+  rotate: false
+  xy: 868, 513
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+th_search_button_hover
+  rotate: false
+  xy: 937, 513
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+unknown_rarety
+  rotate: false
+  xy: 999, 225
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+
+ui6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+achievement_label
+  rotate: false
+  xy: 646, 927
+  size: 331, 57
+  orig: 331, 57
+  offset: 0, 0
+  index: -1
+bag_background
+  rotate: false
+  xy: 602, 148
+  size: 415, 307
+  orig: 415, 307
+  offset: 0, 0
+  index: -1
+bag_bin
+  rotate: false
+  xy: 628, 767
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+bag_side_panel_icon
+  rotate: false
+  xy: 979, 920
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+battle
+  rotate: false
+  xy: 970, 655
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+battle_burn
+  rotate: false
+  xy: 987, 1006
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+battle_clicked
+  rotate: false
+  xy: 970, 604
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+battle_confusion
+  rotate: false
+  xy: 987, 988
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+battle_female
+  rotate: false
+  xy: 1005, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+battle_freeze
+  rotate: false
+  xy: 987, 970
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+battle_hover
+  rotate: false
+  xy: 970, 553
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+battle_hp_bar_back
+  rotate: false
+  xy: 104, 497
+  size: 131, 15
+  orig: 131, 15
+  offset: 0, 0
+  index: -1
+box_number_back
+  rotate: false
+  xy: 970, 457
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+bp_normal_icon
+  rotate: false
+  xy: 602, 4
+  size: 207, 142
+  orig: 207, 142
+  offset: 0, 0
+  index: -1
+bugTypeIcon
+  rotate: false
+  xy: 628, 587
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+cancel_evolution
+  rotate: false
+  xy: 972, 832
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+cancel_evolution_clicked
+  rotate: false
+  xy: 972, 811
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+cancel_evolution_hover
+  rotate: false
+  xy: 972, 790
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+chat_text_field
+  rotate: false
+  xy: 104, 514
+  size: 437, 34
+  orig: 437, 34
+  offset: 0, 0
+  index: -1
+crew_exp_progress_bar_back
+  rotate: false
+  xy: 646, 1005
+  size: 339, 17
+  orig: 339, 17
+  offset: 0, 0
+  index: -1
+crew_exp_progress_bar_ribbon
+  rotate: false
+  xy: 646, 986
+  size: 339, 17
+  orig: 339, 17
+  offset: 0, 0
+  index: -1
+crew_logo_change_back
+  rotate: false
+  xy: 646, 484
+  size: 322, 228
+  orig: 322, 228
+  offset: 0, 0
+  index: -1
+crew_management_skill_icon
+  rotate: false
+  xy: 544, 509
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+crew_npc_clicked_label
+  rotate: false
+  xy: 646, 856
+  size: 324, 69
+  orig: 324, 69
+  offset: 0, 0
+  index: -1
+crew_npc_hover_label
+  rotate: false
+  xy: 646, 785
+  size: 324, 69
+  orig: 324, 69
+  offset: 0, 0
+  index: -1
+crew_npc_label
+  rotate: false
+  xy: 646, 714
+  size: 324, 69
+  orig: 324, 69
+  offset: 0, 0
+  index: -1
+crew_storage_footer_back
+  rotate: false
+  xy: 237, 497
+  size: 121, 15
+  orig: 121, 15
+  offset: 0, 0
+  index: -1
+electricTypeIcon
+  rotate: false
+  xy: 628, 813
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+enter-button
+  rotate: false
+  xy: 2, 498
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+fireTypeIcon
+  rotate: false
+  xy: 1005, 61
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+flying_type_icon
+  rotate: false
+  xy: 1005, 39
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+friend_x
+  rotate: false
+  xy: 1005, 18
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+ghostTypeIcon
+  rotate: false
+  xy: 628, 564
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+held_item_icon
+  rotate: false
+  xy: 628, 745
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+hover_stats_box
+  rotate: false
+  xy: 811, 3
+  size: 192, 111
+  orig: 192, 111
+  offset: 0, 0
+  index: -1
+items_clicked
+  rotate: false
+  xy: 602, 497
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+iv_reset_icon
+  rotate: false
+  xy: 628, 727
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+learn
+  rotate: false
+  xy: 972, 769
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+learn_disabled
+  rotate: false
+  xy: 972, 748
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+learn_hover
+  rotate: false
+  xy: 972, 727
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+learn_move
+  rotate: false
+  xy: 972, 706
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+log_box
+  rotate: false
+  xy: 2, 862
+  size: 642, 160
+  orig: 642, 160
+  offset: 0, 0
+  index: -1
+logout
+  rotate: false
+  xy: 970, 519
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+logout_break
+  rotate: false
+  xy: 970, 485
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+party_ivs_sp_def_label
+  rotate: false
+  xy: 601, 484
+  size: 36, 11
+  orig: 36, 11
+  offset: 0, 0
+  index: -1
+pie_menu_unmute
+  rotate: false
+  xy: 1005, 84
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+pokedex_close_button
+  rotate: false
+  xy: 628, 709
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pokedex_close_button_clicked
+  rotate: false
+  xy: 628, 691
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pokedex_close_button_hover
+  rotate: false
+  xy: 628, 673
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pokedex_dex
+  rotate: false
+  xy: 2, 457
+  size: 202, 38
+  orig: 202, 38
+  offset: 0, 0
+  index: -1
+pokedex_dex_checked
+  rotate: false
+  xy: 206, 457
+  size: 202, 38
+  orig: 202, 38
+  offset: 0, 0
+  index: -1
+scroll_hover
+  rotate: false
+  xy: 628, 610
+  size: 15, 43
+  orig: 15, 43
+  offset: 0, 0
+  index: -1
+server_status
+  rotate: false
+  xy: 410, 484
+  size: 132, 11
+  orig: 132, 11
+  offset: 0, 0
+  index: -1
+settings_graphics_icon
+  rotate: false
+  xy: 628, 655
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+settings_selectbox_list_back_hover
+  rotate: false
+  xy: 360, 497
+  size: 89, 15
+  orig: 89, 15
+  offset: 0, 0
+  index: -1
+speech_animation_arrow
+  rotate: false
+  xy: 544, 484
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+ss_confirm_button
+  rotate: false
+  xy: 811, 116
+  size: 210, 30
+  orig: 210, 30
+  offset: 0, 0
+  index: -1
+storage_box_bin_closed
+  rotate: false
+  xy: 972, 853
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+tc_journal_icon
+  rotate: false
+  xy: 628, 837
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+th_inputfield
+  rotate: false
+  xy: 451, 497
+  size: 89, 15
+  orig: 89, 15
+  offset: 0, 0
+  index: -1
+th_item_container_clicked
+  rotate: false
+  xy: 2, 784
+  size: 624, 76
+  orig: 624, 76
+  offset: 0, 0
+  index: -1
+th_item_container_donator_clicked
+  rotate: false
+  xy: 2, 706
+  size: 624, 76
+  orig: 624, 76
+  offset: 0, 0
+  index: -1
+th_item_container_donator_hover
+  rotate: false
+  xy: 2, 628
+  size: 624, 76
+  orig: 624, 76
+  offset: 0, 0
+  index: -1
+th_item_container_hover
+  rotate: false
+  xy: 2, 550
+  size: 624, 76
+  orig: 624, 76
+  offset: 0, 0
+  index: -1
+th_search_bar
+  rotate: false
+  xy: 410, 460
+  size: 558, 22
+  orig: 558, 22
+  offset: 0, 0
+  index: -1
+titlelist_icon
+  rotate: false
+  xy: 628, 789
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+trade_back
+  rotate: false
+  xy: 2, 5
+  size: 598, 450
+  orig: 598, 450
+  offset: 0, 0
+  index: -1
+waterTypeIcon
+  rotate: false
+  xy: 628, 541
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+
+ui7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+berries_hover
+  rotate: false
+  xy: 745, 442
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+channel_config_apply_button
+  rotate: false
+  xy: 964, 150
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1
+channel_config_apply_button_clicked
+  rotate: false
+  xy: 964, 129
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1
+channel_config_apply_button_hover
+  rotate: false
+  xy: 964, 108
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1
+chest_animation
+  rotate: false
+  xy: 522, 395
+  size: 473, 44
+  orig: 473, 44
+  offset: 0, 0
+  index: -1
+chest_clicked
+  rotate: false
+  xy: 964, 2
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+crew_back
+  rotate: false
+  xy: 522, 12
+  size: 440, 381
+  orig: 440, 381
+  offset: 0, 0
+  index: -1
+crew_skill_test_icon
+  rotate: false
+  xy: 995, 441
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dragonTypeIcon
+  rotate: false
+  xy: 997, 624
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+drop_priest
+  rotate: false
+  xy: 616, 441
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+exp_priest
+  rotate: false
+  xy: 659, 441
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+hover_back
+  rotate: false
+  xy: 616, 750
+  size: 404, 272
+  orig: 404, 272
+  offset: 0, 0
+  index: -1
+hover_ivs_title
+  rotate: false
+  xy: 1009, 35
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+items
+  rotate: false
+  xy: 702, 441
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+login_cancel_button_clicked
+  rotate: false
+  xy: 401, 2
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+normalTypeIcon
+  rotate: false
+  xy: 997, 404
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+party_tab
+  rotate: false
+  xy: 488, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+party_tab_clicked
+  rotate: false
+  xy: 995, 577
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+party_tab_hover
+  rotate: false
+  xy: 995, 548
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+party_ui_level
+  rotate: false
+  xy: 997, 427
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+pie_button
+  rotate: false
+  xy: 792, 442
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+pie_button_clicked
+  rotate: false
+  xy: 834, 442
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+rockTypeIcon
+  rotate: false
+  xy: 997, 606
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+settings_hover
+  rotate: false
+  xy: 876, 449
+  size: 117, 33
+  orig: 117, 33
+  offset: 0, 0
+  index: -1
+settings_tab_clicked
+  rotate: false
+  xy: 995, 519
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+settings_tab_hover
+  rotate: false
+  xy: 995, 490
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+ss_back
+  rotate: false
+  xy: 2, 441
+  size: 612, 581
+  orig: 612, 581
+  offset: 0, 0
+  index: -1
+storage_box_back
+  rotate: false
+  xy: 2, 31
+  size: 518, 408
+  orig: 518, 408
+  offset: 0, 0
+  index: -1
+storage_box_search_bar_back
+  rotate: false
+  xy: 2, 2
+  size: 397, 27
+  orig: 397, 27
+  offset: 0, 0
+  index: -1
+storage_box_search_button
+  rotate: false
+  xy: 995, 468
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+tc_bc_back
+  rotate: false
+  xy: 616, 484
+  size: 377, 264
+  orig: 377, 264
+  offset: 0, 0
+  index: -1
+th_price_coins_icon
+  rotate: false
+  xy: 997, 724
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+th_register_tab_icon
+  rotate: false
+  xy: 997, 698
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+th_time_left_icon
+  rotate: false
+  xy: 997, 672
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+th_user_icon
+  rotate: false
+  xy: 997, 646
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tinted_button
+  rotate: false
+  xy: 964, 88
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button
+  rotate: false
+  xy: 964, 68
+  size: 58, 18
+  split: 19, 19, 8, 6
+  pad: 0, 0, 0, 0
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button_checked
+  rotate: false
+  xy: 964, 48
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+trade_button
+  rotate: false
+  xy: 964, 339
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+trade_button_clicked
+  rotate: false
+  xy: 964, 283
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+trade_button_disabled
+  rotate: false
+  xy: 964, 227
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+trade_button_hover
+  rotate: false
+  xy: 964, 171
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+trade_x_button
+  rotate: false
+  xy: 1009, 22
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+trade_x_button_clicked
+  rotate: false
+  xy: 1009, 9
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+
+ui8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+animated_key
+  rotate: false
+  xy: 430, 9
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+bp_premium_icon
+  rotate: false
+  xy: 816, 699
+  size: 206, 142
+  orig: 206, 142
+  offset: 0, 0
+  index: -1
+channel_create_button
+  rotate: false
+  xy: 975, 562
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+channel_create_button_clicked
+  rotate: false
+  xy: 975, 541
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+channel_create_button_hover
+  rotate: false
+  xy: 975, 520
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+chat_back
+  rotate: false
+  xy: 602, 843
+  size: 411, 179
+  orig: 411, 179
+  offset: 0, 0
+  index: -1
+crew_edit_button
+  rotate: false
+  xy: 975, 500
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+crew_edit_button_clicked
+  rotate: false
+  xy: 975, 480
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+crew_edit_button_hover
+  rotate: false
+  xy: 975, 460
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+crew_history_button
+  rotate: false
+  xy: 954, 72
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+crew_history_button_clicked
+  rotate: false
+  xy: 954, 48
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+crew_history_button_hover
+  rotate: false
+  xy: 954, 24
+  size: 68, 22
+  orig: 68, 22
+  offset: 0, 0
+  index: -1
+crew_npc_pokemon_back
+  rotate: false
+  xy: 516, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+crew_npc_pokemon_clicked_back
+  rotate: false
+  xy: 561, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+crew_npc_pokemon_hover_back
+  rotate: false
+  xy: 606, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+empty_party_hud_button
+  rotate: false
+  xy: 816, 584
+  size: 157, 59
+  orig: 157, 59
+  offset: 0, 0
+  index: -1
+evolution_back
+  rotate: false
+  xy: 602, 572
+  size: 212, 269
+  orig: 212, 269
+  offset: 0, 0
+  index: -1
+fancy_cross
+  rotate: false
+  xy: 954, 266
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+fredoka_speech
+  rotate: false
+  xy: 2, 58
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+hover_evs_title
+  rotate: false
+  xy: 954, 253
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+hover_moves_title
+  rotate: false
+  xy: 814, 2
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+hover_stats_title
+  rotate: false
+  xy: 848, 2
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+item_box
+  rotate: false
+  xy: 971, 301
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+item_box_hover
+  rotate: false
+  xy: 971, 249
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+misc
+  rotate: false
+  xy: 975, 425
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+party_background_default
+  rotate: false
+  xy: 516, 47
+  size: 436, 235
+  orig: 436, 235
+  offset: 0, 0
+  index: -1
+party_exp_bar_tag_default
+  rotate: false
+  xy: 877, 2
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+party_hp_bar_tag_default
+  rotate: false
+  xy: 906, 2
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+party_ivs_sp_atk_label
+  rotate: false
+  xy: 741, 2
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+party_ivs_speed_label
+  rotate: false
+  xy: 778, 2
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+party_label_default
+  rotate: false
+  xy: 816, 645
+  size: 206, 22
+  orig: 206, 22
+  offset: 0, 0
+  index: -1
+raid_icon
+  rotate: false
+  xy: 975, 583
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+run
+  rotate: false
+  xy: 954, 198
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+run_clicked
+  rotate: false
+  xy: 954, 147
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+run_hover
+  rotate: false
+  xy: 954, 96
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+shuffle_icon
+  rotate: false
+  xy: 368, 2
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+speech_background
+  rotate: false
+  xy: 516, 425
+  size: 457, 145
+  orig: 457, 145
+  offset: 0, 0
+  index: -1
+speech_borders
+  rotate: false
+  xy: 516, 284
+  size: 453, 139
+  orig: 453, 139
+  offset: 0, 0
+  index: -1
+ss_confirm_button_clicked
+  rotate: false
+  xy: 741, 15
+  size: 210, 30
+  orig: 210, 30
+  offset: 0, 0
+  index: -1
+storage_box_bin
+  rotate: false
+  xy: 971, 353
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+switch_box
+  rotate: false
+  xy: 2, 2
+  size: 120, 54
+  orig: 120, 54
+  offset: 0, 0
+  index: -1
+switch_box_clicked
+  rotate: false
+  xy: 124, 2
+  size: 120, 54
+  orig: 120, 54
+  offset: 0, 0
+  index: -1
+switch_box_hover
+  rotate: false
+  xy: 246, 2
+  size: 120, 54
+  orig: 120, 54
+  offset: 0, 0
+  index: -1
+tc_playerPlatform_level_background
+  rotate: false
+  xy: 651, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+tc_playerPlatform_type_icon_background
+  rotate: false
+  xy: 696, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+th_expandable_sorting_bar
+  rotate: false
+  xy: 816, 669
+  size: 206, 28
+  orig: 206, 28
+  offset: 0, 0
+  index: -1
+trade_back_loading_back
+  rotate: false
+  xy: 2, 572
+  size: 598, 450
+  orig: 598, 450
+  offset: 0, 0
+  index: -1
+trade_x_button_hover
+  rotate: false
+  xy: 935, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+trainercard_playerPlatform
+  rotate: false
+  xy: 953, 2
+  size: 61, 20
+  orig: 61, 20
+  offset: 0, 0
+  index: -1
+
+ui9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+725
+  rotate: false
+  xy: 199, 4
+  size: 150, 157
+  orig: 150, 157
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 929, 152
+  size: 93, 53
+  orig: 93, 53
+  offset: 0, 0
+  index: -1
+bag_search_bar_button
+  rotate: false
+  xy: 929, 207
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+bank_button
+  rotate: false
+  xy: 508, 619
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 390, 5
+  size: 213, 218
+  orig: 213, 218
+  offset: 0, 0
+  index: -1
+battle_hover_window
+  rotate: false
+  xy: 577, 226
+  size: 383, 214
+  orig: 383, 214
+  offset: 0, 0
+  index: -1
+blue_button
+  rotate: false
+  xy: 967, 651
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+blue_button_clicked
+  rotate: false
+  xy: 967, 629
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+blue_button_hover
+  rotate: false
+  xy: 967, 607
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+box_top
+  rotate: false
+  xy: 199, 163
+  size: 189, 32
+  orig: 189, 32
+  offset: 0, 0
+  index: -1
+btn_default_normal
+  rotate: false
+  xy: 351, 15
+  size: 36, 72
+  split: 18, 17, 34, 37
+  pad: 16, 17, 10, 17
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+cancel_button
+  rotate: false
+  xy: 962, 267
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+cancel_button_clicked
+  rotate: false
+  xy: 962, 247
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+cancel_button_disabled
+  rotate: false
+  xy: 962, 227
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+cancel_button_hover
+  rotate: false
+  xy: 962, 207
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+chat_tab_back
+  rotate: false
+  xy: 579, 689
+  size: 387, 22
+  orig: 387, 22
+  offset: 0, 0
+  index: -1
+crew_category_lock_icon
+  rotate: false
+  xy: 929, 3
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+crew_member_offline
+  rotate: false
+  xy: 429, 643
+  size: 145, 27
+  orig: 145, 27
+  offset: 0, 0
+  index: -1
+crew_npc_management_back
+  rotate: false
+  xy: 579, 442
+  size: 386, 245
+  orig: 386, 245
+  offset: 0, 0
+  index: -1
+crew_skill_tree_back
+  rotate: false
+  xy: 2, 197
+  size: 386, 218
+  orig: 386, 218
+  offset: 0, 0
+  index: -1
+crew_storage_back
+  rotate: false
+  xy: 2, 417
+  size: 386, 236
+  orig: 386, 236
+  offset: 0, 0
+  index: -1
+donator_character_frame
+  rotate: false
+  xy: 441, 672
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1
+donator_exit_button
+  rotate: false
+  xy: 390, 618
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+donator_exit_button_clicked
+  rotate: false
+  xy: 351, 126
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+donator_exit_button_hover
+  rotate: false
+  xy: 351, 89
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+fancy_button_green_hover
+  rotate: false
+  xy: 962, 356
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+fancy_button_red
+  rotate: false
+  xy: 962, 333
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+fancy_button_red_clicked
+  rotate: false
+  xy: 962, 310
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+fancy_button_red_hover
+  rotate: false
+  xy: 962, 287
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+friend_add_button
+  rotate: false
+  xy: 929, 109
+  size: 92, 19
+  orig: 92, 19
+  offset: 0, 0
+  index: -1
+learn_move_clicked
+  rotate: false
+  xy: 967, 440
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+learn_move_speech_back
+  rotate: false
+  xy: 390, 225
+  size: 182, 44
+  orig: 182, 44
+  offset: 0, 0
+  index: -1
+party_ivs_box_default
+  rotate: false
+  xy: 2, 8
+  size: 195, 187
+  orig: 195, 187
+  offset: 0, 0
+  index: -1
+party_ivs_icon_default
+  rotate: false
+  xy: 351, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+pokedex_atk
+  rotate: false
+  xy: 968, 693
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+pokedex_def
+  rotate: false
+  xy: 968, 673
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+pokedex_hp
+  rotate: false
+  xy: 967, 521
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+pokedex_spatk
+  rotate: false
+  xy: 967, 501
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+pokedex_spdef
+  rotate: false
+  xy: 967, 481
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+pokedex_speed
+  rotate: false
+  xy: 967, 461
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+question_dialog
+  rotate: false
+  xy: 2, 655
+  size: 425, 118
+  orig: 425, 118
+  offset: 0, 0
+  index: -1
+red_button
+  rotate: false
+  xy: 967, 585
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+red_button_clicked
+  rotate: false
+  xy: 967, 563
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+red_button_hover
+  rotate: false
+  xy: 967, 541
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+settings_selectbox_background_hover
+  rotate: false
+  xy: 929, 130
+  size: 93, 20
+  orig: 93, 20
+  offset: 0, 0
+  index: -1
+sp_box
+  rotate: false
+  xy: 429, 618
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+sprite_box_back
+  rotate: false
+  xy: 605, 7
+  size: 322, 217
+  orig: 322, 217
+  offset: 0, 0
+  index: -1
+ss_starter_pokemon_case
+  rotate: false
+  xy: 2, 811
+  size: 575, 211
+  orig: 575, 211
+  offset: 0, 0
+  index: -1
+storage_box_blocked_icon
+  rotate: false
+  xy: 962, 379
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+tc_adventure_stats_box
+  rotate: false
+  xy: 390, 271
+  size: 184, 124
+  orig: 184, 124
+  offset: 0, 0
+  index: -1
+tc_back_self
+  rotate: false
+  xy: 579, 713
+  size: 438, 309
+  orig: 438, 309
+  offset: 0, 0
+  index: -1
+text_field
+  rotate: false
+  xy: 2, 775
+  size: 437, 34
+  orig: 437, 34
+  offset: 0, 0
+  index: -1
+th_item_container
+  rotate: false
+  xy: 390, 535
+  size: 186, 81
+  orig: 186, 81
+  offset: 0, 0
+  index: -1
+th_item_container_donator
+  rotate: false
+  xy: 390, 452
+  size: 186, 81
+  orig: 186, 81
+  offset: 0, 0
+  index: -1
+toast
+  rotate: false
+  xy: 390, 397
+  size: 185, 53
+  orig: 185, 53
+  offset: 0, 0
+  index: -1
+
+ui10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+387
+  rotate: false
+  xy: 2, 455
+  size: 117, 163
+  orig: 117, 163
+  offset: 0, 0
+  index: -1
+390
+  rotate: false
+  xy: 918, 300
+  size: 101, 169
+  orig: 101, 169
+  offset: 0, 0
+  index: -1
+393
+  rotate: false
+  xy: 304, 620
+  size: 94, 141
+  orig: 94, 141
+  offset: 0, 0
+  index: -1
+722
+  rotate: false
+  xy: 583, 300
+  size: 150, 101
+  orig: 150, 101
+  offset: 0, 0
+  index: -1
+Icon Time
+  rotate: false
+  xy: 632, 972
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+ach_leaderboard_label_bronze
+  rotate: false
+  xy: 2, 897
+  size: 290, 25
+  orig: 290, 25
+  offset: 0, 0
+  index: -1
+ach_leaderboard_label_gold
+  rotate: false
+  xy: 2, 870
+  size: 290, 25
+  orig: 290, 25
+  offset: 0, 0
+  index: -1
+ach_leaderboard_label_silver
+  rotate: false
+  xy: 2, 843
+  size: 290, 25
+  orig: 290, 25
+  offset: 0, 0
+  index: -1
+apply_cancel_button_back
+  rotate: false
+  xy: 593, 270
+  size: 140, 28
+  orig: 140, 28
+  offset: 0, 0
+  index: -1
+bag_category_button
+  rotate: false
+  xy: 864, 58
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+bag_quick_access_label
+  rotate: false
+  xy: 291, 791
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+bank_back
+  rotate: false
+  xy: 326, 763
+  size: 304, 229
+  orig: 304, 229
+  offset: 0, 0
+  index: -1
+bat_bag
+  rotate: false
+  xy: 297, 4
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+battle_hp_bar_panel
+  rotate: false
+  xy: 734, 199
+  size: 172, 33
+  orig: 172, 33
+  offset: 0, 0
+  index: -1
+battle_male
+  rotate: false
+  xy: 632, 936
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+bp_normal_claim_button_clicked
+  rotate: false
+  xy: 304, 300
+  size: 137, 25
+  orig: 137, 25
+  offset: 0, 0
+  index: -1
+bp_normal_claim_button_hover
+  rotate: false
+  xy: 443, 300
+  size: 137, 25
+  orig: 137, 25
+  offset: 0, 0
+  index: -1
+bug
+  rotate: false
+  xy: 968, 983
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+channel_join_button
+  rotate: false
+  xy: 2, 620
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+channel_join_button_clicked
+  rotate: false
+  xy: 51, 620
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+channel_list_label_private_icon
+  rotate: false
+  xy: 632, 952
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+channel_player_mute_button
+  rotate: false
+  xy: 100, 620
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+chest_disabled
+  rotate: false
+  xy: 577, 574
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+chest_hover
+  rotate: false
+  xy: 583, 403
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+control_button
+  rotate: false
+  xy: 593, 231
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+control_button_clicked
+  rotate: false
+  xy: 593, 192
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+control_button_hover
+  rotate: false
+  xy: 593, 153
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+crew_create_back
+  rotate: false
+  xy: 2, 924
+  size: 322, 98
+  orig: 322, 98
+  offset: 0, 0
+  index: -1
+crew_member_box
+  rotate: false
+  xy: 206, 55
+  size: 178, 243
+  orig: 178, 243
+  offset: 0, 0
+  index: -1
+crew_member_offline_clicked
+  rotate: false
+  xy: 484, 634
+  size: 145, 27
+  orig: 145, 27
+  offset: 0, 0
+  index: -1
+crew_member_tab_back
+  rotate: false
+  xy: 735, 359
+  size: 175, 46
+  orig: 175, 46
+  offset: 0, 0
+  index: -1
+crew_skill_button
+  rotate: false
+  xy: 918, 679
+  size: 104, 38
+  orig: 104, 38
+  offset: 0, 0
+  index: -1
+crew_skill_button_clicked
+  rotate: false
+  xy: 918, 639
+  size: 104, 38
+  orig: 104, 38
+  offset: 0, 0
+  index: -1
+crew_skill_button_hover
+  rotate: false
+  xy: 918, 599
+  size: 104, 38
+  orig: 104, 38
+  offset: 0, 0
+  index: -1
+crew_skill_locked_button
+  rotate: false
+  xy: 918, 559
+  size: 104, 38
+  orig: 104, 38
+  offset: 0, 0
+  index: -1
+crew_statistics_box
+  rotate: false
+  xy: 237, 460
+  size: 198, 110
+  orig: 198, 110
+  offset: 0, 0
+  index: -1
+dark
+  rotate: false
+  xy: 968, 963
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+donator_item_back
+  rotate: false
+  xy: 908, 58
+  size: 114, 148
+  orig: 114, 148
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 968, 943
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+electric
+  rotate: false
+  xy: 968, 923
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+enemy_pokemon_back
+  rotate: false
+  xy: 304, 572
+  size: 271, 46
+  orig: 271, 46
+  offset: 0, 0
+  index: -1
+evolution_text_back
+  rotate: false
+  xy: 152, 3
+  size: 143, 44
+  orig: 143, 44
+  offset: 0, 0
+  index: -1
+exp_bar_background
+  rotate: false
+  xy: 304, 327
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+fairy
+  rotate: false
+  xy: 968, 903
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+fighting
+  rotate: false
+  xy: 968, 883
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 968, 863
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+flying
+  rotate: false
+  xy: 968, 843
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+friend_label_blocked
+  rotate: false
+  xy: 2, 811
+  size: 287, 30
+  orig: 287, 30
+  offset: 0, 0
+  index: -1
+friend_label_offline
+  rotate: false
+  xy: 2, 779
+  size: 287, 30
+  orig: 287, 30
+  offset: 0, 0
+  index: -1
+friend_label_online
+  rotate: false
+  xy: 2, 747
+  size: 287, 30
+  orig: 287, 30
+  offset: 0, 0
+  index: -1
+friends_offline
+  rotate: false
+  xy: 632, 920
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+friends_online
+  rotate: false
+  xy: 632, 904
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 968, 823
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+graphics_button
+  rotate: false
+  xy: 593, 114
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+graphics_button_clicked
+  rotate: false
+  xy: 593, 75
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 968, 803
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 968, 783
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+hover_base_stats_title
+  rotate: false
+  xy: 1004, 4
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+hover_moves_box
+  rotate: false
+  xy: 437, 490
+  size: 192, 80
+  orig: 192, 80
+  offset: 0, 0
+  index: -1
+hover_pokemon_box
+  rotate: false
+  xy: 2, 300
+  size: 149, 153
+  orig: 149, 153
+  offset: 0, 0
+  index: -1
+hp_bar_overlap
+  rotate: false
+  xy: 734, 164
+  size: 172, 33
+  orig: 172, 33
+  offset: 0, 0
+  index: -1
+ice
+  rotate: false
+  xy: 968, 763
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+items_hover
+  rotate: false
+  xy: 968, 719
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+learn_move_button
+  rotate: false
+  xy: 910, 254
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+learn_move_button_checked
+  rotate: false
+  xy: 910, 208
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+learn_move_hover
+  rotate: false
+  xy: 968, 1003
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+login_back
+  rotate: false
+  xy: 632, 455
+  size: 284, 313
+  orig: 284, 313
+  offset: 0, 0
+  index: -1
+lv_trainer
+  rotate: false
+  xy: 2, 2
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+mantion
+  rotate: false
+  xy: 326, 994
+  size: 320, 28
+  orig: 320, 28
+  offset: 0, 0
+  index: -1
+mart_buy_button
+  rotate: false
+  xy: 918, 499
+  size: 104, 26
+  orig: 104, 26
+  offset: 0, 0
+  index: -1
+mart_buy_button_hover
+  rotate: false
+  xy: 918, 471
+  size: 104, 26
+  orig: 104, 26
+  offset: 0, 0
+  index: -1
+mart_total_box
+  rotate: false
+  xy: 918, 527
+  size: 104, 30
+  orig: 104, 30
+  offset: 0, 0
+  index: -1
+misc_clicked
+  rotate: false
+  xy: 864, 129
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+misc_hover
+  rotate: false
+  xy: 864, 94
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+party_close_button
+  rotate: false
+  xy: 294, 858
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+party_close_button_clicked
+  rotate: false
+  xy: 294, 826
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+party_evs_back_box_default
+  rotate: false
+  xy: 121, 572
+  size: 181, 173
+  orig: 181, 173
+  offset: 0, 0
+  index: -1
+party_evs_confirm_default
+  rotate: false
+  xy: 632, 890
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+party_evs_confirm_default_clicked
+  rotate: false
+  xy: 632, 876
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+party_evs_confirm_default_hover
+  rotate: false
+  xy: 632, 862
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+party_evs_icon_default
+  rotate: false
+  xy: 983, 3
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+party_icon
+  rotate: false
+  xy: 528, 4
+  size: 157, 59
+  orig: 157, 59
+  offset: 0, 0
+  index: -1
+party_iv_button_clicked
+  rotate: false
+  xy: 918, 719
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+party_pokemon_box_default
+  rotate: false
+  xy: 153, 300
+  size: 149, 153
+  orig: 149, 153
+  offset: 0, 0
+  index: -1
+party_stat_label_default
+  rotate: false
+  xy: 578, 620
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+pie_button_hover
+  rotate: false
+  xy: 400, 621
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+pokemon
+  rotate: false
+  xy: 2, 692
+  size: 117, 53
+  orig: 117, 53
+  offset: 0, 0
+  index: -1
+pokemon_box
+  rotate: false
+  xy: 52, 2
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+pokemon_box_hover
+  rotate: false
+  xy: 102, 2
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+pokemon_clicked
+  rotate: false
+  xy: 2, 637
+  size: 117, 53
+  orig: 117, 53
+  offset: 0, 0
+  index: -1
+pokemon_hover
+  rotate: false
+  xy: 864, 3
+  size: 117, 53
+  orig: 117, 53
+  offset: 0, 0
+  index: -1
+raid_bar
+  rotate: false
+  xy: 631, 431
+  size: 284, 22
+  orig: 284, 22
+  offset: 0, 0
+  index: -1
+raid_bar_ribbon
+  rotate: false
+  xy: 628, 407
+  size: 284, 22
+  orig: 284, 22
+  offset: 0, 0
+  index: -1
+rare_rarity
+  rotate: false
+  xy: 687, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+settings_background
+  rotate: false
+  xy: 648, 770
+  size: 318, 252
+  orig: 318, 252
+  offset: 0, 0
+  index: -1
+small_dialog_container
+  rotate: false
+  xy: 400, 3
+  size: 126, 60
+  split: 11, 12, 8, 12
+  pad: 0, 0, 0, 0
+  orig: 126, 60
+  offset: 0, 0
+  index: -1
+sprite_display_box_back
+  rotate: false
+  xy: 734, 2
+  size: 128, 160
+  orig: 128, 160
+  offset: 0, 0
+  index: -1
+storage_box_party_label
+  rotate: false
+  xy: 442, 621
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+storage_box_party_label_clicked
+  rotate: false
+  xy: 687, 33
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+tc_bio_background_box
+  rotate: false
+  xy: 400, 663
+  size: 228, 98
+  orig: 228, 98
+  offset: 0, 0
+  index: -1
+tc_current_sprite_items_back
+  rotate: false
+  xy: 437, 327
+  size: 144, 120
+  orig: 144, 120
+  offset: 0, 0
+  index: -1
+tc_customisation_inventory_back
+  rotate: false
+  xy: 386, 65
+  size: 205, 233
+  orig: 205, 233
+  offset: 0, 0
+  index: -1
+tc_party_box_back
+  rotate: false
+  xy: 121, 456
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+tc_party_box_level_label
+  rotate: false
+  xy: 484, 620
+  size: 92, 12
+  orig: 92, 12
+  offset: 0, 0
+  index: -1
+tc_pvp_stats_box
+  rotate: false
+  xy: 735, 234
+  size: 173, 123
+  orig: 173, 123
+  offset: 0, 0
+  index: -1
+tc_type_icon_dragon
+  rotate: false
+  xy: 983, 17
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+th_filter_box
+  rotate: false
+  xy: 2, 49
+  size: 202, 249
+  orig: 202, 249
+  offset: 0, 0
+  index: -1
+th_filter_button
+  rotate: false
+  xy: 291, 763
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+trade_add_money_back
+  rotate: false
+  xy: 437, 449
+  size: 192, 39
+  orig: 192, 39
+  offset: 0, 0
+  index: -1
+very_rare_rarity
+  rotate: false
+  xy: 294, 890
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+
+ui11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+728
+  rotate: false
+  xy: 654, 582
+  size: 150, 106
+  orig: 150, 106
+  offset: 0, 0
+  index: -1
+Day
+  rotate: false
+  xy: 603, 786
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Evening
+  rotate: false
+  xy: 603, 700
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Icon Map
+  rotate: false
+  xy: 925, 636
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+bar_box
+  rotate: false
+  xy: 906, 778
+  size: 116, 32
+  orig: 116, 32
+  offset: 0, 0
+  index: -1
+battle_attack
+  rotate: false
+  xy: 438, 509
+  size: 117, 44
+  orig: 117, 44
+  offset: 0, 0
+  index: -1
+boosts_tooltip
+  rotate: false
+  xy: 628, 34
+  size: 143, 88
+  orig: 143, 88
+  offset: 0, 0
+  index: -1
+bp_completed_check_icon
+  rotate: false
+  xy: 950, 394
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+bp_lock_icon
+  rotate: false
+  xy: 978, 978
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+bp_normal_area_icon
+  rotate: false
+  xy: 654, 478
+  size: 150, 102
+  orig: 150, 102
+  offset: 0, 0
+  index: -1
+bp_premium_area_icon
+  rotate: false
+  xy: 654, 372
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+bp_premium_claim_button
+  rotate: false
+  xy: 514, 2
+  size: 137, 25
+  orig: 137, 25
+  offset: 0, 0
+  index: -1
+bug_large
+  rotate: false
+  xy: 620, 373
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 959, 31
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+button_no
+  rotate: false
+  xy: 959, 5
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+category_summary
+  rotate: false
+  xy: 994, 948
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+channel_button
+  rotate: false
+  xy: 205, 647
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+channel_list_label
+  rotate: false
+  xy: 457, 872
+  size: 233, 71
+  orig: 233, 71
+  offset: 0, 0
+  index: -1
+channel_player_list_label
+  rotate: false
+  xy: 257, 869
+  size: 192, 17
+  orig: 192, 17
+  offset: 0, 0
+  index: -1
+channel_player_mute_button_clicked
+  rotate: false
+  xy: 926, 619
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+channel_search_bar
+  rotate: false
+  xy: 705, 944
+  size: 249, 30
+  orig: 249, 30
+  offset: 0, 0
+  index: -1
+chat_trade_pokemon_box
+  rotate: false
+  xy: 628, 248
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+crew
+  rotate: false
+  xy: 653, 2
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+crew_announcements_box
+  rotate: false
+  xy: 257, 888
+  size: 198, 134
+  orig: 198, 134
+  offset: 0, 0
+  index: -1
+crew_clicked
+  rotate: false
+  xy: 926, 711
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+crew_hover
+  rotate: false
+  xy: 926, 679
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+crew_information_box
+  rotate: false
+  xy: 2, 430
+  size: 190, 212
+  orig: 190, 212
+  offset: 0, 0
+  index: -1
+crew_pve_skill_icon
+  rotate: false
+  xy: 848, 795
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+crew_pvp_skill_icon
+  rotate: false
+  xy: 848, 754
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+dark_button_clicked
+  rotate: false
+  xy: 895, 699
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+dark_button_hover
+  rotate: false
+  xy: 895, 676
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+donator_arrow_left
+  rotate: false
+  xy: 996, 362
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+donator_arrow_right
+  rotate: false
+  xy: 996, 330
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+donator_item_back_clicked
+  rotate: false
+  xy: 371, 687
+  size: 114, 148
+  orig: 114, 148
+  offset: 0, 0
+  index: -1
+donator_item_back_hover
+  rotate: false
+  xy: 487, 722
+  size: 114, 148
+  orig: 114, 148
+  offset: 0, 0
+  index: -1
+donator_item_button
+  rotate: false
+  xy: 906, 812
+  size: 106, 130
+  orig: 106, 130
+  offset: 0, 0
+  index: -1
+donator_item_button_clicked
+  rotate: false
+  xy: 438, 555
+  size: 106, 130
+  orig: 106, 130
+  offset: 0, 0
+  index: -1
+donator_item_button_hover
+  rotate: false
+  xy: 546, 562
+  size: 106, 130
+  orig: 106, 130
+  offset: 0, 0
+  index: -1
+donator_topup_button
+  rotate: false
+  xy: 876, 237
+  size: 130, 44
+  orig: 130, 44
+  offset: 0, 0
+  index: -1
+drop_down_back
+  rotate: false
+  xy: 487, 694
+  size: 114, 26
+  orig: 114, 26
+  offset: 0, 0
+  index: -1
+edit_popup
+  rotate: false
+  xy: 692, 836
+  size: 212, 106
+  orig: 212, 106
+  offset: 0, 0
+  index: -1
+evolution_pokebox
+  rotate: false
+  xy: 628, 124
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+fight
+  rotate: false
+  xy: 875, 2
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+fish_comp_top_right_panel
+  rotate: false
+  xy: 620, 425
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+friend_tab
+  rotate: false
+  xy: 241, 644
+  size: 96, 33
+  orig: 96, 33
+  offset: 0, 0
+  index: -1
+friend_tab_checked
+  rotate: false
+  xy: 339, 644
+  size: 96, 33
+  orig: 96, 33
+  offset: 0, 0
+  index: -1
+friend_tab_hover
+  rotate: false
+  xy: 926, 743
+  size: 96, 33
+  orig: 96, 33
+  offset: 0, 0
+  index: -1
+friend_x_clicked
+  rotate: false
+  xy: 907, 609
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+friend_x_hover
+  rotate: false
+  xy: 907, 588
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+graphics_button_hover
+  rotate: false
+  xy: 246, 6
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+hover_stats_moves_back
+  rotate: false
+  xy: 2, 644
+  size: 201, 208
+  orig: 201, 208
+  offset: 0, 0
+  index: -1
+item_button
+  rotate: false
+  xy: 194, 450
+  size: 142, 57
+  orig: 142, 57
+  offset: 0, 0
+  index: -1
+item_button_hover
+  rotate: false
+  xy: 338, 450
+  size: 142, 57
+  orig: 142, 57
+  offset: 0, 0
+  index: -1
+learn_move_back
+  rotate: false
+  xy: 2, 854
+  size: 253, 168
+  orig: 253, 168
+  offset: 0, 0
+  index: -1
+learn_move_button_clicked
+  rotate: false
+  xy: 514, 29
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+left_button_hover
+  rotate: false
+  xy: 895, 630
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+login_dis
+  rotate: false
+  xy: 482, 471
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+login_hov
+  rotate: false
+  xy: 950, 619
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+lv
+  rotate: false
+  xy: 752, 248
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+map_name_board
+  rotate: false
+  xy: 689, 690
+  size: 152, 83
+  split: 50, 51, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 152, 83
+  offset: 0, 0
+  index: -1
+map_spawn_dialog
+  rotate: false
+  xy: 241, 679
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 194, 430
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+party_close_button_hover
+  rotate: false
+  xy: 894, 722
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+party_icon_hover
+  rotate: false
+  xy: 689, 775
+  size: 157, 59
+  orig: 157, 59
+  offset: 0, 0
+  index: -1
+party_iv_button_hover
+  rotate: false
+  xy: 857, 578
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+party_move_med_box_default
+  rotate: false
+  xy: 205, 671
+  size: 34, 181
+  orig: 34, 181
+  offset: 0, 0
+  index: -1
+party_summary_icon_default
+  rotate: false
+  xy: 907, 569
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+player_pokemon_back
+  rotate: false
+  xy: 705, 976
+  size: 271, 46
+  orig: 271, 46
+  offset: 0, 0
+  index: -1
+pokdex_pokemon_base
+  rotate: false
+  xy: 773, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pokedex_down_corner
+  rotate: false
+  xy: 557, 465
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+pokedex_pokemon_base
+  rotate: false
+  xy: 876, 283
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+pokemon_button
+  rotate: false
+  xy: 806, 390
+  size: 142, 57
+  orig: 142, 57
+  offset: 0, 0
+  index: -1
+pokemon_button_hover
+  rotate: false
+  xy: 872, 178
+  size: 142, 57
+  orig: 142, 57
+  offset: 0, 0
+  index: -1
+pokemon_indication_icon
+  rotate: false
+  xy: 996, 301
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+psychicTypeIcon
+  rotate: false
+  xy: 996, 283
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+scroll
+  rotate: false
+  xy: 857, 629
+  size: 36, 72
+  split: 18, 17, 34, 37
+  pad: 16, 17, 10, 17
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+sidebar_background
+  rotate: false
+  xy: 926, 449
+  size: 90, 72
+  split: 26, 23, 17, 17
+  pad: 0, 0, 0, 0
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+sidetab_icon
+  rotate: false
+  xy: 956, 944
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+sound_button
+  rotate: false
+  xy: 872, 139
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+sprite_field
+  rotate: false
+  xy: 926, 523
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1
+ss_confirm_button_hover
+  rotate: false
+  xy: 257, 837
+  size: 210, 30
+  orig: 210, 30
+  offset: 0, 0
+  index: -1
+ss_pokeball
+  rotate: false
+  xy: 2, 217
+  size: 120, 211
+  orig: 120, 211
+  offset: 0, 0
+  index: -1
+ss_pokeball_checked
+  rotate: false
+  xy: 2, 4
+  size: 120, 211
+  orig: 120, 211
+  offset: 0, 0
+  index: -1
+ss_pokeball_clicked
+  rotate: false
+  xy: 124, 217
+  size: 120, 211
+  orig: 120, 211
+  offset: 0, 0
+  index: -1
+ss_pokeball_hover
+  rotate: false
+  xy: 124, 4
+  size: 120, 211
+  orig: 120, 211
+  offset: 0, 0
+  index: -1
+storage_box_label
+  rotate: false
+  xy: 194, 509
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+storage_box_label_blocked
+  rotate: false
+  xy: 246, 315
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+storage_box_label_blocked_clicked
+  rotate: false
+  xy: 246, 180
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+storage_box_label_blocked_hover
+  rotate: false
+  xy: 246, 45
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+storage_box_label_clicked
+  rotate: false
+  xy: 316, 509
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+storage_box_label_hover
+  rotate: false
+  xy: 368, 315
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+tc_bc_dropdown_list_back
+  rotate: false
+  xy: 875, 57
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: -1
+tc_charactercustom
+  rotate: false
+  xy: 906, 758
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+tc_sprite_back_default
+  rotate: false
+  xy: 752, 128
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+th_back_button_clicked
+  rotate: false
+  xy: 620, 389
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+th_buy_button
+  rotate: false
+  xy: 926, 657
+  size: 96, 20
+  orig: 96, 20
+  offset: 0, 0
+  index: -1
+th_show_button
+  rotate: false
+  xy: 806, 372
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+tms_hms
+  rotate: false
+  xy: 988, 100
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+tms_hms_clicked
+  rotate: false
+  xy: 988, 61
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+touchpad_background
+  rotate: false
+  xy: 368, 185
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+touchpad_background_down
+  rotate: false
+  xy: 368, 55
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+touchpad_background_left
+  rotate: false
+  xy: 490, 335
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+touchpad_background_right
+  rotate: false
+  xy: 498, 205
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+touchpad_background_up
+  rotate: false
+  xy: 498, 75
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+touchpad_knob
+  rotate: false
+  xy: 843, 703
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+trade_cash_back_label
+  rotate: false
+  xy: 387, 7
+  size: 125, 46
+  orig: 125, 46
+  offset: 0, 0
+  index: -1
+trade_trainer_label_back
+  rotate: false
+  xy: 751, 2
+  size: 117, 22
+  orig: 117, 22
+  offset: 0, 0
+  index: -1
+trainercard_playerPlatform_backGround
+  rotate: false
+  xy: 806, 449
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+trp_buttons_back
+  rotate: false
+  xy: 806, 569
+  size: 49, 119
+  orig: 49, 119
+  offset: 0, 0
+  index: -1
+unknown
+  rotate: false
+  xy: 457, 945
+  size: 246, 77
+  orig: 246, 77
+  offset: 0, 0
+  index: -1
+
+ui12.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BASE_HP
+  rotate: false
+  xy: 456, 81
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+DEF
+  rotate: false
+  xy: 498, 81
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Layer6
+  rotate: false
+  xy: 2, 843
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1
+MAX_HP
+  rotate: false
+  xy: 540, 81
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Morning
+  rotate: false
+  xy: 2, 757
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Night
+  rotate: false
+  xy: 2, 671
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+SPEED
+  rotate: false
+  xy: 505, 556
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+SP_ATK
+  rotate: false
+  xy: 519, 461
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+SP_DEF
+  rotate: false
+  xy: 561, 462
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+achievement_side_panel_icon
+  rotate: false
+  xy: 165, 30
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+achievement_skills_back
+  rotate: false
+  xy: 247, 409
+  size: 82, 22
+  orig: 82, 22
+  offset: 0, 0
+  index: -1
+add_friend_quick_access
+  rotate: false
+  xy: 510, 577
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bag_category_button_checked
+  rotate: false
+  xy: 567, 426
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+bag_category_button_clicked
+  rotate: false
+  xy: 558, 657
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+bag_category_button_hover
+  rotate: false
+  xy: 708, 671
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+bag_customisation
+  rotate: false
+  xy: 783, 647
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bag_general
+  rotate: false
+  xy: 568, 191
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bag_label_hover
+  rotate: false
+  xy: 166, 284
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+bag_machines
+  rotate: false
+  xy: 590, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bag_medicine
+  rotate: false
+  xy: 590, 122
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bag_misc
+  rotate: false
+  xy: 624, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bag_pokeball
+  rotate: false
+  xy: 624, 122
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bag_search_bar_back
+  rotate: false
+  xy: 215, 735
+  size: 125, 19
+  orig: 125, 19
+  offset: 0, 0
+  index: -1
+bag_search_bar_button_clicked
+  rotate: false
+  xy: 535, 612
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+bag_search_bar_button_hover
+  rotate: false
+  xy: 547, 559
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+bank_button_clicked
+  rotate: false
+  xy: 397, 227
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+bank_button_hover
+  rotate: false
+  xy: 397, 203
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+bank_label
+  rotate: false
+  xy: 331, 456
+  size: 99, 24
+  orig: 99, 24
+  offset: 0, 0
+  index: -1
+banned_from_trade_icon
+  rotate: false
+  xy: 566, 392
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+bat_bag_clicked
+  rotate: false
+  xy: 479, 762
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+bat_bag_hover
+  rotate: false
+  xy: 319, 611
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+battle_attack_clicked
+  rotate: false
+  xy: 88, 697
+  size: 117, 44
+  orig: 117, 44
+  offset: 0, 0
+  index: -1
+battle_love
+  rotate: false
+  xy: 697, 707
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+battle_paralysis
+  rotate: false
+  xy: 708, 653
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+battle_poison
+  rotate: false
+  xy: 588, 280
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+battle_sleep
+  rotate: false
+  xy: 586, 262
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+battle_toxic
+  rotate: false
+  xy: 578, 104
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+bp_premium_claim_button_clicked
+  rotate: false
+  xy: 233, 939
+  size: 137, 25
+  orig: 137, 25
+  offset: 0, 0
+  index: -1
+bp_premium_claim_button_hover
+  rotate: false
+  xy: 372, 939
+  size: 137, 25
+  orig: 137, 25
+  offset: 0, 0
+  index: -1
+bug_comp_top_right_panel
+  rotate: false
+  xy: 582, 70
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button_no_hover
+  rotate: false
+  xy: 524, 5
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+button_yes
+  rotate: false
+  xy: 622, 753
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+button_yes_hover
+  rotate: false
+  xy: 687, 913
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+channel_button_clicked
+  rotate: false
+  xy: 557, 693
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+channel_button_hover
+  rotate: false
+  xy: 536, 631
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+channel_create_box_text_field
+  rotate: false
+  xy: 207, 668
+  size: 112, 19
+  orig: 112, 19
+  offset: 0, 0
+  index: -1
+channel_create_box_text_field_password
+  rotate: false
+  xy: 479, 741
+  size: 112, 19
+  orig: 112, 19
+  offset: 0, 0
+  index: -1
+channel_join_button_hover
+  rotate: false
+  xy: 560, 375
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+channel_notch
+  rotate: false
+  xy: 88, 669
+  size: 117, 26
+  orig: 117, 26
+  offset: 0, 0
+  index: -1
+channel_player_mute_button_hover
+  rotate: false
+  xy: 321, 718
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+channel_player_unmute_button
+  rotate: false
+  xy: 737, 276
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+channel_player_unmute_button_clicked
+  rotate: false
+  xy: 737, 259
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+channel_player_unmute_button_hover
+  rotate: false
+  xy: 609, 377
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+channel_search_tab_button
+  rotate: false
+  xy: 582, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+channel_search_tab_button_clicked
+  rotate: false
+  xy: 589, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+channel_search_tab_button_hover
+  rotate: false
+  xy: 616, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+channel_tab_button
+  rotate: false
+  xy: 616, 54
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+channel_tab_button_clicked
+  rotate: false
+  xy: 623, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+channel_tab_button_hover
+  rotate: false
+  xy: 544, 578
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+chat_panel
+  rotate: false
+  xy: 265, 2
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+chat_panel_down
+  rotate: false
+  xy: 672, 795
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+chat_panel_down_hover
+  rotate: false
+  xy: 837, 786
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+chat_panel_hover
+  rotate: false
+  xy: 737, 736
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+chat_panel_up
+  rotate: false
+  xy: 837, 755
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+chat_panel_up_hover
+  rotate: false
+  xy: 834, 724
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+chat_tab
+  rotate: false
+  xy: 324, 277
+  size: 83, 19
+  orig: 83, 19
+  offset: 0, 0
+  index: -1
+chat_tab_checked
+  rotate: false
+  xy: 312, 240
+  size: 83, 19
+  orig: 83, 19
+  offset: 0, 0
+  index: -1
+chat_tab_clicked
+  rotate: false
+  xy: 312, 219
+  size: 83, 19
+  orig: 83, 19
+  offset: 0, 0
+  index: -1
+chat_tab_hover
+  rotate: false
+  xy: 327, 298
+  size: 84, 19
+  orig: 84, 19
+  offset: 0, 0
+  index: -1
+chat_tag_default
+  rotate: false
+  xy: 393, 179
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+chat_tag_other
+  rotate: false
+  xy: 390, 105
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+chat_tag_private
+  rotate: false
+  xy: 385, 81
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+check
+  rotate: false
+  xy: 650, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 614, 829
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+close_clicked
+  rotate: false
+  xy: 796, 726
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+close_hover
+  rotate: false
+  xy: 561, 483
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+crew_invite_button
+  rotate: false
+  xy: 947, 926
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+crew_invite_button_clicked
+  rotate: false
+  xy: 312, 96
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+crew_invite_button_hover
+  rotate: false
+  xy: 403, 251
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+crew_leader_button
+  rotate: false
+  xy: 312, 170
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+crew_leader_button_clicked
+  rotate: false
+  xy: 312, 145
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+crew_leader_button_hover
+  rotate: false
+  xy: 312, 120
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+crew_logo_back
+  rotate: false
+  xy: 247, 592
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+crew_logo_back_clicked
+  rotate: false
+  xy: 166, 352
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+crew_logo_back_hover
+  rotate: false
+  xy: 247, 516
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+crew_member_capacity_bar_back
+  rotate: false
+  xy: 441, 674
+  size: 115, 17
+  orig: 115, 17
+  offset: 0, 0
+  index: -1
+crew_member_capacity_bar_ribbon
+  rotate: false
+  xy: 440, 655
+  size: 115, 17
+  orig: 115, 17
+  offset: 0, 0
+  index: -1
+crew_member_config_button
+  rotate: false
+  xy: 476, 251
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+crew_member_offline_hover
+  rotate: false
+  xy: 233, 995
+  size: 145, 27
+  orig: 145, 27
+  offset: 0, 0
+  index: -1
+crew_member_online
+  rotate: false
+  xy: 233, 966
+  size: 145, 27
+  orig: 145, 27
+  offset: 0, 0
+  index: -1
+crew_member_online_clicked
+  rotate: false
+  xy: 380, 995
+  size: 145, 27
+  orig: 145, 27
+  offset: 0, 0
+  index: -1
+crew_member_online_hover
+  rotate: false
+  xy: 380, 966
+  size: 145, 27
+  orig: 145, 27
+  offset: 0, 0
+  index: -1
+crew_special_skill_icon
+  rotate: false
+  xy: 686, 826
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+cw
+  rotate: false
+  xy: 650, 54
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+daily_objective_icon
+  rotate: false
+  xy: 657, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dark_large
+  rotate: false
+  xy: 500, 275
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+day_spawn_icon
+  rotate: false
+  xy: 814, 690
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+default_text_field_back
+  rotate: false
+  xy: 432, 422
+  size: 89, 14
+  orig: 89, 14
+  offset: 0, 0
+  index: -1
+discord
+  rotate: false
+  xy: 848, 690
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+donator_buy_button
+  rotate: false
+  xy: 247, 433
+  size: 82, 26
+  orig: 82, 26
+  offset: 0, 0
+  index: -1
+donator_buy_button_clicked
+  rotate: false
+  xy: 165, 2
+  size: 82, 26
+  orig: 82, 26
+  offset: 0, 0
+  index: -1
+donator_buy_button_hover
+  rotate: false
+  xy: 432, 438
+  size: 82, 26
+  orig: 82, 26
+  offset: 0, 0
+  index: -1
+donator_category_button
+  rotate: false
+  xy: 319, 519
+  size: 99, 35
+  orig: 99, 35
+  offset: 0, 0
+  index: -1
+donator_category_button_hover
+  rotate: false
+  xy: 331, 482
+  size: 99, 35
+  orig: 99, 35
+  offset: 0, 0
+  index: -1
+donator_category_button_selected
+  rotate: false
+  xy: 331, 419
+  size: 99, 35
+  orig: 99, 35
+  offset: 0, 0
+  index: -1
+donator_character_frame_stand
+  rotate: false
+  xy: 947, 950
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+donator_description_label
+  rotate: false
+  xy: 312, 195
+  size: 79, 22
+  orig: 79, 22
+  offset: 0, 0
+  index: -1
+donator_gem_back
+  rotate: false
+  xy: 511, 935
+  size: 136, 29
+  orig: 136, 29
+  offset: 0, 0
+  index: -1
+donator_money_box
+  rotate: false
+  xy: 92, 920
+  size: 135, 24
+  orig: 135, 24
+  offset: 0, 0
+  index: -1
+donator_price_box
+  rotate: false
+  xy: 444, 396
+  size: 78, 24
+  orig: 78, 24
+  offset: 0, 0
+  index: -1
+donator_quantity_box
+  rotate: false
+  xy: 528, 102
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+donator_tab
+  rotate: false
+  xy: 420, 524
+  size: 84, 30
+  orig: 84, 30
+  offset: 0, 0
+  index: -1
+donator_tab_clicked
+  rotate: false
+  xy: 238, 377
+  size: 84, 30
+  orig: 84, 30
+  offset: 0, 0
+  index: -1
+donator_tab_hover
+  rotate: false
+  xy: 238, 345
+  size: 84, 30
+  orig: 84, 30
+  offset: 0, 0
+  index: -1
+dragon_large
+  rotate: false
+  xy: 616, 38
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dynamax_top_right_panel
+  rotate: false
+  xy: 576, 528
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+electric_large
+  rotate: false
+  xy: 650, 38
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+fairy_large
+  rotate: false
+  xy: 885, 653
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+fight_clicked
+  rotate: false
+  xy: 319, 556
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+fight_hover
+  rotate: false
+  xy: 247, 461
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+fightingTypeIcon
+  rotate: false
+  xy: 661, 713
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+fighting_large
+  rotate: false
+  xy: 987, 652
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+fire_large
+  rotate: false
+  xy: 817, 640
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+fishing_spawn_icon
+  rotate: false
+  xy: 817, 656
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+flying_large
+  rotate: false
+  xy: 851, 640
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+friend_add
+  rotate: false
+  xy: 215, 30
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+friend_add_button_clicked
+  rotate: false
+  xy: 437, 375
+  size: 92, 19
+  orig: 92, 19
+  offset: 0, 0
+  index: -1
+friend_add_button_hover
+  rotate: false
+  xy: 426, 354
+  size: 92, 19
+  orig: 92, 19
+  offset: 0, 0
+  index: -1
+friend_block
+  rotate: false
+  xy: 265, 33
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+friend_block_button
+  rotate: false
+  xy: 426, 333
+  size: 92, 19
+  orig: 92, 19
+  offset: 0, 0
+  index: -1
+friend_block_button_clicked
+  rotate: false
+  xy: 414, 312
+  size: 92, 19
+  orig: 92, 19
+  offset: 0, 0
+  index: -1
+friend_block_button_hover
+  rotate: false
+  xy: 413, 291
+  size: 92, 19
+  orig: 92, 19
+  offset: 0, 0
+  index: -1
+friend_remove_button
+  rotate: false
+  xy: 649, 946
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+friends_side_panel_icon
+  rotate: false
+  xy: 315, 46
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+ghost_large
+  rotate: false
+  xy: 885, 637
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+grass_large
+  rotate: false
+  xy: 626, 286
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+grass_spawn_icon
+  rotate: false
+  xy: 851, 656
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+green_button
+  rotate: false
+  xy: 464, 179
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+green_button_clicked
+  rotate: false
+  xy: 515, 179
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+green_button_hover
+  rotate: false
+  xy: 516, 439
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+ground_large
+  rotate: false
+  xy: 625, 270
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+guild_side_panel_icon
+  rotate: false
+  xy: 390, 129
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 885, 669
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+help_top_right
+  rotate: false
+  xy: 919, 654
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+honey_spawn_icon
+  rotate: false
+  xy: 953, 654
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ice_large
+  rotate: false
+  xy: 705, 444
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+jvaloh_2
+  rotate: false
+  xy: 2, 589
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+jvaloh_3
+  rotate: false
+  xy: 2, 507
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+jvaloh_4
+  rotate: false
+  xy: 2, 425
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+jvaloh_5
+  rotate: false
+  xy: 2, 343
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+jvaloh_6
+  rotate: false
+  xy: 2, 261
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+jvaloh_7
+  rotate: false
+  xy: 2, 179
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+jvaloh_8
+  rotate: false
+  xy: 2, 97
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+leader_button
+  rotate: false
+  xy: 89, 839
+  size: 133, 31
+  orig: 133, 31
+  offset: 0, 0
+  index: -1
+leader_button_clicked
+  rotate: false
+  xy: 224, 832
+  size: 133, 31
+  orig: 133, 31
+  offset: 0, 0
+  index: -1
+leader_button_hover
+  rotate: false
+  xy: 359, 831
+  size: 133, 31
+  orig: 133, 31
+  offset: 0, 0
+  index: -1
+learn_move_button_hover
+  rotate: false
+  xy: 207, 689
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+login_cancel_button_disabled
+  rotate: false
+  xy: 225, 257
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+login_cancel_button_hover
+  rotate: false
+  xy: 225, 228
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+login_checkbox_clicked
+  rotate: false
+  xy: 996, 771
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+login_checkbox_hover
+  rotate: false
+  xy: 801, 377
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+login_checkbox_off
+  rotate: false
+  xy: 801, 360
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+login_checkbox_on
+  rotate: false
+  xy: 756, 276
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+login_login_button
+  rotate: false
+  xy: 225, 199
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+login_login_button_clicked
+  rotate: false
+  xy: 225, 170
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+login_login_button_disabled
+  rotate: false
+  xy: 225, 141
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+login_login_button_hover
+  rotate: false
+  xy: 225, 112
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+login_register_button
+  rotate: false
+  xy: 225, 83
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+login_register_button_clicked
+  rotate: false
+  xy: 327, 319
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+login_register_button_disabled
+  rotate: false
+  xy: 432, 495
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+login_register_button_hover
+  rotate: false
+  xy: 432, 466
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+luck_protection
+  rotate: false
+  xy: 987, 668
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+luck_protection_top_right_panel
+  rotate: false
+  xy: 919, 620
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mart_buy_button_clicked
+  rotate: false
+  xy: 403, 583
+  size: 105, 26
+  orig: 105, 26
+  offset: 0, 0
+  index: -1
+medicines
+  rotate: false
+  xy: 508, 291
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+medicines_clicked
+  rotate: false
+  xy: 520, 333
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+medicines_hover
+  rotate: false
+  xy: 649, 897
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+membership_top_right_panel
+  rotate: false
+  xy: 953, 620
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+night_spawn_icon
+  rotate: false
+  xy: 987, 618
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+no
+  rotate: false
+  xy: 752, 913
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+normal_large
+  rotate: false
+  xy: 739, 444
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+ok_dialog_ok_button
+  rotate: false
+  xy: 365, 54
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+ok_dialog_ok_button_clicked
+  rotate: false
+  xy: 365, 27
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+ok_dialog_ok_button_hover
+  rotate: false
+  xy: 461, 102
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+pale_button
+  rotate: false
+  xy: 578, 717
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+pale_button_clicked
+  rotate: false
+  xy: 603, 428
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+pale_button_hover
+  rotate: false
+  xy: 634, 428
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+party_evs_value_label_default
+  rotate: false
+  xy: 535, 261
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+party_item_box_default
+  rotate: false
+  xy: 324, 8
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_back_default
+  rotate: false
+  xy: 440, 129
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_ribbon_atk_default
+  rotate: false
+  xy: 432, 31
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_ribbon_base_hp_default
+  rotate: false
+  xy: 468, 201
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_ribbon_def_default
+  rotate: false
+  xy: 490, 129
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_ribbon_sp_atk_default
+  rotate: false
+  xy: 482, 31
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_ribbon_sp_def_default
+  rotate: false
+  xy: 518, 201
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_ribbon_speed_default
+  rotate: false
+  xy: 540, 129
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_void_left_slow_default
+  rotate: false
+  xy: 532, 31
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_void_right_medium_default
+  rotate: false
+  xy: 622, 779
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_ivs_eclipse_void_right_slower_default
+  rotate: false
+  xy: 744, 817
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+party_move_label_default
+  rotate: false
+  xy: 422, 633
+  size: 112, 20
+  orig: 112, 20
+  offset: 0, 0
+  index: -1
+party_move_label_physical
+  rotate: false
+  xy: 229, 902
+  size: 135, 35
+  orig: 135, 35
+  offset: 0, 0
+  index: -1
+party_move_label_physical_clicked
+  rotate: false
+  xy: 366, 902
+  size: 135, 35
+  orig: 135, 35
+  offset: 0, 0
+  index: -1
+party_move_label_physical_hover
+  rotate: false
+  xy: 503, 898
+  size: 135, 35
+  orig: 135, 35
+  offset: 0, 0
+  index: -1
+party_move_label_special
+  rotate: false
+  xy: 673, 939
+  size: 135, 35
+  orig: 135, 35
+  offset: 0, 0
+  index: -1
+party_move_label_special_clicked
+  rotate: false
+  xy: 810, 939
+  size: 135, 35
+  orig: 135, 35
+  offset: 0, 0
+  index: -1
+party_move_label_special_hover
+  rotate: false
+  xy: 224, 865
+  size: 135, 35
+  orig: 135, 35
+  offset: 0, 0
+  index: -1
+party_moves_icon_default
+  rotate: false
+  xy: 572, 637
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+party_tab_checked
+  rotate: false
+  xy: 434, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+party_type_icon_base_default
+  rotate: false
+  xy: 780, 681
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+pbo_logo
+  rotate: false
+  xy: 626, 302
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+physical_move_icon
+  rotate: false
+  xy: 773, 444
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+pie_menu_challenge_icon
+  rotate: false
+  xy: 636, 236
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pie_menu_cut
+  rotate: false
+  xy: 636, 202
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pie_menu_mood
+  rotate: false
+  xy: 591, 621
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pie_menu_mute
+  rotate: false
+  xy: 544, 524
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+pie_menu_random_battle_icon
+  rotate: false
+  xy: 625, 621
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pie_menu_rock_climb
+  rotate: false
+  xy: 659, 621
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pie_menu_rock_smash
+  rotate: false
+  xy: 693, 619
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pie_menu_strength
+  rotate: false
+  xy: 578, 587
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pie_menu_trade_button
+  rotate: false
+  xy: 612, 587
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pie_menu_trainer_card_icon
+  rotate: false
+  xy: 794, 817
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+pie_menu_waterfall
+  rotate: false
+  xy: 646, 587
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pie_menu_whisper_icon
+  rotate: false
+  xy: 578, 553
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+poison
+  rotate: false
+  xy: 682, 725
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+poison_large
+  rotate: false
+  xy: 671, 437
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+pokedex_abilities
+  rotate: false
+  xy: 462, 717
+  size: 114, 22
+  orig: 114, 22
+  offset: 0, 0
+  index: -1
+pokedex_abilities_checked
+  rotate: false
+  xy: 441, 693
+  size: 114, 22
+  orig: 114, 22
+  offset: 0, 0
+  index: -1
+pokedex_bar_back
+  rotate: false
+  xy: 494, 813
+  size: 116, 18
+  orig: 116, 18
+  offset: 0, 0
+  index: -1
+pokedex_moves
+  rotate: false
+  xy: 527, 995
+  size: 144, 27
+  orig: 144, 27
+  offset: 0, 0
+  index: -1
+pokedex_moves_checked
+  rotate: false
+  xy: 527, 966
+  size: 144, 27
+  orig: 144, 27
+  offset: 0, 0
+  index: -1
+pokedex_side_panel_icon
+  rotate: false
+  xy: 844, 817
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+psychic
+  rotate: false
+  xy: 934, 720
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+psychic_large
+  rotate: false
+  xy: 710, 394
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+quest_top_right_panel
+  rotate: false
+  xy: 612, 553
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ranked_side_panel_icon
+  rotate: false
+  xy: 894, 817
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+repel_top_right_panel
+  rotate: false
+  xy: 646, 553
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+right_button
+  rotate: false
+  xy: 994, 834
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+right_button_hover
+  rotate: false
+  xy: 994, 788
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 609, 713
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+rock_large
+  rotate: false
+  xy: 744, 394
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+server_offline
+  rotate: false
+  xy: 728, 293
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+server_online
+  rotate: false
+  xy: 768, 361
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+settings_selectbox_list_back
+  rotate: false
+  xy: 409, 275
+  size: 89, 14
+  orig: 89, 14
+  offset: 0, 0
+  index: -1
+settings_selectbox_list_back_clicked
+  rotate: false
+  xy: 312, 261
+  size: 89, 14
+  orig: 89, 14
+  offset: 0, 0
+  index: -1
+settings_tab
+  rotate: false
+  xy: 464, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+settings_tab_checked
+  rotate: false
+  xy: 494, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+side_panel_achivement_button
+  rotate: false
+  xy: 896, 767
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+side_panel_achivement_button_hover
+  rotate: false
+  xy: 582, 762
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+side_panel_friend_button
+  rotate: false
+  xy: 588, 298
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sidebar_hover_label
+  rotate: false
+  xy: 225, 286
+  size: 83, 30
+  split: 13, 13, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 83, 30
+  offset: 0, 0
+  index: -1
+sidetab_icon_checked
+  rotate: false
+  xy: 506, 524
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+sidetab_icon_clicked
+  rotate: false
+  xy: 896, 735
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+sidetab_icon_hover
+  rotate: false
+  xy: 745, 649
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+sinnoh_1
+  rotate: false
+  xy: 2, 15
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sinnoh_2
+  rotate: false
+  xy: 84, 587
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sinnoh_3
+  rotate: false
+  xy: 84, 505
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sinnoh_4
+  rotate: false
+  xy: 84, 423
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sinnoh_5
+  rotate: false
+  xy: 84, 341
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sinnoh_6
+  rotate: false
+  xy: 84, 259
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sinnoh_7
+  rotate: false
+  xy: 84, 177
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sinnoh_8
+  rotate: false
+  xy: 84, 95
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+sound_button_clicked
+  rotate: false
+  xy: 92, 985
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+sound_button_hover
+  rotate: false
+  xy: 92, 946
+  size: 139, 37
+  orig: 139, 37
+  offset: 0, 0
+  index: -1
+special_move_icon
+  rotate: false
+  xy: 778, 394
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+sprite_field_hover
+  rotate: false
+  xy: 2, 928
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1
+sprite_selection_button_left
+  rotate: false
+  xy: 817, 913
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+sprite_selection_button_left_clicked
+  rotate: false
+  xy: 882, 913
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+sprite_selection_button_left_hover
+  rotate: false
+  xy: 947, 900
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+sprite_selection_button_right
+  rotate: false
+  xy: 687, 887
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+sprite_selection_button_right_clicked
+  rotate: false
+  xy: 752, 887
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+sprite_selection_button_right_hover
+  rotate: false
+  xy: 817, 887
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+stat_bar_back
+  rotate: false
+  xy: 321, 662
+  size: 117, 17
+  orig: 117, 17
+  offset: 0, 0
+  index: -1
+status_move_icon
+  rotate: false
+  xy: 670, 197
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+steel
+  rotate: false
+  xy: 593, 693
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+steel_large
+  rotate: false
+  xy: 703, 276
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+storage_box_party_label_hover
+  rotate: false
+  xy: 546, 291
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+storage_box_search_button_clicked
+  rotate: false
+  xy: 593, 740
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+storage_box_search_button_hover
+  rotate: false
+  xy: 531, 375
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+strength
+  rotate: false
+  xy: 608, 519
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+surf_spawn_icon
+  rotate: false
+  xy: 642, 519
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tan_button
+  rotate: false
+  xy: 632, 337
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+tan_button_clicked
+  rotate: false
+  xy: 701, 494
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+tan_button_hover
+  rotate: false
+  xy: 732, 494
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+tc_bc_dropdown
+  rotate: false
+  xy: 422, 611
+  size: 111, 20
+  orig: 111, 20
+  offset: 0, 0
+  index: -1
+tc_bc_dropdown_checked
+  rotate: false
+  xy: 331, 397
+  size: 111, 20
+  orig: 111, 20
+  offset: 0, 0
+  index: -1
+tc_bc_dropdown_hover
+  rotate: false
+  xy: 324, 375
+  size: 111, 20
+  orig: 111, 20
+  offset: 0, 0
+  index: -1
+tc_inventory_label
+  rotate: false
+  xy: 166, 216
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+tc_inventory_label_clicked
+  rotate: false
+  xy: 166, 148
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+tc_inventory_label_hover
+  rotate: false
+  xy: 166, 80
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+tc_selected_tab_icon_back
+  rotate: false
+  xy: 893, 703
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+tc_tab_icon_back
+  rotate: false
+  xy: 931, 688
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+th_back_button
+  rotate: false
+  xy: 599, 485
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_back_button_hover
+  rotate: false
+  xy: 652, 833
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+th_buy_button_clicked
+  rotate: false
+  xy: 361, 864
+  size: 130, 36
+  orig: 130, 36
+  offset: 0, 0
+  index: -1
+th_buy_button_hover
+  rotate: false
+  xy: 215, 794
+  size: 130, 36
+  orig: 130, 36
+  offset: 0, 0
+  index: -1
+th_buy_tab
+  rotate: false
+  xy: 633, 485
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_buy_tab_clicked
+  rotate: false
+  xy: 603, 451
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_buy_tab_hover
+  rotate: false
+  xy: 637, 451
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_collect_tab
+  rotate: false
+  xy: 680, 585
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_collect_tab_clicked
+  rotate: false
+  xy: 680, 551
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_collect_tab_hover
+  rotate: false
+  xy: 676, 517
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_common_button
+  rotate: false
+  xy: 215, 756
+  size: 130, 36
+  orig: 130, 36
+  offset: 0, 0
+  index: -1
+th_common_button_clicked
+  rotate: false
+  xy: 347, 793
+  size: 130, 36
+  orig: 130, 36
+  offset: 0, 0
+  index: -1
+th_common_button_hover
+  rotate: false
+  xy: 347, 755
+  size: 130, 36
+  orig: 130, 36
+  offset: 0, 0
+  index: -1
+th_details_icon
+  rotate: false
+  xy: 519, 482
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+th_dropdown_back
+  rotate: false
+  xy: 493, 870
+  size: 118, 26
+  orig: 118, 26
+  offset: 0, 0
+  index: -1
+th_filter_button_clicked
+  rotate: false
+  xy: 613, 870
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+th_filter_button_hover
+  rotate: false
+  xy: 652, 869
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+th_next_button
+  rotate: false
+  xy: 671, 453
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_next_button_clicked
+  rotate: false
+  xy: 568, 225
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+th_next_button_disabled
+  rotate: false
+  xy: 602, 226
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+th_next_button_hover
+  rotate: false
+  xy: 602, 190
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+th_register_icon
+  rotate: false
+  xy: 524, 397
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+th_register_tab
+  rotate: false
+  xy: 608, 394
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_register_tab_clicked
+  rotate: false
+  xy: 642, 394
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_register_tab_hover
+  rotate: false
+  xy: 632, 360
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_remove_button
+  rotate: false
+  xy: 558, 336
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+th_selected_tab_hover
+  rotate: false
+  xy: 714, 585
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+th_show_button_clicked
+  rotate: false
+  xy: 365, 9
+  size: 67, 16
+  orig: 67, 16
+  offset: 0, 0
+  index: -1
+tinted_button_checked
+  rotate: false
+  xy: 947, 880
+  size: 58, 18
+  split: 19, 19, 8, 6
+  pad: 0, 0, 0, 0
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button_clicked
+  rotate: false
+  xy: 687, 867
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button_clicked
+  rotate: false
+  xy: 747, 867
+  size: 58, 18
+  split: 19, 19, 8, 6
+  pad: 0, 0, 0, 0
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button_hover
+  rotate: false
+  xy: 807, 867
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button_hover
+  rotate: false
+  xy: 867, 867
+  size: 58, 18
+  split: 19, 19, 6, 6
+  pad: 0, 0, 0, 0
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button_patch
+  rotate: false
+  xy: 936, 760
+  size: 58, 18
+  split: 19, 19, 8, 6
+  pad: 0, 0, 0, 0
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button_patch_checked
+  rotate: false
+  xy: 622, 733
+  size: 58, 18
+  split: 19, 19, 8, 6
+  pad: 0, 0, 0, 0
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button_patch_clicked
+  rotate: false
+  xy: 734, 716
+  size: 58, 18
+  split: 19, 19, 8, 6
+  pad: 0, 0, 0, 0
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tinted_button_patch_hover
+  rotate: false
+  xy: 934, 740
+  size: 58, 18
+  split: 19, 19, 6, 6
+  pad: 0, 0, 0, 0
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+tms_hms_hover
+  rotate: false
+  xy: 596, 336
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+tooltip_blue
+  rotate: false
+  xy: 986, 702
+  size: 36, 36
+  split: 12, 12, 12, 12
+  pad: 0, 0, 0, 0
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+tooltip_green
+  rotate: false
+  xy: 594, 655
+  size: 36, 36
+  split: 12, 12, 12, 12
+  pad: 0, 0, 0, 0
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+tooltip_red
+  rotate: false
+  xy: 632, 655
+  size: 36, 36
+  split: 12, 12, 12, 12
+  pad: 0, 0, 0, 0
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+tooltip_yellow
+  rotate: false
+  xy: 670, 655
+  size: 36, 36
+  split: 12, 12, 12, 12
+  pad: 0, 0, 0, 0
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+top_right_bt_leaderboard
+  rotate: false
+  xy: 714, 551
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+top_right_event_icon
+  rotate: false
+  xy: 710, 517
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+top_right_exp_boost
+  rotate: false
+  xy: 705, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+top_right_lure_icon
+  rotate: false
+  xy: 666, 360
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+top_right_swarm_icon
+  rotate: false
+  xy: 663, 326
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+top_up_button
+  rotate: false
+  xy: 494, 833
+  size: 118, 35
+  orig: 118, 35
+  offset: 0, 0
+  index: -1
+top_up_button_clicked
+  rotate: false
+  xy: 342, 718
+  size: 118, 35
+  orig: 118, 35
+  offset: 0, 0
+  index: -1
+top_up_button_hover
+  rotate: false
+  xy: 321, 681
+  size: 118, 35
+  orig: 118, 35
+  offset: 0, 0
+  index: -1
+tracker_top_right_panel
+  rotate: false
+  xy: 660, 292
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_add_item_button
+  rotate: false
+  xy: 739, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_add_item_button_clicked
+  rotate: false
+  xy: 744, 517
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_add_item_button_hover
+  rotate: false
+  xy: 773, 460
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_add_money_button
+  rotate: false
+  xy: 676, 403
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_add_money_button_clicked
+  rotate: false
+  xy: 710, 410
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_add_money_button_hover
+  rotate: false
+  xy: 744, 410
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_add_pokemon_button
+  rotate: false
+  xy: 778, 410
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_add_pokemon_button_clicked
+  rotate: false
+  xy: 700, 360
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_add_pokemon_button_hover
+  rotate: false
+  xy: 697, 326
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trade_cash_back_label_locked
+  rotate: false
+  xy: 673, 976
+  size: 125, 46
+  orig: 125, 46
+  offset: 0, 0
+  index: -1
+trade_item_back_label
+  rotate: false
+  xy: 800, 976
+  size: 125, 46
+  orig: 125, 46
+  offset: 0, 0
+  index: -1
+trade_item_back_label_locked
+  rotate: false
+  xy: 89, 872
+  size: 125, 46
+  orig: 125, 46
+  offset: 0, 0
+  index: -1
+trade_pokemon_back_label
+  rotate: false
+  xy: 88, 791
+  size: 125, 46
+  orig: 125, 46
+  offset: 0, 0
+  index: -1
+trade_pokemon_back_label_locked
+  rotate: false
+  xy: 88, 743
+  size: 125, 46
+  orig: 125, 46
+  offset: 0, 0
+  index: -1
+trade_side_panel_icon
+  rotate: false
+  xy: 944, 830
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+trainer_card_side_panel_icon
+  rotate: false
+  xy: 944, 780
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+trainer_reconfig_icon
+  rotate: false
+  xy: 994, 740
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+travel_button
+  rotate: false
+  xy: 403, 556
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+travel_button_clicked
+  rotate: false
+  xy: 324, 348
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+travel_button_hover
+  rotate: false
+  xy: 225, 318
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+trophy_48
+  rotate: false
+  xy: 687, 745
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+trp_clock_day_back
+  rotate: false
+  xy: 84, 15
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+trp_clock_evening_back
+  rotate: false
+  xy: 166, 588
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+trp_clock_morning_back
+  rotate: false
+  xy: 166, 508
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+trp_clock_night_back
+  rotate: false
+  xy: 166, 428
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+trp_collapse_icon
+  rotate: false
+  xy: 694, 292
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trp_icon_donator_back
+  rotate: false
+  xy: 670, 259
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+trp_icon_gamepass_back
+  rotate: false
+  xy: 667, 487
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+trp_icon_map_back
+  rotate: false
+  xy: 744, 681
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+trp_icon_settings_back
+  rotate: false
+  xy: 734, 360
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trp_icons_back
+  rotate: false
+  xy: 927, 978
+  size: 94, 44
+  split: 38, 25, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 94, 44
+  offset: 0, 0
+  index: -1
+ultra_rare_rarity
+  rotate: false
+  xy: 731, 326
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 645, 693
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+water_large
+  rotate: false
+  xy: 703, 260
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+white_button
+  rotate: false
+  xy: 763, 494
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+white_button_clicked
+  rotate: false
+  xy: 670, 236
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+white_button_hover
+  rotate: false
+  xy: 670, 213
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+world_map_button
+  rotate: false
+  xy: 737, 767
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+world_map_button_hover
+  rotate: false
+  xy: 787, 767
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+yes
+  rotate: false
+  xy: 882, 887
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1

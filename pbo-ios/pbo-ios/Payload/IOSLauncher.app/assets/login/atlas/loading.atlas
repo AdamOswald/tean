@@ -1,0 +1,244 @@
+
+loading.png
+size: 2048,512
+format: RGBA8888
+filter: MipMap,Nearest
+repeat: none
+camera
+  rotate: false
+  xy: 234, 71
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+chamunda
+  rotate: false
+  xy: 608, 120
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+en
+  rotate: false
+  xy: 674, 120
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fancy_button_green
+  rotate: false
+  xy: 1368, 85
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+fancy_button_green_clicked
+  rotate: false
+  xy: 2, 16
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+fancy_button_green_hover
+  rotate: false
+  xy: 132, 44
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+fancy_tick
+  rotate: false
+  xy: 608, 102
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+fishing-rod
+  rotate: false
+  xy: 516, 12
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+halloween_chest_1
+  rotate: false
+  xy: 1470, 118
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+halloween_chest_2
+  rotate: false
+  xy: 332, 77
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+halloween_chest_3
+  rotate: false
+  xy: 424, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+halloween_chest_4
+  rotate: false
+  xy: 424, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+haunter1
+  rotate: false
+  xy: 2, 186
+  size: 192, 291
+  orig: 192, 291
+  offset: 0, 0
+  index: -1
+haunter2
+  rotate: false
+  xy: 196, 186
+  size: 192, 291
+  orig: 192, 291
+  offset: 0, 0
+  index: -1
+haunter3
+  rotate: false
+  xy: 390, 186
+  size: 192, 291
+  orig: 192, 291
+  offset: 0, 0
+  index: -1
+haunter4
+  rotate: false
+  xy: 584, 186
+  size: 192, 291
+  orig: 192, 291
+  offset: 0, 0
+  index: -1
+haunter5
+  rotate: false
+  xy: 778, 186
+  size: 192, 291
+  orig: 192, 291
+  offset: 0, 0
+  index: -1
+haunter6
+  rotate: false
+  xy: 972, 186
+  size: 192, 291
+  orig: 192, 291
+  offset: 0, 0
+  index: -1
+joltik
+  rotate: false
+  xy: 2, 479
+  size: 1833, 31
+  orig: 1833, 31
+  offset: 0, 0
+  index: -1
+knob_sprite
+  rotate: false
+  xy: 1368, 210
+  size: 192, 48
+  orig: 192, 48
+  offset: 0, 0
+  index: -1
+loading_bar
+  rotate: false
+  xy: 2, 169
+  size: 420, 15
+  orig: 420, 15
+  offset: 0, 0
+  index: -1
+loading_bar_completed
+  rotate: false
+  xy: 1166, 462
+  size: 420, 15
+  orig: 420, 15
+  offset: 0, 0
+  index: -1
+lure
+  rotate: false
+  xy: 516, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+megac
+  rotate: false
+  xy: 1166, 260
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+megav
+  rotate: false
+  xy: 1368, 260
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+megaw
+  rotate: false
+  xy: 1166, 58
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+party_evs_slider_back_default
+  rotate: false
+  xy: 1837, 505
+  size: 105, 5
+  orig: 105, 5
+  offset: 0, 0
+  index: -1
+party_evs_slider_ribbon_default
+  rotate: false
+  xy: 1588, 472
+  size: 105, 5
+  orig: 105, 5
+  offset: 0, 0
+  index: -1
+pokeball
+  rotate: false
+  xy: 132, 67
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pokedex
+  rotate: false
+  xy: 2, 39
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pt
+  rotate: false
+  xy: 740, 120
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+quick-assign
+  rotate: false
+  xy: 1368, 108
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+soul_shard
+  rotate: false
+  xy: 872, 152
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+zh
+  rotate: false
+  xy: 806, 120
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
