@@ -1,0 +1,11 @@
+ID,Title,Title (pt),Title (zh),Description,Description (pt),Description (zh),Reward,Reward (zh),Reward (pt)
+1,Slayer,Slayer,击杀,Faint %s Pokemon,Faint %s Pokemon,击杀 %s 宝可梦,3 Starter Balls,3个新手球,3 Starter Balls
+2,Battler,Battler,NPC战斗,Defeat %s NPCs,Defeat %s NPC,打败 %s NPCs,1 Revive,1个复活药,1 Revive
+3,Catcher,Catcher,捕捉,Catch %s Pokemon,Catch %s Pokemon,捕捉 %s 宝可梦,1 Ultra Ball,1个高级球,1 Ultra Ball
+4,Care Taker,Care Taker,看护,Level up %s Pokemon,Level up %s Pokemon,升级 %s 宝可梦,200 F,200f,200 F
+5,Businessperson,Businessperson,商人,Place %s Pokemon/Item in Trade House,Place %s Pokemon/Item in Trade House,放置 %s 宝可梦/道具在交易行,1 Max Repel,1个黄金喷雾,1 Max Repel
+6,Investor,Investor,投资,Buy %s Pokemon/Item from Trade House,Buy %s Pokemon/Item from Trade House,从交易行买 %s 宝可梦、道具,1 Full Heal,1个万灵药,1 Full Heal
+7,Runner,Runner,逃跑,Run from %s Wild Pokemon,Run from %s Wild Pokemon,从 %s 野生宝可梦中逃跑,1 Super Repel,1个白银喷雾,1 Super Repel
+8,Brawler,Brawler,排位打斗,Complete %s ranked battles,Complete %s ranked battles,完成 %s 排位赛,2 Ranked Battle Tokens,2个排位币,2 Ranked Battle Tokens
+9,Smart Brawler,Smart Brawler,明智的排位,Win %s ranked battles,Win %s ranked battles,赢得 %s 排位赛,10 Ranked Battle Tokens,10个排位币,10 Ranked Battle Tokens
+10,Tough Brawler,Tough Brawler,艰难的排位,Achieve a win streak of %s in Ranked Battles,Achieve a win streak of %s in Ranked Battles,在排位赛中连续赢得 %s 场战斗,5 Ranked Battle Tokens,5个排位币,5 Ranked Battle Tokens
